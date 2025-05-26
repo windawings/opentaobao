@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTraceplatformAwdcInfoUploadAPIResponse AWDC提交溯源信息 API返回值

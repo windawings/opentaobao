@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCrmMemberGroupGetAPIRequest 获取买家身上的标签 API请求

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaInsightWordspricedataGetAPIRequest 关键词按竞价区间的分布数据 API请求

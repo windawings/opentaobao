@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoXhotelIntlRateUpdateAPIRequest 不落库商家推送更新酒店rate API请求

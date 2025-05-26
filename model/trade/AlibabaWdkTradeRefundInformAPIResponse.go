@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkTradeRefundInformAPIResponse 外部渠道通知淘鲜达退款成功接口 API返回值

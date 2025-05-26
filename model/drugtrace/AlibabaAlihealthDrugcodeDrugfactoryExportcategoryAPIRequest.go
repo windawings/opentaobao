@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugcodeDrugfactoryExportcategoryAPIRequest 导出临床药品目录 API请求

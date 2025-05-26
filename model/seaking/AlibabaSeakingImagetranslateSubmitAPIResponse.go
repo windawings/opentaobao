@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSeakingImagetranslateSubmitAPIResponse 提交图片翻译任务 API返回值

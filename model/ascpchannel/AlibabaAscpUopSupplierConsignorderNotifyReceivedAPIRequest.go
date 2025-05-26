@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpUopSupplierConsignorderNotifyReceivedAPIRequest 商家仓物流发货推单接单回告 API请求

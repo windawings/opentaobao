@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaNlifeB2cTradestatusDriveAPIRequest b2c订单状态驱动 API请求

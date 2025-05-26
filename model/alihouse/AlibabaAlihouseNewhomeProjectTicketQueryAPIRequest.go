@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihouseNewhomeProjectTicketQueryAPIRequest 根据商品id查询核销卷信息 API请求

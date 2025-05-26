@@ -3,8 +3,8 @@ package aliospay
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliospay"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliospay"
 )
 
 // AliyunAliosPayPeriodAgreementStatusGet 查询周期扣款签约状态

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstTradeSellerOfflineOrderUploadAPIResponse 供应商-线下订单-导入接口 API返回值

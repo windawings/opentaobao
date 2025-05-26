@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripDaytoursProductUploadAPIResponse 境外一日游/多日游 产品维护接口 API返回值

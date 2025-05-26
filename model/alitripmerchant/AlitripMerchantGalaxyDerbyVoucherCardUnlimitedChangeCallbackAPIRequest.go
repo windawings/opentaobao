@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyDerbyVoucherCardUnlimitedChangeCallbackAPIRequest 德比无限次券核销通知接口 API请求

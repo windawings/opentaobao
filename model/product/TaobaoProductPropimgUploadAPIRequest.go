@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoProductPropimgUploadAPIRequest 上传单张产品属性图片，如果需要传多张，可调多次 API请求

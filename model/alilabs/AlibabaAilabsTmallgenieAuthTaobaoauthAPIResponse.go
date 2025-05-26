@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAilabsTmallgenieAuthTaobaoauthAPIResponse 天猫精灵淘宝登录授权绑定接口 API返回值

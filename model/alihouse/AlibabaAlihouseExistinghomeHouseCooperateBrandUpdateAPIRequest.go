@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihouseExistinghomeHouseCooperateBrandUpdateAPIRequest 租房合作品牌更新接口 API请求

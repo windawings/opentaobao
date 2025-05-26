@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthTracecodesearchGetshowurlVivoAPIResponse 获取药品扫码落地页vivo API返回值

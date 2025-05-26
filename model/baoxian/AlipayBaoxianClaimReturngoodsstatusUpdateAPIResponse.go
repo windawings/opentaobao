@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlipayBaoxianClaimReturngoodsstatusUpdateAPIResponse 更新理赔单退货货物状态 API返回值

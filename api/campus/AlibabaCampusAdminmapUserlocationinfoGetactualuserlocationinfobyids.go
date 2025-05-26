@@ -3,8 +3,8 @@ package campus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/campus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/campus"
 )
 
 // AlibabaCampusAdminmapUserlocationinfoGetactualuserlocationinfobyids 根据userId(支持单个或批量)获取用户实时位置信息

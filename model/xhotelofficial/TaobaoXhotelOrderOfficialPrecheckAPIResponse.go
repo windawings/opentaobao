@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoXhotelOrderOfficialPrecheckAPIResponse 官网信用住用户资格预校验接口 API返回值

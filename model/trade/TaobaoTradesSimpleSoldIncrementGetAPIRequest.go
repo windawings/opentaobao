@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTradesSimpleSoldIncrementGetAPIRequest 查询卖家已卖出的增量交易简易数据（根据修改时间） API请求

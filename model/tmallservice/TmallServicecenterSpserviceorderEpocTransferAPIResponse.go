@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterSpserviceorderEpocTransferAPIResponse 电子保单受保人转移 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCloudprintCustomaresGetAPIRequest 获取商家的自定义区模板信息 API请求

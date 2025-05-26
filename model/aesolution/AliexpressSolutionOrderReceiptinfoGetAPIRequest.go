@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressSolutionOrderReceiptinfoGetAPIRequest Get Order Receipt Info API请求

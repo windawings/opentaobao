@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSecurityJaqRpSubmitAPIRequest 聚安全实人认证提交认证接口 API请求

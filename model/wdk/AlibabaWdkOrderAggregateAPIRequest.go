@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkOrderAggregateAPIRequest 淘鲜达订单按门店机台号聚合查询 API请求

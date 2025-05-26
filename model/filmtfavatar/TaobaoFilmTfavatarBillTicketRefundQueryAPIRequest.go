@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFilmTfavatarBillTicketRefundQueryAPIRequest 获取影院票务账单-退款账单 API请求

@@ -3,8 +3,8 @@ package maitix
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/maitix"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/maitix"
 )
 
 // AlibabaDamaiMaitixDistributionDeliveryCalculate 计算渠道用户下单快递费

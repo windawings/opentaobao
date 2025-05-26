@@ -3,8 +3,8 @@ package simba
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/simba"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/simba"
 )
 
 // TaobaoSubwayCampaignOfflineFind 查询某计划离线多日汇总列表

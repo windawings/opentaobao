@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyMemberRegisterAPIRequest 星河-微信小程序会员注册 API请求

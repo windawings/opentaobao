@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripOpenSupplychainHotelTradeAPIRequest 【商旅】酒店交易查询流水接口 API请求

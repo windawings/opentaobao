@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCloudgameInteractiveGameGamepadGetAPIRequest 获取虚拟手柄配置 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripFlightDistributionRefundPrecalAPIResponse 商旅机票分销-退票费预计算 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAliautoTradeCarEticketAvailableCheckAPIRequest 天猫汽车电子凭证核销前校验 API请求

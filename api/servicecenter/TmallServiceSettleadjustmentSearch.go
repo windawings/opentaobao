@@ -3,8 +3,8 @@ package servicecenter
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/servicecenter"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/servicecenter"
 )
 
 // TmallServiceSettleadjustmentSearch 服务商15分钟获取数据

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMoziFusionUpdateEmployeeAccountAPIResponse 更新人员和账号属性 API返回值

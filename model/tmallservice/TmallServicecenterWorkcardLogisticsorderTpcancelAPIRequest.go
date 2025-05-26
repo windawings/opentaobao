@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterWorkcardLogisticsorderTpcancelAPIRequest tp更新物流进度信息 API请求

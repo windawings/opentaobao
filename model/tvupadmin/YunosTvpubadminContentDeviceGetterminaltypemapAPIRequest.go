@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosTvpubadminContentDeviceGetterminaltypemapAPIRequest 获取终端类型表 API请求

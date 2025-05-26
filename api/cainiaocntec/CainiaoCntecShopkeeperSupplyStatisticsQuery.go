@@ -3,8 +3,8 @@ package cainiaocntec
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cainiaocntec"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cainiaocntec"
 )
 
 // CainiaoCntecShopkeeperSupplyStatisticsQuery 团购业务供货商查询门店统计数据

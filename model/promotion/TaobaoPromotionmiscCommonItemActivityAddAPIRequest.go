@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoPromotionmiscCommonItemActivityAddAPIRequest 创建通用单品优惠活动 API请求

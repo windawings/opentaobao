@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliyunIndustryTttmOrderQueryAPIRequest 天天特卖数字工厂订单获取 API请求

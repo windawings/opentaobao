@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyDerbyMemberGenerateSellerQrcodeAPIRequest 生成臻享卡德比分销二维码 API请求

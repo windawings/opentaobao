@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSscServicecenterServicestoreQueryAPIResponse 根据天猫id查询门店信息 API返回值

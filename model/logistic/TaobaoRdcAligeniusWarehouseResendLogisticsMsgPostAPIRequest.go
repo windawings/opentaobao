@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRdcAligeniusWarehouseResendLogisticsMsgPostAPIRequest 补发单物流信息回传 API请求

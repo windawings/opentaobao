@@ -3,8 +3,8 @@ package traveltrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/traveltrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/traveltrade"
 )
 
 // AlitripTravelVisaApplicantUpdate 飞猪度假-普通签证-申请人进度推进接口

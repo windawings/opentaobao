@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosMiniappDatatunnelCallAPIResponse 车载小程序外部服务调用 API返回值

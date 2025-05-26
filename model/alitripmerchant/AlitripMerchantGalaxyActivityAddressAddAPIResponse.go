@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyActivityAddressAddAPIResponse 星河-营销抽奖奖品邮寄地址添加 API返回值

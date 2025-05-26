@@ -3,8 +3,8 @@ package axindata
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/axindata"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/axindata"
 )
 
 // TaobaoAlitripTravelAxinHotelShidListQuery 阿信酒店分销-标准酒店id列表查询

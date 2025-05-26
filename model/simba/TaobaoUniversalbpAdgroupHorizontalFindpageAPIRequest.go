@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoUniversalbpAdgroupHorizontalFindpageAPIRequest 查询单元分页列表 API请求

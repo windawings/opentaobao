@@ -3,8 +3,8 @@ package jstinteractive
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jstinteractive"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jstinteractive"
 )
 
 // TaobaoJstInteractiveActivityUpdate 互动任务活动修改接口

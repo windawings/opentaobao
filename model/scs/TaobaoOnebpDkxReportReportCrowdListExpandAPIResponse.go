@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoOnebpDkxReportReportCrowdListExpandAPIResponse 获取拓展人群数据报表 API返回值

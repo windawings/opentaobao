@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoPaimaiAuctioncatNftChecknftuseridentifyAPIResponse 根据用户数字id和身份证号校验该用户是否已实名认证成功 API返回值

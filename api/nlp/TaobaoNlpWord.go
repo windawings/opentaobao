@@ -3,8 +3,8 @@ package nlp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nlp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nlp"
 )
 
 // TaobaoNlpWord 文本语言词法分析

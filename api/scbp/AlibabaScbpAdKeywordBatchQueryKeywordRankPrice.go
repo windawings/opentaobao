@@ -3,8 +3,8 @@ package scbp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/scbp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/scbp"
 )
 
 // AlibabaScbpAdKeywordBatchQueryKeywordRankPrice 批量查询关键词前五名排价

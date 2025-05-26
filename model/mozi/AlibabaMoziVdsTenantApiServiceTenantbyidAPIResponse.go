@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMoziVdsTenantApiServiceTenantbyidAPIResponse 按租户ID查询租户信息 API返回值

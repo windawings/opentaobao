@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoKoubeiMallCommonItemSuperDiscountListAPIRequest 查询商圈内的超值特惠商品信息 API请求

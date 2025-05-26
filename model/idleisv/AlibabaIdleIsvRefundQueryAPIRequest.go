@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleIsvRefundQueryAPIRequest 闲鱼已验货交易订单退款信息查询 API请求

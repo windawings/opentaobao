@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAilabAicloudTopDeviceOpenidAuthcodeGetAPIRequest 获取openid设备通用授权码 API请求

@@ -3,8 +3,8 @@ package ascpchannel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascpchannel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascpchannel"
 )
 
 // AlibabaAscpChannelRefundGoodsWaybill 淘外分销退货回传物流单号

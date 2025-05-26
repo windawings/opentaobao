@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTclsAelophyRefundAgreeAPIResponse saas 售后逆向 商户同意用户逆向申请 API返回值

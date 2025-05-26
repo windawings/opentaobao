@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoPaimaiNftCertificateApplycallbackAPIRequest 数字藏品版权证书申请结果回调 API请求

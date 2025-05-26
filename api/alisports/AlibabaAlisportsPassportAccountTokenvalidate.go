@@ -3,8 +3,8 @@ package alisports
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alisports"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alisports"
 )
 
 // AlibabaAlisportsPassportAccountTokenvalidate 阿里体育会员系统帐号登录注册token验证接口

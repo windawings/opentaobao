@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIfpFulfillWarehouseTokenQueryAPIRequest 同城令牌打印接口 API请求

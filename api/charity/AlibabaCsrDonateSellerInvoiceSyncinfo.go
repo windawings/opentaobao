@@ -3,8 +3,8 @@ package charity
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/charity"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/charity"
 )
 
 // AlibabaCsrDonateSellerInvoiceSyncinfo 链上同步商家票据信息

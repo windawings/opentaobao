@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoOnebpDkxCrowdCrowdFinddmpcrowdAPIRequest 查询达摩盘精选人群模板 API请求

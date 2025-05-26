@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripHotelHstdfShotelExnotmatchroomAPIRequest 导出一个hid下所有未匹配rid的接口 API请求

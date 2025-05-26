@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyWechatLoginAPIResponse 星河-用户使用微信登陆 API返回值

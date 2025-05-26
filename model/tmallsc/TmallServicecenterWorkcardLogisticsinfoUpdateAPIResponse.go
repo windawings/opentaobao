@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterWorkcardLogisticsinfoUpdateAPIResponse 物流单信息回传接口 API返回值

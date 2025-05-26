@@ -3,8 +3,8 @@ package wlb
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlb"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlb"
 )
 
 // TaobaoWlbTradeorderGet 根据交易号获取物流宝订单

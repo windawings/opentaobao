@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLogisticsOpenalibityWriteAPIRequest 为快递公司提供的物流信息通用写入接口 API请求

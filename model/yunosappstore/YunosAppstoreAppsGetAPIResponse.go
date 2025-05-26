@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosAppstoreAppsGetAPIResponse 根据包名列表获取应用信息列表 API返回值

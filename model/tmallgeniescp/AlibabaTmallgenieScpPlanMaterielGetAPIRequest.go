@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallgenieScpPlanMaterielGetAPIRequest 1-IBP同步物料接口 API请求

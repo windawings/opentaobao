@@ -3,8 +3,8 @@ package tmc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmc"
 )
 
 // TaobaoTmcMessagesConfirm 确认消费消息的状态

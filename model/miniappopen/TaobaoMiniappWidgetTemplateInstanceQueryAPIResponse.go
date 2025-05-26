@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappWidgetTemplateInstanceQueryAPIResponse 小部件实例化版本查询 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaScbpAdKeywordUpdateKeywordStatusBatchAPIRequest 修改关键词状态 API请求

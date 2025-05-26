@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAiArTmjlAppDetectAPIResponse 天猫精灵扫一扫入口的服务 API返回值

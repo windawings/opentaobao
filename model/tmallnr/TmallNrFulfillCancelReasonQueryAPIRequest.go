@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallNrFulfillCancelReasonQueryAPIRequest 查询取消履约的原因列表 API请求

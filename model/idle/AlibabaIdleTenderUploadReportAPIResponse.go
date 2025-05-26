@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleTenderUploadReportAPIResponse 服务商上传验货报告同步给闲鱼 API返回值

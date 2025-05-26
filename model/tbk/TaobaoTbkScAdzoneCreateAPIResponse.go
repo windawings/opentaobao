@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkScAdzoneCreateAPIResponse 淘宝客-服务商-创建推广者位 API返回值

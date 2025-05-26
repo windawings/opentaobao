@@ -3,8 +3,8 @@ package tmallcar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcar"
 )
 
 // TmallAliautoOrderQrcode 根据商品id列表获取可扫描下单二维码

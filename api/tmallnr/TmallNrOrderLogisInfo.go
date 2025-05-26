@@ -3,8 +3,8 @@ package tmallnr
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallnr"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallnr"
 )
 
 // TmallNrOrderLogisInfo 区域零售订单获取取件码

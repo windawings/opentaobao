@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallgenieScpPlanChannelQuoteUploadAPIRequest 9.1-同步渠道配额 API请求

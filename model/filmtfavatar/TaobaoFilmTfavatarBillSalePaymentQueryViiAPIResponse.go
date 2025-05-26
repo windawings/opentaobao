@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFilmTfavatarBillSalePaymentQueryViiAPIResponse 获取影院卖品账单--支付账单-V2版本(正逆分离) API返回值

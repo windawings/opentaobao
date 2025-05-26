@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCbossWorkplatformLogisticsIscainiaoorderAPIRequest 根据交易单号判断是否为菜鸟发货订单 API请求

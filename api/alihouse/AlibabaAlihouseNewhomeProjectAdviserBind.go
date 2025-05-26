@@ -3,8 +3,8 @@ package alihouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihouse"
 )
 
 // AlibabaAlihouseNewhomeProjectAdviserBind 置业顾问批量绑定楼盘

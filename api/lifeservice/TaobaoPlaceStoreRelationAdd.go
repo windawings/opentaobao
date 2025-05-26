@@ -3,8 +3,8 @@ package lifeservice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lifeservice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lifeservice"
 )
 
 // TaobaoPlaceStoreRelationAdd 门店关系新增

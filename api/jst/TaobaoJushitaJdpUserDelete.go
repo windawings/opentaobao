@@ -3,8 +3,8 @@ package jst
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jst"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jst"
 )
 
 // TaobaoJushitaJdpUserDelete 删除数据推送用户

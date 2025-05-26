@@ -3,8 +3,8 @@ package nrpos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nrpos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nrpos"
 )
 
 // AlibabaMosCommdyPosmerchandiseGetmerchandise 去前置机商品在线查询

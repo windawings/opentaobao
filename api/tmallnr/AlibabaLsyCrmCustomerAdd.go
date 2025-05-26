@@ -3,8 +3,8 @@ package tmallnr
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallnr"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallnr"
 )
 
 // AlibabaLsyCrmCustomerAdd 私域导购添加活动留资入口

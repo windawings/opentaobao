@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelAxinHotelOrderCreateAPIResponse 酒店分销订单创建服务-阿信 API返回值

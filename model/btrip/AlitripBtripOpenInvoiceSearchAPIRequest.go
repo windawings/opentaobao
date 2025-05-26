@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripOpenInvoiceSearchAPIRequest 差旅申请用户搜索可用发票列表 API请求

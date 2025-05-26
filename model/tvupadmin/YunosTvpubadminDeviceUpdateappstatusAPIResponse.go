@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosTvpubadminDeviceUpdateappstatusAPIResponse 更新应用版本审核状态 API返回值

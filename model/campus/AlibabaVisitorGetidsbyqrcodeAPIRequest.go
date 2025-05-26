@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaVisitorGetidsbyqrcodeAPIRequest 根据访客二维码查访客行程id API请求

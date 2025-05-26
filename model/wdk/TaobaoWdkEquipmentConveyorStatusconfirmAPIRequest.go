@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWdkEquipmentConveyorStatusconfirmAPIRequest 悬挂链状态回传确认 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaRetailElectronicCertificatePreConfirmAPIResponse 贩卖机开始核销接口 API返回值

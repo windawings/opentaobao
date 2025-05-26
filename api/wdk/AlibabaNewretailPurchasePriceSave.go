@@ -3,8 +3,8 @@ package wdk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wdk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wdk"
 )
 
 // AlibabaNewretailPurchasePriceSave 共享库存 采购价上传接口

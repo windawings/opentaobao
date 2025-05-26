@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDchainAoxiangIndustryWaybillLogisticstatusRemarkAddAPIResponse 客服增加备注 API返回值

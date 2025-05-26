@@ -3,8 +3,8 @@ package axintrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/axintrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/axintrade"
 )
 
 // TaobaoAlitripAxinTransFundQueryByOrder 通过外部订单ID查询所有资金单

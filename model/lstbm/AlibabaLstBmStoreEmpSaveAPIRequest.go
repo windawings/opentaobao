@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstBmStoreEmpSaveAPIRequest 保存品牌商自有门店和内部业代之间的关系 API请求

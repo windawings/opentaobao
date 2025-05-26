@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressSolutionSellerCategoryTreeQueryAPIResponse aliexpress.solution.seller.category.tree.query API返回值

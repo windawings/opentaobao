@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWlbImportsResourceTransferstoreGetAPIRequest 根据指定的资源获取所有中转仓列表 API请求

@@ -3,8 +3,8 @@ package cloudpush
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cloudpush"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cloudpush"
 )
 
 // TaobaoCloudpushPush 百川用户使用云推送高级推送接口

@@ -3,8 +3,8 @@ package idle
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idle"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idle"
 )
 
 // AlibabaIdleIsvGoosefishOrderCreate 闲鱼三方安康容器订单创建

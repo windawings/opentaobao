@@ -3,8 +3,8 @@ package admarket
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/admarket"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/admarket"
 )
 
 // YunosAdmarketAdBid 广告竞价服务

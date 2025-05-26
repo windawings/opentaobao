@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthVaccineTradeSubscribeDetailSaveAPIResponse 私立疫苗交易-预约详情更新或保存 API返回值

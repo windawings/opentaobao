@@ -3,8 +3,8 @@ package hotel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotel"
 )
 
 // AlitripHotelRateGetmixratelistGet 酒店评论接口

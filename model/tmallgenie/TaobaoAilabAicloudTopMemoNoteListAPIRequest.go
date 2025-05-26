@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAilabAicloudTopMemoNoteListAPIRequest 查询天猫精灵用户设置的所有备忘录 API请求

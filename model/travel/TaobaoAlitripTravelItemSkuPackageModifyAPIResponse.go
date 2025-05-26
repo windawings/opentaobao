@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelItemSkuPackageModifyAPIResponse 【API3.0】套餐级别日历价格库存增删操作 API返回值

@@ -3,8 +3,8 @@ package ioti
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ioti"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ioti"
 )
 
 // AlibabaItEslEslimageSendimage 下发厂测初始化图片

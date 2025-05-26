@@ -3,8 +3,8 @@ package aiar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aiar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aiar"
 )
 
 // AlibabaAiArOpenPlatformDetect AR开发者平台marker图片检测服务

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCloudgameInteractiveGameGamepadGetAPIResponse 获取虚拟手柄配置 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkDgVegasSendReportAPIRequest 淘宝客-推广者-查询红包发放个数 API请求

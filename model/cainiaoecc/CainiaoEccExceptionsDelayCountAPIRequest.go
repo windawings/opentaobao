@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoEccExceptionsDelayCountAPIRequest 菜鸟控制塔包裹滞留异常统计信息获取 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAilabAicloudTopSkilsListAPIResponse 获取硬件平台设备下挂载的技能列表 API返回值

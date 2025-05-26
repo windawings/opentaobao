@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCityretailTxdFulfillOrderVirtualnumberAPIRequest 淘鲜达虚拟号服务接口 API请求

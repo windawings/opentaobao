@@ -3,8 +3,8 @@ package idle
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idle"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idle"
 )
 
 // AlibabaIdleTenderPrePayAction 服务商预付款完成接口

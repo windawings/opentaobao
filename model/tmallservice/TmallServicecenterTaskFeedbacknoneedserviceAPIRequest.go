@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterTaskFeedbacknoneedserviceAPIRequest 服务商反馈无需安装工单接口 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoOnebpDkxCreativeCreativeReportRealtimeAPIResponse 获取创意实时报表 API返回值

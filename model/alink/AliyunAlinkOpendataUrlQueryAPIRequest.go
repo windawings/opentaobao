@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliyunAlinkOpendataUrlQueryAPIRequest 开放数据授权访问URL查询 API请求

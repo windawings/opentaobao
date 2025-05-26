@@ -3,8 +3,8 @@ package qimen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/qimen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/qimen"
 )
 
 // TaobaoQimenInventoryruleCreate 渠道间库存规则设置接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaKeywordsbykeywordidsGetAPIResponse 根据一个关键词Id列表取得一组关键词 API返回值

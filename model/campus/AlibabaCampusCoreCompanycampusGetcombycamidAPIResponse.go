@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusCoreCompanycampusGetcombycamidAPIResponse 根据园区ID获取运营公司信息 API返回值

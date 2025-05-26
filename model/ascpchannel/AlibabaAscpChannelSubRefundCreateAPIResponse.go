@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpChannelSubRefundCreateAPIResponse 淘外分销逆向创单（子单退） API返回值

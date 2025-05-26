@@ -3,8 +3,8 @@ package logistic
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/logistic"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/logistic"
 )
 
 // CainiaoDataLogisticsCpDeliveryAgingPredict CP配送物流时效预测

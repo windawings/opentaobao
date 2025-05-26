@@ -3,8 +3,8 @@ package uscesl
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/uscesl"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/uscesl"
 )
 
 // TaobaoUsceslBizApAdd 新增价签通讯AP设备

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaScbpTargetAdPlanOperationAPIResponse 定向推广-计划开启/暂停/删除 API返回值

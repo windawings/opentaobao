@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDchainAoxiangConsignorderGiftBindingAPIRequest 赠品绑赠计算占用 API请求

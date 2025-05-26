@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpChannelSalesOrderBeforeCheckAPIResponse 供应链外部订单创建前校验接口 API返回值

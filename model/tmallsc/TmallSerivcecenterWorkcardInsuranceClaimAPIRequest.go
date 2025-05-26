@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallSerivcecenterWorkcardInsuranceClaimAPIRequest 保险理赔回传工单记录 API请求

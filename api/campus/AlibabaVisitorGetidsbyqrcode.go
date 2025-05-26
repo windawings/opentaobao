@@ -3,8 +3,8 @@ package campus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/campus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/campus"
 )
 
 // AlibabaVisitorGetidsbyqrcode 根据访客二维码查访客行程id

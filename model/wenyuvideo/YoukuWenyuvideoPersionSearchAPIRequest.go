@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuWenyuvideoPersionSearchAPIRequest 根据人物名称查询人物列表 API请求

@@ -3,8 +3,8 @@ package logistic
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/logistic"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/logistic"
 )
 
 // WdkLogisticNetworkWarehouseResourceRelationQueryToCodes 按网格仓查中心仓（带缓存）

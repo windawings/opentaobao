@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthExaminationReportDiagnoseFileCodeGetAPIResponse ISV获取报告文件查看验证码 API返回值

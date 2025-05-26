@@ -3,8 +3,8 @@ package auction
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/auction"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/auction"
 )
 
 // TaobaoAuctionGovDataRealtimeGet 获取实时(今日)统计数据

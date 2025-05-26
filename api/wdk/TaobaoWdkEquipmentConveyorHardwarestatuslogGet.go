@@ -3,8 +3,8 @@ package wdk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wdk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wdk"
 )
 
 // TaobaoWdkEquipmentConveyorHardwarestatuslogGet 硬件状态变化日志查询

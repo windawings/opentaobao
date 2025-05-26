@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEleEnterpriseEmployeeBatchupdateAPIRequest 批量新增更新员工 API请求

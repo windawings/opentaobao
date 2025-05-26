@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstPosOpenGoodsSyncgoodsdataAPIResponse 门店商品批量同步接口(最多10条商品信息) API返回值

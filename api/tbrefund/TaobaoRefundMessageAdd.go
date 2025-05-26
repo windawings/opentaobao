@@ -3,8 +3,8 @@ package tbrefund
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbrefund"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbrefund"
 )
 
 // TaobaoRefundMessageAdd 创建退款留言/凭证

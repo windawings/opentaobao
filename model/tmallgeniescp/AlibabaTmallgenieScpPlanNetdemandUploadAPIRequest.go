@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallgenieScpPlanNetdemandUploadAPIRequest 23-Net Demand净需求回传 API请求

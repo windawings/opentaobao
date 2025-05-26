@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripCorpopHotelBillsettlementQueryAPIRequest 酒店结算记账查询接口 API请求

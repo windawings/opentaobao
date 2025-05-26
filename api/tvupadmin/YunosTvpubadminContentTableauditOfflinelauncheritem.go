@@ -3,8 +3,8 @@ package tvupadmin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tvupadmin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tvupadmin"
 )
 
 // YunosTvpubadminContentTableauditOfflinelauncheritem 运营位管理-联盟一体机下线运营位内容

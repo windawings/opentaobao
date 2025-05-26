@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterServicestoreCreateservicestorecoverserviceAPIResponse 新增网点覆盖的服务 API返回值

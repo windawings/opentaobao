@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpChannelDistributorProductDistributeAPIRequest 分销商基于渠道产品铺货到商品 API请求

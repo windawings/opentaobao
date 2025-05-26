@@ -3,8 +3,8 @@ package tmallsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallsc"
 )
 
 // AlibabaTmallSparepartsDetailsCreate 天猫蚁巢同步工单申请备件明细

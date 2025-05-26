@@ -3,8 +3,8 @@ package tuike
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tuike"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tuike"
 )
 
 // AlibabaTuikeOfferZhitoken 生成阿里口令

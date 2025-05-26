@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoUsergrowthAdMaterialDataSyncAPIRequest 素材投放效果数据回传 API请求

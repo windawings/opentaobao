@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AccountAliyuncsComListAppkeyByOwnerAndBid20130701APIResponse 根据渠道id和状态列出appkey API返回值

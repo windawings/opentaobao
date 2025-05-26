@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyDerbyMemberVoucherQueryAmountAPIRequest 查询用户拥有的臻享卡数量 API请求

@@ -3,8 +3,8 @@ package omniorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/omniorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/omniorder"
 )
 
 // TaobaoJstAstrolabeStoreinventoryQuery 后端商品库存查询接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWeikeEserviceSubusersGetAPIResponse 客服外包订单分配的商家子账号列表 API返回值

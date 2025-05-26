@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkItemChangepriceQueryAPIResponse 按照价格变更时间段，查询会变更价格的单据的商品 API返回值

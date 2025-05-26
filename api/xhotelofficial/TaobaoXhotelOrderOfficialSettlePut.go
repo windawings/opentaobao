@@ -3,8 +3,8 @@ package xhotelofficial
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelofficial"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelofficial"
 )
 
 // TaobaoXhotelOrderOfficialSettlePut 官网信用住结账接口

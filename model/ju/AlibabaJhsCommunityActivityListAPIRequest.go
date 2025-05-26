@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJhsCommunityActivityListAPIRequest 聚划算用增淘外社群服务活动列表 API请求

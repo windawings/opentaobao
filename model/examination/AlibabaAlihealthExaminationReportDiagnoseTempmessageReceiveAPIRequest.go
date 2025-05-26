@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthExaminationReportDiagnoseTempmessageReceiveAPIRequest 导医通报告解读临时消息接收 API请求

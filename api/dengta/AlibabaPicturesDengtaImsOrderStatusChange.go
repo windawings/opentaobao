@@ -3,8 +3,8 @@ package dengta
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/dengta"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/dengta"
 )
 
 // AlibabaPicturesDengtaImsOrderStatusChange 天下秀回传订单执行状态变动

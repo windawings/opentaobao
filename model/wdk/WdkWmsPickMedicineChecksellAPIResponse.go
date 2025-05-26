@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkWmsPickMedicineChecksellAPIResponse 联营商药品柜核销 API返回值

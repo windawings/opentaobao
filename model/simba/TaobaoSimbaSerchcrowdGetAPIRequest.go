@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaSerchcrowdGetAPIRequest 根据推广单元id获取搜索溢价人群 API请求

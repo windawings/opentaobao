@@ -7,7 +7,7 @@ LDFLAGS = -X main.version=$(GIT_TAG) -X main.commit=$(GIT_COMMIT) -X main.GitDat
 tools: downloader generator
 
 downloader:
-	go build -o bin/downloader github.com/bububa/opentaobao/metadata/downloader
+	go build -o bin/downloader github.com/windawings/opentaobao/metadata/downloader
 
 generator:
-	go build -ldflags "$(LDFLAGS)" -o bin/generator github.com/bububa/opentaobao/metadata/generator
+	go build -ldflags "$(LDFLAGS)" -o bin/generator github.com/windawings/opentaobao/metadata/generator

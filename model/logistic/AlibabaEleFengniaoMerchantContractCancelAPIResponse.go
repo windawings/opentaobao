@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEleFengniaoMerchantContractCancelAPIResponse 蜂鸟商户解约接口 API返回值

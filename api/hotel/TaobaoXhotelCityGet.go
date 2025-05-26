@@ -3,8 +3,8 @@ package hotel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotel"
 )
 
 // TaobaoXhotelCityGet 酒店城市数据获取接口

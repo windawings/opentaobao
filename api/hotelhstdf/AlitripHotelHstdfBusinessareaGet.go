@@ -3,8 +3,8 @@ package hotelhstdf
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotelhstdf"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotelhstdf"
 )
 
 // AlitripHotelHstdfBusinessareaGet 根据城市查询商圈

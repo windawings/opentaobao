@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAliautoTradeCarEticketAvailableCheckAPIResponse 天猫汽车电子凭证核销前校验 API返回值

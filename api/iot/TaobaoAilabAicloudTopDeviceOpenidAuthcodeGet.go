@@ -3,8 +3,8 @@ package iot
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/iot"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/iot"
 )
 
 // TaobaoAilabAicloudTopDeviceOpenidAuthcodeGet 获取openid设备通用授权码

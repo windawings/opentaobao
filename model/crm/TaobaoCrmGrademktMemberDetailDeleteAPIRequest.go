@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCrmGrademktMemberDetailDeleteAPIRequest 会员等级营销-删除商品等级营销明细 API请求

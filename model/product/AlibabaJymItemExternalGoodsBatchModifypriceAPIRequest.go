@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymItemExternalGoodsBatchModifypriceAPIRequest 交易猫外部商家批量商品改价接口 API请求

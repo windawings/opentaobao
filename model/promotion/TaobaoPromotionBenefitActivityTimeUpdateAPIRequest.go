@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoPromotionBenefitActivityTimeUpdateAPIRequest 更新关联活动有效时间 API请求

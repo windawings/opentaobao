@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliyunAliosPayPeriodAgreementUnsignAPIRequest 周期扣款协议解约接口 API请求

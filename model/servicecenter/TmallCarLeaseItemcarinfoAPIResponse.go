@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarLeaseItemcarinfoAPIResponse 整车租赁商品四级车型信息 API返回值

@@ -3,8 +3,8 @@ package miniapp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniapp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniapp"
 )
 
 // TaobaoSmartappTableFulldataGet 智能应用工作表地址查询

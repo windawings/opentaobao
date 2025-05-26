@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAilabTbUserSkillOauthAPIRequest 用户技能 Oauth 授权（淘宝 openId） API请求

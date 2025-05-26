@@ -3,8 +3,8 @@ package miniappopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniappopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniappopen"
 )
 
 // TaobaoMiniappInteractBenefitItemGet 读取实物权益奖池对应绑定的专属下单商品

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEinvoiceIncomeOcrReturnAPIResponse 服务商回传发票ocr的结果 API返回值

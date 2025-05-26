@@ -3,8 +3,8 @@ package tmallgeniescp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgeniescp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgeniescp"
 )
 
 // AlibabaTmallgenieScpPlanSaleforcastPmMonthUpload 24-销售月预测数量（产管）回传-月度

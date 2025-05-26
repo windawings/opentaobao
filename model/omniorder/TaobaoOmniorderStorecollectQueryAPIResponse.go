@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoOmniorderStorecollectQueryAPIResponse 全渠道门店自提根据核销码查询订单 API返回值

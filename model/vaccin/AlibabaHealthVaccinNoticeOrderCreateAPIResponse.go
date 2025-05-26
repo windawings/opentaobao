@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHealthVaccinNoticeOrderCreateAPIResponse 支付宝医疗健康疫苗预约创建 API返回值

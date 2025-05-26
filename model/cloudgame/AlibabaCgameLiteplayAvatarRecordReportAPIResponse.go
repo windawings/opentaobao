@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCgameLiteplayAvatarRecordReportAPIResponse Avatar形象保存地址回调 API返回值

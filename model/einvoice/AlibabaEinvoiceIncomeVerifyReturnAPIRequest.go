@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEinvoiceIncomeVerifyReturnAPIRequest 服务商回传发票查验的结果 API请求

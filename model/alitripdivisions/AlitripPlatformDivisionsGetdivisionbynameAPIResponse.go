@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripPlatformDivisionsGetdivisionbynameAPIResponse 根据中文名称与行政区划级别查询行政区划数据 API返回值

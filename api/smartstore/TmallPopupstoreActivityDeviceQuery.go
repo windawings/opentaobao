@@ -3,8 +3,8 @@ package smartstore
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/smartstore"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/smartstore"
 )
 
 // TmallPopupstoreActivityDeviceQuery 根据活动id查询活动相关快闪店及设备信息

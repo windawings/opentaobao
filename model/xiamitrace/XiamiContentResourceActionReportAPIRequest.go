@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // XiamiContentResourceActionReportAPIRequest 曲库开放平台内容行为上报接口 API请求

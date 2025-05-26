@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoGlobalImPickupBigbagExpressPrequeryAPIRequest 首公里揽收-快递预查询服务 API请求

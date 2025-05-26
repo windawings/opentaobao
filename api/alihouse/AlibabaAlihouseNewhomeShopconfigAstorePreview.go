@@ -3,8 +3,8 @@ package alihouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihouse"
 )
 
 // AlibabaAlihouseNewhomeShopconfigAstorePreview 天猫好房店铺装修-地址预览

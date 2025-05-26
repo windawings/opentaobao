@@ -3,8 +3,8 @@ package axintrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/axintrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/axintrade"
 )
 
 // TaobaoAlitripAxinTransPayImgUpload 上传图片到支付宝图片空间接口

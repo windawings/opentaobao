@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLegalStandpointDraftstandpointInsertAPIResponse 编辑后新增草稿口径 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFeedflowItemAdgroupAdzonePageAPIResponse 信息流单元下查看绑定资源位 API返回值

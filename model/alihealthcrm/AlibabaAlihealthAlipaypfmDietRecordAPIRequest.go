@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthAlipaypfmDietRecordAPIRequest 用户每日摄入卡路里总量回传接口 API请求

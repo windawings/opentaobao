@@ -3,8 +3,8 @@ package wdk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wdk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wdk"
 )
 
 // AlibabaWdkOldposOrderCreate 淘鲜达外部商户老pos机产生的订单同步进淘鲜达

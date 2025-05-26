@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliyunAliosPayPeriodAgreementStatusGetAPIResponse 查询周期扣款签约状态 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemVipUpdateSchemaGetAPIRequest vip商家编辑商品的规则获取接口 API请求

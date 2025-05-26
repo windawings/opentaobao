@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoIotTicketSpMaintainVtwoCreateAPIResponse 服务商制定维修费方案 API返回值

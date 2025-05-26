@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTaotvCarouselPlaylistGetAPIRequest 根据频道ID获取频道下节目单以及当前播放 API请求

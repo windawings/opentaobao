@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHealthVaccinMatchOnAPIResponse isv自主上下线疫苗，可以选择上线还是下线 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusDeviceGetdeviceforqueryAPIResponse 下发设备的分页接口(无需AOP控制) API返回值

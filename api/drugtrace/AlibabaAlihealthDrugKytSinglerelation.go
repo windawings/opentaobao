@@ -3,8 +3,8 @@ package drugtrace
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/drugtrace"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/drugtrace"
 )
 
 // AlibabaAlihealthDrugKytSinglerelation 单码关联关系查询，通过一个码查询这个码下的所有子码

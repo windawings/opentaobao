@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoKoubeiTribeOpenVerifyCodeApplyAPIResponse 口碑综合体手机号获取验证码 API返回值

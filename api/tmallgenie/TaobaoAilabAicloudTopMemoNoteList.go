@@ -3,8 +3,8 @@ package tmallgenie
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgenie"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgenie"
 )
 
 // TaobaoAilabAicloudTopMemoNoteList 查询天猫精灵用户设置的所有备忘录

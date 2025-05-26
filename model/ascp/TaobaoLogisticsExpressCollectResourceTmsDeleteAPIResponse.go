@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLogisticsExpressCollectResourceTmsDeleteAPIResponse 上门取退可揽范围删除 API返回值

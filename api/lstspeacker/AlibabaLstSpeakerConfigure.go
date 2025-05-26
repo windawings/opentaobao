@@ -3,8 +3,8 @@ package lstspeacker
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstspeacker"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstspeacker"
 )
 
 // AlibabaLstSpeakerConfigure 零售通音箱配置通用泛化调用接口

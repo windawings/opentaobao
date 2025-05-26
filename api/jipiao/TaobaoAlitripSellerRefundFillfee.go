@@ -3,8 +3,8 @@ package jipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jipiao"
 )
 
 // TaobaoAlitripSellerRefundFillfee 机票代理商】回填手续费

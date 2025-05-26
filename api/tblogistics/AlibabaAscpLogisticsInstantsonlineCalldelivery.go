@@ -3,8 +3,8 @@ package tblogistics
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tblogistics"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tblogistics"
 )
 
 // AlibabaAscpLogisticsInstantsonlineCalldelivery 同城配送在线下单正式下单呼叫运力

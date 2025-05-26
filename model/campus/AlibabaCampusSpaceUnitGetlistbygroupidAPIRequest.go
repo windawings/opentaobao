@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusSpaceUnitGetlistbygroupidAPIRequest 根据分组ID查询相应的空间单元 API请求

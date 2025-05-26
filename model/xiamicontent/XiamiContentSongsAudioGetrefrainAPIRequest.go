@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // XiamiContentSongsAudioGetrefrainAPIRequest 获取副歌信息 API请求

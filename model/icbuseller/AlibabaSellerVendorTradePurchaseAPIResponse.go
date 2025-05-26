@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSellerVendorTradePurchaseAPIResponse 查看购买人的订单记录以及授权时间 API返回值

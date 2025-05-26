@@ -3,8 +3,8 @@ package aligenie
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aligenie"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aligenie"
 )
 
 // AlibabaAilabsAligenieDeviceUnbind 设备解绑操作接口

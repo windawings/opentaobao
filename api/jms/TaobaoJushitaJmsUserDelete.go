@@ -3,8 +3,8 @@ package jms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jms"
 )
 
 // TaobaoJushitaJmsUserDelete 删除ONS消息同步用户

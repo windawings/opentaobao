@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressSolutionIssuePartnerRmaScreeningCreateAPIRequest aliexpress.solution.issue.partner.rma.screening.create API请求

@@ -3,8 +3,8 @@ package util
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/util"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/util"
 )
 
 // TaobaoOpenuidGetBytrade 通过订单获取对应买家的openUID

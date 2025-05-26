@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlipayBaoxianClaimSurveyConclusionSubmitAPIRequest 保险退货服务商勘察结论提交接口 API请求

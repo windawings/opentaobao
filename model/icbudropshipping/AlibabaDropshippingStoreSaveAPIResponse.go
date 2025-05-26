@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDropshippingStoreSaveAPIResponse 阿里巴巴dropshipping店铺数据保存接口 API返回值

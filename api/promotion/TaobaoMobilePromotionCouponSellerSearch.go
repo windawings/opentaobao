@@ -3,8 +3,8 @@ package promotion
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/promotion"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/promotion"
 )
 
 // TaobaoMobilePromotionCouponSellerSearch 查询绑定卖家优惠券相关信息(手淘专用)

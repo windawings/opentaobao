@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallgenieScpPlanFeedbackOemUploadAPIRequest 14-供应商反馈（OEM）同步接口 API请求

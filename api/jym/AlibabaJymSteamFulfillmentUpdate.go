@@ -3,8 +3,8 @@ package jym
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jym"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jym"
 )
 
 // AlibabaJymSteamFulfillmentUpdate 交易猫Steam类目发履约态变更

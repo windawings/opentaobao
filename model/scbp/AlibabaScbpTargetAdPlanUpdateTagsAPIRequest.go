@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaScbpTargetAdPlanUpdateTagsAPIRequest 定向推广 按照id操作推广计划的定向溢价标签，包括新增，删除和更新 API请求

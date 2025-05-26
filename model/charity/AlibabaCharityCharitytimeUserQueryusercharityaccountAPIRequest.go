@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCharityCharitytimeUserQueryusercharityaccountAPIRequest 查询用户公益账户 API请求

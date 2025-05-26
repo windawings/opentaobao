@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLegalSuitJudgementPushAPIResponse 推送裁判登记信息给集团法务系统 API返回值

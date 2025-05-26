@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkMarketingBuygiftItemRemoveAsyncAPIResponse 批量删除买赠商品 API返回值

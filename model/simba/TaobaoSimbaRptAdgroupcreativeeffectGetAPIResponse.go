@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaRptAdgroupcreativeeffectGetAPIResponse 推广组下的创意报表效果数据查询(汇总数据，不分类型) API返回值

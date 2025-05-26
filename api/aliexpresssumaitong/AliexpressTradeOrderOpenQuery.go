@@ -3,8 +3,8 @@ package aliexpresssumaitong
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliexpresssumaitong"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliexpresssumaitong"
 )
 
 // AliexpressTradeOrderOpenQuery Aliexpress开放平台订单查询

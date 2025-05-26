@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWeitaoFeedSynchronizeAPIResponse 推广淘小铺isv 活动到微淘feed API返回值

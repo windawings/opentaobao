@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMaitixDistributionCmbQuerypayresultAPIRequest 查询招行支付状态api API请求

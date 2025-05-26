@@ -3,8 +3,8 @@ package qianniu
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/qianniu"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/qianniu"
 )
 
 // TaobaoQianniuBuyerTagGet 判断买家是否有某些标

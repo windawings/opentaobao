@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripSellerRefundorderlistFetchAPIResponse 【机票代理商】——退票订单列表提取 API返回值

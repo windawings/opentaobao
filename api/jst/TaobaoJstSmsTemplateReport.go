@@ -3,8 +3,8 @@ package jst
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jst"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jst"
 )
 
 // TaobaoJstSmsTemplateReport 服务商存量短信模板上传

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkItemTraceUrlGetAPIRequest 根据shopId和skuCode返回商品静态溯源url API请求

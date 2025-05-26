@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoGrowthReachingXiniaoQueryAPIRequest 查询溪鸟推荐信息数据 API请求

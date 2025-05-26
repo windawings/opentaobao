@@ -3,8 +3,8 @@ package wlb
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlb"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlb"
 )
 
 // TaobaoWlbItemMapGet 根据物流宝商品ID查询商品映射关系

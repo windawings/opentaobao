@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstPosOpenGoodsGetgoodsbybarcodeAPIResponse ISV条码库查询接口 API返回值

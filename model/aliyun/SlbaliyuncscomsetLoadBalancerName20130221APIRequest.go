@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // SlbAliyuncsComSetLoadBalancerName20130221APIRequest 配置LoadBalancer的别名。 API请求

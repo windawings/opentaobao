@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTrendStyleBindinfoUploadAPIResponse 趋势词&款式绑定信息同步API API返回值

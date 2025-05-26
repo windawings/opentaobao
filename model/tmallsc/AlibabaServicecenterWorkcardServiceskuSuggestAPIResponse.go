@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaServicecenterWorkcardServiceskuSuggestAPIResponse 服务商反馈需要履行的服务项 API返回值

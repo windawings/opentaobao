@@ -3,8 +3,8 @@ package waybill
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/waybill"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/waybill"
 )
 
 // CainiaoWaybillIiQueryByWaybillcode 通过面单号查询面单打印报文

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaOnetouchLogisticsExpressChargeCalculateAPIRequest 计算快递运费&下单参数校验 API请求

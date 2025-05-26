@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaCampaignAreaoptionsGetAPIResponse 取得推广计划的可设置投放地域列表 API返回值

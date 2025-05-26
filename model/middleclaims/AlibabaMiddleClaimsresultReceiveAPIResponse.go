@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMiddleClaimsresultReceiveAPIResponse 国际化中台服务域接收理赔结果 API返回值

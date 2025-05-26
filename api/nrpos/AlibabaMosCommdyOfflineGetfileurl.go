@@ -3,8 +3,8 @@ package nrpos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nrpos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nrpos"
 )
 
 // AlibabaMosCommdyOfflineGetfileurl 去前置机pos商品离线文件下载地址查询接口

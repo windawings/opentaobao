@@ -3,8 +3,8 @@ package train
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/train"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/train"
 )
 
 // TaobaoTrainAgentBookordersGetVtwo 代理商获取待出票订单列表v2--增加鉴权校验

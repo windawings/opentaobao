@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugCodeKytYqQuerycodeAPIResponse 查询追溯码对应的药品信息（疫情） API返回值

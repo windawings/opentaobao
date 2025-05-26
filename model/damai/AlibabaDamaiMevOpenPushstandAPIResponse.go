@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMevOpenPushstandAPIResponse 大麦换验平台-第三方对外开放-看台接口pushStand API返回值

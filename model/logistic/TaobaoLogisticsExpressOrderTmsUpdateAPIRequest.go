@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLogisticsExpressOrderTmsUpdateAPIRequest 服务商修改上门取退时间接口 API请求

@@ -3,8 +3,8 @@ package util
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/util"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/util"
 )
 
 // TaobaoSubwayCrowdDmpCrowdBind 直通车绑定达摩盘人群

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoNborderfrontUserOutsideQueryoutsideuserAPIResponse 查询外部小件员休息 API返回值

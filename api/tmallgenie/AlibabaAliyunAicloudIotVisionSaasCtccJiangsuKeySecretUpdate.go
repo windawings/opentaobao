@@ -3,8 +3,8 @@ package tmallgenie
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgenie"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgenie"
 )
 
 // AlibabaAliyunAicloudIotVisionSaasCtccJiangsuKeySecretUpdate 天猫精灵 IoT 视频 SaaS 服务-江苏电信-appKeySecret 更新

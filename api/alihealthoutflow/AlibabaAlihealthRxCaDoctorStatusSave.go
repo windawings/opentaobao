@@ -3,8 +3,8 @@ package alihealthoutflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthoutflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthoutflow"
 )
 
 // AlibabaAlihealthRxCaDoctorStatusSave ca认证获取医师认证结果

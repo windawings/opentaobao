@@ -3,8 +3,8 @@ package xhotelitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelitem"
 )
 
 // TaobaoXhotelServicetimeUpdate 飞猪酒店多维度服务时间维护接口

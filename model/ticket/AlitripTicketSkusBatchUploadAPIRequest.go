@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTicketSkusBatchUploadAPIRequest 【门票API2.0】门票价格库存同步接口（多票种批量更新） API请求

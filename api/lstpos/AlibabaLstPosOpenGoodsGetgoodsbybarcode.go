@@ -3,8 +3,8 @@ package lstpos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstpos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstpos"
 )
 
 // AlibabaLstPosOpenGoodsGetgoodsbybarcode ISV条码库查询接口

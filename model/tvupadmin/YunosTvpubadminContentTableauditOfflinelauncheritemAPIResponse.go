@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosTvpubadminContentTableauditOfflinelauncheritemAPIResponse 运营位管理-联盟一体机下线运营位内容 API返回值

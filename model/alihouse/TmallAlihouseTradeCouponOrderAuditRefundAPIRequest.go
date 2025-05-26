@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAlihouseTradeCouponOrderAuditRefundAPIRequest ETC审核电商券退款 API请求

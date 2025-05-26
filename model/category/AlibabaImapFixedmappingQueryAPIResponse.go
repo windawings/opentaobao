@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaImapFixedmappingQueryAPIResponse 查询两个渠道之间的固定映射关系，不通过算法兜底 API返回值

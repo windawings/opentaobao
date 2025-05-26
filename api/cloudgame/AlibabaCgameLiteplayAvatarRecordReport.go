@@ -3,8 +3,8 @@ package cloudgame
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cloudgame"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cloudgame"
 )
 
 // AlibabaCgameLiteplayAvatarRecordReport Avatar形象保存地址回调

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaFundplatformCardorderFetchCardAsyncAPIRequest 异步批量生成储值卡 API请求

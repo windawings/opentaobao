@@ -3,7 +3,7 @@ package axindata
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // StdRoomType 结构体

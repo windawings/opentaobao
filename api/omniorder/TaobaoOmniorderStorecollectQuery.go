@@ -3,8 +3,8 @@ package omniorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/omniorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/omniorder"
 )
 
 // TaobaoOmniorderStorecollectQuery 全渠道门店自提根据核销码查询订单

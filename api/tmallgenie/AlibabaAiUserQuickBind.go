@@ -3,8 +3,8 @@ package tmallgenie
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgenie"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgenie"
 )
 
 // AlibabaAiUserQuickBind 精灵用户绑定第三方账号信息

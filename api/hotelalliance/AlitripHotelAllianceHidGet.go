@@ -3,8 +3,8 @@ package hotelalliance
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotelalliance"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotelalliance"
 )
 
 // AlitripHotelAllianceHidGet 获取联盟hid

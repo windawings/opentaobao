@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMevOpenDeleteFaceelementAPIResponse 大麦换验平台-第三方对外开放-票面元素接口deleteFaceElement API返回值

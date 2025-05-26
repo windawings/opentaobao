@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterAnomalyrecourseHomedecorationAdmitAPIResponse 天猫服务平台商家投诉单服务商认责接口 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymIndustryTradeMaxPriceGetAPIResponse 获取交易猫单个游戏渠道帐号交易成功最高价 API返回值

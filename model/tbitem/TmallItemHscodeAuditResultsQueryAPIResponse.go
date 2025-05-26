@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemHscodeAuditResultsQueryAPIResponse 商品hscode信息审核状态查询接口 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHealthVaccinMatchOnAPIRequest isv自主上下线疫苗，可以选择上线还是下线 API请求

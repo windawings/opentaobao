@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoIdleRecycleRefundApplyAPIResponse 闲鱼回收交易退款申请V2 API返回值

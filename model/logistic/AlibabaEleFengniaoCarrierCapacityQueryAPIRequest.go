@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEleFengniaoCarrierCapacityQueryAPIRequest 按照门店查询骑手运力状态查询 API请求

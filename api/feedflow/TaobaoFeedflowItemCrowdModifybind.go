@@ -3,8 +3,8 @@ package feedflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/feedflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/feedflow"
 )
 
 // TaobaoFeedflowItemCrowdModifybind 修改人群出价或状态

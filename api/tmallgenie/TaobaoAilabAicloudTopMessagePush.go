@@ -3,8 +3,8 @@ package tmallgenie
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgenie"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgenie"
 )
 
 // TaobaoAilabAicloudTopMessagePush 天猫精灵消息中心广播推送消息接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaKeywordsQscoreGetAPIResponse 取得一个推广组的所有关键词的质量得分或者根据关键词Id列表取得一组关键词的质量得分 API返回值

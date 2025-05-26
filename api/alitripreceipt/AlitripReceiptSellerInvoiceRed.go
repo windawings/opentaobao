@@ -3,8 +3,8 @@ package alitripreceipt
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripreceipt"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripreceipt"
 )
 
 // AlitripReceiptSellerInvoiceRed 飞猪发票冲红

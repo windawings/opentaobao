@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTxcsBrandmarketingCouponStatisticsGetAPIResponse 品牌营销导购员券推广统计数据回流 API返回值

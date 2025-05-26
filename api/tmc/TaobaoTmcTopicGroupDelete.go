@@ -3,8 +3,8 @@ package tmc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmc"
 )
 
 // TaobaoTmcTopicGroupDelete 删除消息topic分组路由

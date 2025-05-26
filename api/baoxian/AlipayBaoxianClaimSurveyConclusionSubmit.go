@@ -3,8 +3,8 @@ package baoxian
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/baoxian"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/baoxian"
 )
 
 // AlipayBaoxianClaimSurveyConclusionSubmit 保险退货服务商勘察结论提交接口

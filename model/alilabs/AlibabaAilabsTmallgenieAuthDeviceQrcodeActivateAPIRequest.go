@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAilabsTmallgenieAuthDeviceQrcodeActivateAPIRequest 扫码激活设备 API请求

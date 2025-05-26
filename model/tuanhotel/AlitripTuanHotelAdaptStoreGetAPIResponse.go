@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTuanHotelAdaptStoreGetAPIResponse 酒店团购套餐关联适用门店 API返回值

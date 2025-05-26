@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLogisticsExpressAddressBlacklistTmsDeleteAPIRequest 上门取退可揽范围黑名单删除接口 API请求

@@ -3,8 +3,8 @@ package itpolicy
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/itpolicy"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/itpolicy"
 )
 
 // TaobaoAlitripItPolicyAdd 【国际机票销售规则】单条新增

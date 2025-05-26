@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDatabankOpenOneserviceGetdataAPIResponse 瓴羊DaaS消费者运营CGP取数接口 API返回值

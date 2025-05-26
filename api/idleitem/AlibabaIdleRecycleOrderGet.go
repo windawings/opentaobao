@@ -3,8 +3,8 @@ package idleitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idleitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idleitem"
 )
 
 // AlibabaIdleRecycleOrderGet 闲鱼回收订单查询V2

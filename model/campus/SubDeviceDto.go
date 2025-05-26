@@ -3,7 +3,7 @@ package campus
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // SubDeviceDto 结构体

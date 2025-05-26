@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripSupplychainTrainDetailSearchVtwoAPIRequest 【商旅】火车票订单详情查询 API请求

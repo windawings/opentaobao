@@ -3,8 +3,8 @@ package bus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/bus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/bus"
 )
 
 // TaobaoBusAgentMultipleRefundConfirm 综合交通多次退款接口

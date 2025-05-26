@@ -3,8 +3,8 @@ package alihealthoutflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthoutflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthoutflow"
 )
 
 // AlibabaAlihealthDoctorLeshuiApplyNotify 申请单审核结果通知

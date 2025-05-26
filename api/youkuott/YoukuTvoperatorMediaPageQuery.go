@@ -3,8 +3,8 @@ package youkuott
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/youkuott"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/youkuott"
 )
 
 // YoukuTvoperatorMediaPageQuery 运营商全量媒资分页查询

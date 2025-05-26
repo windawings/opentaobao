@@ -3,8 +3,8 @@ package cainiaoecc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cainiaoecc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cainiaoecc"
 )
 
 // CainiaoEccExceptionsDelayCount 菜鸟控制塔包裹滞留异常统计信息获取

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCgameLiteplayAvatarBodyQueryAPIRequest 新氢玩Avatar脸部装扮数据查询 API请求

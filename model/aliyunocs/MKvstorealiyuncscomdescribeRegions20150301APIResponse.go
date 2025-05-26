@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // MKvstoreAliyuncsComDescribeRegions20150301APIResponse 查看Region列表 API返回值

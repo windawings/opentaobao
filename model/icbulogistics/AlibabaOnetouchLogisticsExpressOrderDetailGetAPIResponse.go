@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaOnetouchLogisticsExpressOrderDetailGetAPIResponse 订单详细信息(面单及仓库信息) API返回值

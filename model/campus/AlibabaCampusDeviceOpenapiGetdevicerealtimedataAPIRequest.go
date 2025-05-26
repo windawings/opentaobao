@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusDeviceOpenapiGetdevicerealtimedataAPIRequest 获取指定设备下指定参数的实时值 API请求

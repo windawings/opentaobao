@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAliqinFcIotUseroscontrolAPIRequest 物联卡用户管理停开机功能 API请求

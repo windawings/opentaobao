@@ -3,8 +3,8 @@ package fans
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fans"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fans"
 )
 
 // TmallFansCashpoolCheckpay 检查资金池付款状态

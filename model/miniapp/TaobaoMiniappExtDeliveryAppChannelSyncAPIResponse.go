@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappExtDeliveryAppChannelSyncAPIResponse ISV写入应用的渠道信息 API返回值

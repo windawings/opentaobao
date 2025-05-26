@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTianmaoLanpeiLogisticsMailnoAPIRequest 阿里巴巴.天猫家装.揽配.物流.获取运单号 API请求

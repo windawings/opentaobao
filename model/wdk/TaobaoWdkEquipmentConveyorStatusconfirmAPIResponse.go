@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWdkEquipmentConveyorStatusconfirmAPIResponse 悬挂链状态回传确认 API返回值

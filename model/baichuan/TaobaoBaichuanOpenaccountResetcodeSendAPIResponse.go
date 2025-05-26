@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBaichuanOpenaccountResetcodeSendAPIResponse 百川发送找回密码验证码 API返回值

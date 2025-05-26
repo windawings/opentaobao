@@ -3,8 +3,8 @@ package simba
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/simba"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/simba"
 )
 
 // TaobaoSimbaAdgroupOnlineitemsvonGet 获取用户上架在线销售的全部宝贝

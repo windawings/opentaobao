@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleRecycleSpuTemplateModifyAPIRequest 闲鱼接收回收商spu模板挂载信息 API请求

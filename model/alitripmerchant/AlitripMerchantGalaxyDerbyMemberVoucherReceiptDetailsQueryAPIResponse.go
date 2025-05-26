@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripMerchantGalaxyDerbyMemberVoucherReceiptDetailsQueryAPIResponse v5.0付费会员卡开发订单开票信息查询 API返回值

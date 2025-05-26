@@ -3,8 +3,8 @@ package traderate
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/traderate"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/traderate"
 )
 
 // TmallTraderateFeedsGet 查询子订单对应的评价、追评以及语义标签

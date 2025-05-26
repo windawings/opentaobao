@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappInteractBenefitItemGetAPIResponse 读取实物权益奖池对应绑定的专属下单商品 API返回值

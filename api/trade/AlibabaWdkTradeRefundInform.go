@@ -3,8 +3,8 @@ package trade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/trade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/trade"
 )
 
 // AlibabaWdkTradeRefundInform 外部渠道通知淘鲜达退款成功接口

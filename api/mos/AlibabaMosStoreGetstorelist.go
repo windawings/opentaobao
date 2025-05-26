@@ -3,8 +3,8 @@ package mos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mos"
 )
 
 // AlibabaMosStoreGetstorelist 根据屏编号获取专柜集

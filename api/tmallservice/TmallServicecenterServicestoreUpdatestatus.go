@@ -3,8 +3,8 @@ package tmallservice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallservice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallservice"
 )
 
 // TmallServicecenterServicestoreUpdatestatus 网点/门店状态修改

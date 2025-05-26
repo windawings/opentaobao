@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymGoodsExternalGoodsVmosOffonGameAPIRequest 基于游戏id临时上下架智能发布入口 API请求

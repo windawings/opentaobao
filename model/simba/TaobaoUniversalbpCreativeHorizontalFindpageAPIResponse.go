@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoUniversalbpCreativeHorizontalFindpageAPIResponse 横向管理创意分页查询 API返回值

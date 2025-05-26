@@ -3,8 +3,8 @@ package tmallnr
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallnr"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallnr"
 )
 
 // TmallNrSoldOrderlistQueryJst 已入塔商家查询订单列表

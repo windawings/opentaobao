@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMosOcTradeSyncbanksaleAPIResponse 云闪付、银行卡销售数据回传接口 API返回值

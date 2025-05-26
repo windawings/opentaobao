@@ -3,8 +3,8 @@ package alitripmerchant
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripmerchant"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripmerchant"
 )
 
 // AlitripMerchantGalaxyHotelDetailSearchData 星河-酒店详情页信息获取(新改版)

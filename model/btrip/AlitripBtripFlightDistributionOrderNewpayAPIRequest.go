@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripFlightDistributionOrderNewpayAPIRequest 商旅机票分销-订单支付V2 API请求

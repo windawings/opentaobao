@@ -3,8 +3,8 @@ package examination
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/examination"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/examination"
 )
 
 // AlibabaAlihealthExaminationReportDiagnoseOrderSubmit 体检报告人工解读订单

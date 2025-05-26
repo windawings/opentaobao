@@ -3,8 +3,8 @@ package lsttrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lsttrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lsttrade"
 )
 
 // AlibabaLstTradeSellerOrderListQuery 订单列表查看(卖家视角)

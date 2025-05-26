@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleOnespuRegisterUpdateAPIResponse 闲鱼 ONESPU 挂载接口 API返回值

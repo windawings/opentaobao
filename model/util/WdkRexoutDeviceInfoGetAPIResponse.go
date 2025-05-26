@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkRexoutDeviceInfoGetAPIResponse 获取设备详情-外部对接 API返回值

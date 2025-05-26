@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleGoosefishUserInfoQueryAPIRequest 闲鱼三方容器用户信息获取 API请求

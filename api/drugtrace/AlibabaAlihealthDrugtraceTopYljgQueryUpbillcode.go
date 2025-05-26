@@ -3,8 +3,8 @@ package drugtrace
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/drugtrace"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/drugtrace"
 )
 
 // AlibabaAlihealthDrugtraceTopYljgQueryUpbillcode 通过一个码，查询这个码对应的上游企业出库单的单据号

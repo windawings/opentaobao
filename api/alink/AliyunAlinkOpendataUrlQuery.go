@@ -3,8 +3,8 @@ package alink
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alink"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alink"
 )
 
 // AliyunAlinkOpendataUrlQuery 开放数据授权访问URL查询

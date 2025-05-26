@@ -3,8 +3,8 @@ package ottpay
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ottpay"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ottpay"
 )
 
 // YoukuOttPayOrderQueryauthstate 查询连包签约状态

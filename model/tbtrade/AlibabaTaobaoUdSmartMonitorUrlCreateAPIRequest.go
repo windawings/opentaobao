@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTaobaoUdSmartMonitorUrlCreateAPIRequest UD效果外投投放监测链接生成 API请求

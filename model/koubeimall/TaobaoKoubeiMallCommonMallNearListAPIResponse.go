@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoKoubeiMallCommonMallNearListAPIResponse 根据POI查询附近商圈列表信息 API返回值

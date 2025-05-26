@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoJstSmsMessageShorturlCreateAPIResponse 聚石塔营销效果短链生成 API返回值

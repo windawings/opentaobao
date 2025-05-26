@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoSmartdeliveryStrategyWarehouseIDeleteAPIRequest 删除智能发货引擎仓策略 API请求

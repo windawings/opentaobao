@@ -3,8 +3,8 @@ package retail
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/retail"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/retail"
 )
 
 // AlibabaRetailDeviceRoadStatusReset 贩卖机货道解锁

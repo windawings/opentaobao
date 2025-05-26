@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressLogisticsBuyerFreightCalculateAPIRequest 提供给买家使用的运费计算接口 API请求

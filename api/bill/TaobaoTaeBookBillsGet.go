@@ -3,8 +3,8 @@ package bill
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/bill"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/bill"
 )
 
 // TaobaoTaeBookBillsGet tae查询虚拟账户明细数据

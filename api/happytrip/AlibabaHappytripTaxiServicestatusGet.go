@@ -3,8 +3,8 @@ package happytrip
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/happytrip"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/happytrip"
 )
 
 // AlibabaHappytripTaxiServicestatusGet 供应商服务开通状态

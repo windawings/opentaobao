@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkRexoutDeviceInfoGetAPIRequest 获取设备详情-外部对接 API请求

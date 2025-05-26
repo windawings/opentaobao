@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymItemExternalGoodsBatchPublishAPIResponse 交易猫外部商家批量发布商品接口 API返回值

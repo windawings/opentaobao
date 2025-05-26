@@ -3,8 +3,8 @@ package tmallgenie
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgenie"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgenie"
 )
 
 // AlibabaAiContentBusinessSendPlanReceive 天猫精灵商业化采销发放计划领取

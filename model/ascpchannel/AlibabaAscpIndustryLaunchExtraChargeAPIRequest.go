@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpIndustryLaunchExtraChargeAPIRequest 阿里巴巴.行业.增加费用.服务商发起 API请求

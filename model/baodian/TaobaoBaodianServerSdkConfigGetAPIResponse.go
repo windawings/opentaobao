@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBaodianServerSdkConfigGetAPIResponse 获取宝点SDK的配置项（已迁移） API返回值

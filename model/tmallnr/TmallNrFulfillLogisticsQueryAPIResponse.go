@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallNrFulfillLogisticsQueryAPIResponse 定时送和极速达配送物流信息查询 API返回值

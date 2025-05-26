@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSecurityJaqCaptchaVerifyResultFetchAPIResponse 聚安全安全验证检查结果获取接口 API返回值

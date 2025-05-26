@@ -3,8 +3,8 @@ package campus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/campus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/campus"
 )
 
 // AlibabaCampusGuardTimeperiodListtimerule 门禁控制器查询时间规则

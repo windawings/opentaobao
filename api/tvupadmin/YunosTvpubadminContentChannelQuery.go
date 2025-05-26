@@ -3,8 +3,8 @@ package tvupadmin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tvupadmin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tvupadmin"
 )
 
 // YunosTvpubadminContentChannelQuery 迎客松影视频道查询

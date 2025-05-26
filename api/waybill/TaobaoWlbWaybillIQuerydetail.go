@@ -3,8 +3,8 @@ package waybill
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/waybill"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/waybill"
 )
 
 // TaobaoWlbWaybillIQuerydetail 查面单号状态v1.0

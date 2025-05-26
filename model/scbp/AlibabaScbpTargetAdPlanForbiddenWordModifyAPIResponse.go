@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaScbpTargetAdPlanForbiddenWordModifyAPIResponse 定向推广-新增或删除屏蔽词 API返回值

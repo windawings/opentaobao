@@ -3,8 +3,8 @@ package tmallcarenter
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcarenter"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcarenter"
 )
 
 // TmallCarcenterVehicleinfoRegister 车型数据更新

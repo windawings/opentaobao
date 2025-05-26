@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugtraceTopLsydQueryGetentinfoAPIResponse 通过企业名得到唯一标识ref_ent_id及企业ent_id API返回值

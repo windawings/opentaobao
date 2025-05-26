@@ -3,8 +3,8 @@ package simba
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/simba"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/simba"
 )
 
 // TaobaoSubwayCrowdOfflineLayeredfind 获取人群离线报表30转化周期

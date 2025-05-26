@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoUsergrowthDhhDeliveryBatchaskAPIRequest 广告曝光前判定批量接口V2 API请求

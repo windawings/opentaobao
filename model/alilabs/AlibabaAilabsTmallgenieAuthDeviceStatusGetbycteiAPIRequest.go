@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAilabsTmallgenieAuthDeviceStatusGetbycteiAPIRequest 根据ctei查询状态 API请求

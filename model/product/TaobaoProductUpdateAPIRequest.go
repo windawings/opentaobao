@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoProductUpdateAPIRequest 修改一个产品，可以修改主图，不能修改子图片 API请求

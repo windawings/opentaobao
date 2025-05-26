@@ -3,8 +3,8 @@ package wlb
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlb"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlb"
 )
 
 // TaobaoWlbSubscriptionQuery 查询商家定购的所有服务

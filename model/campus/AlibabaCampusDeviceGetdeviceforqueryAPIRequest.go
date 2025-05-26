@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusDeviceGetdeviceforqueryAPIRequest 下发设备的分页接口(无需AOP控制) API请求

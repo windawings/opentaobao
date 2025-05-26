@@ -3,8 +3,8 @@ package drugtrace
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/drugtrace"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/drugtrace"
 )
 
 // AlibabaAlihealthDrugKytListauths 企业搜索自己授权的物流企业

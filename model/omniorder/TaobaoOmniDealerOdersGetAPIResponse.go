@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoOmniDealerOdersGetAPIResponse 获取单笔全渠道经销商订单的详细信息 API返回值

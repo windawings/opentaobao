@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoPentaprismTaskTriggerFromAPIResponse 任务进度推进（根据fromtoken） API返回值

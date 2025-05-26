@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaOrderFreightCalculateAPIResponse 阿里巴巴下单场景运费方案计算 API返回值

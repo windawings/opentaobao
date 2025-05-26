@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTripvpAgentOrderSearchAPIResponse 【国际机票】查询辅营订单列表 API返回值

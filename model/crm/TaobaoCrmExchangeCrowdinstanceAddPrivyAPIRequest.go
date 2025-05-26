@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCrmExchangeCrowdinstanceAddPrivyAPIRequest 向活动人群实例中增加买家（隐私号版） API请求

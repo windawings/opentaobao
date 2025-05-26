@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaUnitCampusSpaceBookinfoQueryAPIRequest 环路资源信息查询单元环境 API请求

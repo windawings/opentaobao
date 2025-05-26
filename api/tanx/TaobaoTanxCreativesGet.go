@@ -3,8 +3,8 @@ package tanx
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tanx"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tanx"
 )
 
 // TaobaoTanxCreativesGet 批量获取DSP用户的创意审核结果

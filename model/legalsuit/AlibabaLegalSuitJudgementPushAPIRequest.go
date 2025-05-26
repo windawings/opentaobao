@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLegalSuitJudgementPushAPIRequest 推送裁判登记信息给集团法务系统 API请求

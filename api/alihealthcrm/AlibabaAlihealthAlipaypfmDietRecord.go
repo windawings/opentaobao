@@ -3,8 +3,8 @@ package alihealthcrm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthcrm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthcrm"
 )
 
 // AlibabaAlihealthAlipaypfmDietRecord 用户每日摄入卡路里总量回传接口

@@ -3,8 +3,8 @@ package train
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/train"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/train"
 )
 
 // TaobaoTrainAgentExpressSetVtwo 线下票回填物流信息v2--增加鉴权校验

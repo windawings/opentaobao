@@ -3,8 +3,8 @@ package cityretail
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cityretail"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cityretail"
 )
 
 // TmallCityretailWmflOrderLogisticsQuery 完美履约订单物流状态查询接口

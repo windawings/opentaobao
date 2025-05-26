@@ -3,8 +3,8 @@ package btrip
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/btrip"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/btrip"
 )
 
 // AlitripBtripHotelDistributionSearchDetail 商旅酒店api分销-详情报价接口

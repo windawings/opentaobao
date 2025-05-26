@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCntecShopkeeperSupplyStatisticsQueryAPIRequest 团购业务供货商查询门店统计数据 API请求

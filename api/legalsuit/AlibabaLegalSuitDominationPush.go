@@ -3,8 +3,8 @@ package legalsuit
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/legalsuit"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/legalsuit"
 )
 
 // AlibabaLegalSuitDominationPush 更新或者保存管辖信息

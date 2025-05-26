@@ -3,8 +3,8 @@ package lstwarehouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstwarehouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstwarehouse"
 )
 
 // AlibabaLstIcStockItemsUpdate 零售通经销商商品库存设置

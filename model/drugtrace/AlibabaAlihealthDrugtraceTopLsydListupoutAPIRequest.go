@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugtraceTopLsydListupoutAPIRequest 零售药店查询本企业上游企业出库单据信息 API请求

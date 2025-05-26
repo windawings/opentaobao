@@ -3,8 +3,8 @@ package film
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/film"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/film"
 )
 
 // TaobaoFilmLotteryPerformance 淘票票履约发放权益

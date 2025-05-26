@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoGuoguoCpBackupAssigncourierAPIRequest CP兜底后指定接单的小件员 API请求

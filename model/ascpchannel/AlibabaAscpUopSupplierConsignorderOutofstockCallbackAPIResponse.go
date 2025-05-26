@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpUopSupplierConsignorderOutofstockCallbackAPIResponse 履约单纬度的仓缺货回告服务 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarLeaseFreedownpaymentPutAPIResponse 同步直租车免首付商品活动信息 API返回值

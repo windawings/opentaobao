@@ -3,8 +3,8 @@ package lstpos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstpos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstpos"
 )
 
 // AlibabaLstPosOpenAccountCheckissettled 校验当前用户是否入驻了零售通门店接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoKoubeiMallCommonStorePageAPIResponse 分页查询综合体内的门店列表信息 API返回值

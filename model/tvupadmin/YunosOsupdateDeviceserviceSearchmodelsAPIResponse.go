@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosOsupdateDeviceserviceSearchmodelsAPIResponse 根据关键词检索设备型号 API返回值

@@ -3,7 +3,7 @@ package alidoc
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // DrugStoreUpdateTopRequest 结构体

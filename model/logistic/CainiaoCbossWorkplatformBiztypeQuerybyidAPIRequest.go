@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCbossWorkplatformBiztypeQuerybyidAPIRequest 菜鸟工单平台根据业务类型id查询业务类型详细信息 API请求

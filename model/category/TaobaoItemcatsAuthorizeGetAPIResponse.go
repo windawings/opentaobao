@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoItemcatsAuthorizeGetAPIResponse 查询商家被授权品牌列表和类目列表 API返回值

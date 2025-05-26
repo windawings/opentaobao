@@ -3,8 +3,8 @@ package tbitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbitem"
 )
 
 // TaobaoItemPropimgUpload 添加或修改属性图片

@@ -3,8 +3,8 @@ package drugtrace
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/drugtrace"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/drugtrace"
 )
 
 // AlibabaAlihealthDrugScanQuerycode 查询药监码对应的有效期和包装规格

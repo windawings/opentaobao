@@ -3,8 +3,8 @@ package jym
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jym"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jym"
 )
 
 // AlibabaJymIndustryTradeMaxPriceGet 获取交易猫单个游戏渠道帐号交易成功最高价

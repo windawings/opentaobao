@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMjOcBigposBanksaleAdjustmentApplyAPIResponse 大pos银行卡调账申请 API返回值

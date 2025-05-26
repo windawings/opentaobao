@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallMarketingLiuliangbaoSpreadlinkCreateAPIRequest 创建流量宝活动链接 API请求

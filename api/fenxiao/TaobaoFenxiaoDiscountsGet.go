@@ -3,8 +3,8 @@ package fenxiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fenxiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fenxiao"
 )
 
 // TaobaoFenxiaoDiscountsGet 获取折扣信息

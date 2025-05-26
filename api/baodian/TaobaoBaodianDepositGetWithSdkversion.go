@@ -3,8 +3,8 @@ package baodian
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/baodian"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/baodian"
 )
 
 // TaobaoBaodianDepositGetWithSdkversion 查询用户宝点信息（带sdk版本，已迁移）

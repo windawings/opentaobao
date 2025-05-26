@@ -3,8 +3,8 @@ package yunos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/yunos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/yunos"
 )
 
 // AliyunCosmoGatewayInvoke alios cosmo服务调用

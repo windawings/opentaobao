@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AccountAliyuncsComCreateAliyunAccountForBid20130701APIRequest 为bid用户创建账号 API请求

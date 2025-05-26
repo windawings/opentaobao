@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkUmsOutboundSortingCallbackTaskdetailAPIResponse dps分货，明细回传 API返回值

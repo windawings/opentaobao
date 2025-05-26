@@ -3,8 +3,8 @@ package tbitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbitem"
 )
 
 // TaobaoItemsOnsaleGet 获取当前会话用户出售中的商品列表

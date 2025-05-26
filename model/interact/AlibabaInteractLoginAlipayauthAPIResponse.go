@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaInteractLoginAlipayauthAPIResponse 双11到店互动花呗红包获取token鉴权接口 API返回值

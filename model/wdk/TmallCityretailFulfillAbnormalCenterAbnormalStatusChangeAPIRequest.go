@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCityretailFulfillAbnormalCenterAbnormalStatusChangeAPIRequest 同城零售履约异常中心异常单处理结果回调接口 API请求

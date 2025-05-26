@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMydataOverviewIndicatorBasicGetAPIRequest 我的效果-获取公司询盘流量行业表现 API请求

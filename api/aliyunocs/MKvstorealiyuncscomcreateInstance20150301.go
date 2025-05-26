@@ -3,8 +3,8 @@ package aliyunocs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliyunocs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliyunocs"
 )
 
 // MKvstoreAliyuncsComCreateInstance20150301 创建OCS实例

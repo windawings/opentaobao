@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBaichuanOpenaccountNewlogindoublecheckAPIRequest 百川新登录二次验证 API请求

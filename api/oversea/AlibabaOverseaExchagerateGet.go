@@ -3,8 +3,8 @@ package oversea
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/oversea"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/oversea"
 )
 
 // AlibabaOverseaExchagerateGet 汇率信息获取

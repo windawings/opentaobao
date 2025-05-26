@@ -3,8 +3,8 @@ package alime
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alime"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alime"
 )
 
 // TaobaoAlimeUserTokenGet 获取用户免登录令牌

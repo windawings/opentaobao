@@ -3,8 +3,8 @@ package tmallservice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallservice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallservice"
 )
 
 // TmallServicecenterWorkcardVirtualphoneBind 工单维度虚拟中间号绑定

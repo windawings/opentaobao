@@ -3,8 +3,8 @@ package autonavi
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/autonavi"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/autonavi"
 )
 
 // AlibabaAutonaviApiTrafficboardImageGet 交通看板-栅格情报获取

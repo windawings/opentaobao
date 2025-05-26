@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWeikeEserviceSubusersGetAPIRequest 客服外包订单分配的商家子账号列表 API请求

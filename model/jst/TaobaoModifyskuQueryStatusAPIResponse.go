@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoModifyskuQueryStatusAPIResponse 查询商家是否开通自助修改商品信息服务 API返回值

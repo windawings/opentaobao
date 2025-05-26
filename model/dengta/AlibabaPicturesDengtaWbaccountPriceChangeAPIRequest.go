@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaPicturesDengtaWbaccountPriceChangeAPIRequest 微博公众号价格变化通知 API请求

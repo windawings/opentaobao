@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAliautoOrderQrcodeAPIRequest 根据商品id列表获取可扫描下单二维码 API请求

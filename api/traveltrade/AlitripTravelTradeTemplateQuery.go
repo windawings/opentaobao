@@ -3,8 +3,8 @@ package traveltrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/traveltrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/traveltrade"
 )
 
 // AlitripTravelTradeTemplateQuery 订单服务详情模版查询

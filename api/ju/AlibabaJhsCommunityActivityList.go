@@ -3,8 +3,8 @@ package ju
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ju"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ju"
 )
 
 // AlibabaJhsCommunityActivityList 聚划算用增淘外社群服务活动列表

@@ -3,8 +3,8 @@ package ascpffo
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascpffo"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascpffo"
 )
 
 // AliexpressAscpFfoItemQuery AliExpress发货单明细分页查询API

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaPurCmallGoodsStatusSyncAPIRequest 第三方商城接入采购商城-商品状态同步 API请求

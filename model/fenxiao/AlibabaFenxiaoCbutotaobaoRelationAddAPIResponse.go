@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaFenxiaoCbutotaobaoRelationAddAPIResponse 1688分销铺货到淘宝关系添加 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoServindustryFinanceInsuranceInvoiceInsurancenosAPIResponse 商家查询本次开票的保险单号 API返回值

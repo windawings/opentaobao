@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBusAgentBookticketConfirmAPIRequest 汽车票代理商接口—确认出票是否成功 API请求

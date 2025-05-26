@@ -3,8 +3,8 @@ package scbp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/scbp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/scbp"
 )
 
 // AlibabaScbpAdKeywordRankPriceBatchget 外贸直通车关键词前五名批量排价

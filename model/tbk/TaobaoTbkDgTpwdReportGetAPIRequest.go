@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkDgTpwdReportGetAPIRequest 淘宝客-推广者-淘口令回流数据查询 API请求

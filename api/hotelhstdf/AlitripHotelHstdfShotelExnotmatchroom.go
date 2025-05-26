@@ -3,8 +3,8 @@ package hotelhstdf
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotelhstdf"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotelhstdf"
 )
 
 // AlitripHotelHstdfShotelExnotmatchroom 导出一个hid下所有未匹配rid的接口

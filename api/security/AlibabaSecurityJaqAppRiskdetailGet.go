@@ -3,8 +3,8 @@ package security
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/security"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/security"
 )
 
 // AlibabaSecurityJaqAppRiskdetailGet 应用风险详细信息查询接口

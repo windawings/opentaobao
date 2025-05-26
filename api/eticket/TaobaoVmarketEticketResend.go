@@ -3,8 +3,8 @@ package eticket
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/eticket"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/eticket"
 )
 
 // TaobaoVmarketEticketResend 外部合作商家重发电子凭证回调接口

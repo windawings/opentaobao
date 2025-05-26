@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaInteractAllsparkisvDrawAPIResponse allspark提供抽奖tida接口对应鉴权接口 API返回值

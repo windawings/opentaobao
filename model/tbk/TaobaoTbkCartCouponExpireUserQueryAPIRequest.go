@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkCartCouponExpireUserQueryAPIRequest 购物车催付优惠券到期查询用户信息 API请求

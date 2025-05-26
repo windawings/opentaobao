@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTrendStyleBindinfoUploadAPIRequest 趋势词&款式绑定信息同步API API请求

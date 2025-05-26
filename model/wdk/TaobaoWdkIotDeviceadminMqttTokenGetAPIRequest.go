@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWdkIotDeviceadminMqttTokenGetAPIRequest 获取MQTT访问令牌 API请求

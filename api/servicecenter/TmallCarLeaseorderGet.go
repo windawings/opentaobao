@@ -3,8 +3,8 @@ package servicecenter
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/servicecenter"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/servicecenter"
 )
 
 // TmallCarLeaseorderGet 获取租赁订单信息

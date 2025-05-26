@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkUmsOrderGetAPIRequest 查询店仓作业单据清单 （库存对账辅助）-回流单 API请求

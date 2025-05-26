@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAliautoWisdomdataOmidRecieveAPIResponse 大搜车车型参配数据接入 API返回值

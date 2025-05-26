@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSubusersSubaccountSearchAPIRequest 根据子账号登录名后缀模糊搜索子账号列表 API请求

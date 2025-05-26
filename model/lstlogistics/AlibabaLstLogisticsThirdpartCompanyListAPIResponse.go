@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstLogisticsThirdpartCompanyListAPIResponse 供应商-异云-第三方物流公司列表 API返回值

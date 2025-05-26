@@ -3,8 +3,8 @@ package opentrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/opentrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/opentrade"
 )
 
 // TaobaoOpentradeSpecialItemsQuery 专属下单获取商品绑定信息

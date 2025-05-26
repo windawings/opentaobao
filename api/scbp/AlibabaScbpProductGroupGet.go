@@ -3,8 +3,8 @@ package scbp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/scbp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/scbp"
 )
 
 // AlibabaScbpProductGroupGet 查询指定产品分组的下一层子分组

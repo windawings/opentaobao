@@ -3,8 +3,8 @@ package tmallcar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcar"
 )
 
 // TmallAliautoAutofinanceCreditReceive 接收授信结果通知

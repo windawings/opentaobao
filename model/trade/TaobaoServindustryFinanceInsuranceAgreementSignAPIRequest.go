@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoServindustryFinanceInsuranceAgreementSignAPIRequest 保司合同签约后回调接口 API请求

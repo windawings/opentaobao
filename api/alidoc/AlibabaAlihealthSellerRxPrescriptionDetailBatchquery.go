@@ -3,8 +3,8 @@ package alidoc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alidoc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alidoc"
 )
 
 // AlibabaAlihealthSellerRxPrescriptionDetailBatchquery 商家维度批量查询订单处方详情

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoKoubeiTribeOpenVerifyCodeApplyAPIRequest 口碑综合体手机号获取验证码 API请求

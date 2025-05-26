@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuOttPayOrderQuerycporderAPIRequest 查询支付订单对应cp订单号 API请求

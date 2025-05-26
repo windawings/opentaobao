@@ -3,8 +3,8 @@ package charity
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/charity"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/charity"
 )
 
 // AlibabaCharityUseractionSync 用户公益行为同步

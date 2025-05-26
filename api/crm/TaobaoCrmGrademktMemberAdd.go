@@ -3,8 +3,8 @@ package crm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/crm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/crm"
 )
 
 // TaobaoCrmGrademktMemberAdd 会员等级营销-会员吸纳

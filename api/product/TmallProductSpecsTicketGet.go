@@ -3,8 +3,8 @@ package product
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/product"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/product"
 )
 
 // TmallProductSpecsTicketGet 产品规格审核信息获取接口

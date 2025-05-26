@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressOfferDsProductSimplequeryAPIRequest Dropshipper查询单个商品的简易信息 API请求

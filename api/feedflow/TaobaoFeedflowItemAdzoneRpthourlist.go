@@ -3,8 +3,8 @@ package feedflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/feedflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/feedflow"
 )
 
 // TaobaoFeedflowItemAdzoneRpthourlist 超级推荐【商品推广】资源位分时报表查询

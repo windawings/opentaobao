@@ -3,8 +3,8 @@ package tbrefund
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbrefund"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbrefund"
 )
 
 // TaobaoRefundRefusereasonGet 获取拒绝原因列表

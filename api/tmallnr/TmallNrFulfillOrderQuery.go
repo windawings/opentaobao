@@ -3,8 +3,8 @@ package tmallnr
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallnr"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallnr"
 )
 
 // TmallNrFulfillOrderQuery 零售商获取品牌商的单笔订单

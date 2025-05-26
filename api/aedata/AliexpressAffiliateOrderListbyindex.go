@@ -3,8 +3,8 @@ package aedata
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aedata"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aedata"
 )
 
 // AliexpressAffiliateOrderListbyindex AE联盟推广者订单查询接口-按游标索引查询

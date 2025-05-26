@@ -3,8 +3,8 @@ package xhotelonlineorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelonlineorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelonlineorder"
 )
 
 // TaobaoXhotelIntlRateUpdate 不落库商家推送更新酒店rate

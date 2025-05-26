@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWdkEquipmentWcsWcsinfoUploadAPIRequest 悬挂链业务信息上传 API请求

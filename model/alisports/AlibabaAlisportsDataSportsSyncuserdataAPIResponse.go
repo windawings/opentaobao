@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlisportsDataSportsSyncuserdataAPIResponse 阿里体育数据中心用户个人信息同步接口 API返回值

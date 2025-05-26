@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTraderateFeedsGetAPIResponse 查询子订单对应的评价、追评以及语义标签 API返回值

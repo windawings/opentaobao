@@ -11,8 +11,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/bububa/opentaobao/metadata"
-	"github.com/bububa/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/metadata"
+	"github.com/windawings/opentaobao/metadata/util"
 )
 
 // Download 下载淘宝API文档metadata

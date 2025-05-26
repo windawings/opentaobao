@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTravelBookinfosSearchAPIResponse 飞猪度假-订单预定信息列表搜索接口 API返回值

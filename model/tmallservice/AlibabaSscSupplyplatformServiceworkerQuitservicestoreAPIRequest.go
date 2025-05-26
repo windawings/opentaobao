@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSscSupplyplatformServiceworkerQuitservicestoreAPIRequest 工人退出网点 API请求

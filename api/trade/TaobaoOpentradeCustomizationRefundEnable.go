@@ -3,8 +3,8 @@ package trade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/trade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/trade"
 )
 
 // TaobaoOpentradeCustomizationRefundEnable 定制订单设置允许仅退款

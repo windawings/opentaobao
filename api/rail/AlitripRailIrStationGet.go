@@ -3,8 +3,8 @@ package rail
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/rail"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/rail"
 )
 
 // AlitripRailIrStationGet 国际火车票标准车站查询

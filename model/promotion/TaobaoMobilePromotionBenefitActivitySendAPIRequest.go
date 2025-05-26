@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMobilePromotionBenefitActivitySendAPIRequest 手淘专用单用户发放接口 API请求

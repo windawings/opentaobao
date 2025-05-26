@@ -3,8 +3,8 @@ package trade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/trade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/trade"
 )
 
 // TaobaoLifeReservationItemOrderChange 生服购后预约单外部发起变更

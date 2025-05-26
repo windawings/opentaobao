@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLarkPosBasedataGetworkstationAPIResponse 根据影城id工作站和macId获取工作站 API返回值

@@ -3,8 +3,8 @@ package ascpchannel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascpchannel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascpchannel"
 )
 
 // AlibabaAscpUopTobPackageQuery B2B包裹查询接口

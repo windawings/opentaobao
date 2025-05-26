@@ -3,8 +3,8 @@ package legalsuit
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/legalsuit"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/legalsuit"
 )
 
 // AlibabaLegalStandpointCollectionstandpointQuery 查询收藏口径

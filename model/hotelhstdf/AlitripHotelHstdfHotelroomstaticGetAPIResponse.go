@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripHotelHstdfHotelroomstaticGetAPIResponse 根据类型查询静态字段 API返回值

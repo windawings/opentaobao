@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleConsignmentSpuStatisticsAPIRequest 闲鱼帮卖同步服务商交易统计信息 API请求

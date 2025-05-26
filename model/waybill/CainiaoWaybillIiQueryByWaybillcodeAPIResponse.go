@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoWaybillIiQueryByWaybillcodeAPIResponse 通过面单号查询面单打印报文 API返回值

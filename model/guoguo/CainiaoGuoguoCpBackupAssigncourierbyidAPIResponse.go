@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoGuoguoCpBackupAssigncourierbyidAPIResponse 根据菜鸟账号ID指派小件员 API返回值

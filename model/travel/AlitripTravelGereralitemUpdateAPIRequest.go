@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTravelGereralitemUpdateAPIRequest 除度假线路、门票以外的其他类目商品维护接口（商品ID重复将自动更新） API请求

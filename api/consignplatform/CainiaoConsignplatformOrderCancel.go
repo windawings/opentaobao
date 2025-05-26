@@ -3,8 +3,8 @@ package consignplatform
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/consignplatform"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/consignplatform"
 )
 
 // CainiaoConsignplatformOrderCancel 菜鸟发货工作台取消包裹以及订单

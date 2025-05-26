@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoXhotelItemSelectionSellerStatHotshidAPIResponse 供应链选品热销标准酒店覆盖情况 API返回值

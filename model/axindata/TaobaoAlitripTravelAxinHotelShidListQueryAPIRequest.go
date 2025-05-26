@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelAxinHotelShidListQueryAPIRequest 阿信酒店分销-标准酒店id列表查询 API请求

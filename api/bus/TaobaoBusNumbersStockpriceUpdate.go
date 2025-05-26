@@ -3,8 +3,8 @@ package bus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/bus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/bus"
 )
 
 // TaobaoBusNumbersStockpriceUpdate 汽车票更新价格库存

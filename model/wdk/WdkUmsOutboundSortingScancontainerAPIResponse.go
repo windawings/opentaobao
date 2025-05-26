@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkUmsOutboundSortingScancontainerAPIResponse dps分货-扫描分货容器判断是否可用 API返回值

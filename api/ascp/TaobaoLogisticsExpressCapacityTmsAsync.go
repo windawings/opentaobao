@@ -3,8 +3,8 @@ package ascp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascp"
 )
 
 // TaobaoLogisticsExpressCapacityTmsAsync 上门取退产能信息同步/更新

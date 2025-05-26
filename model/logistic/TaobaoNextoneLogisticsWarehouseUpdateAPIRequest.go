@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoNextoneLogisticsWarehouseUpdateAPIRequest AG退货入仓状态写接口 API请求

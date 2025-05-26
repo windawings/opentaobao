@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressOfferDsProductSimplequeryAPIResponse Dropshipper查询单个商品的简易信息 API返回值

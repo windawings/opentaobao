@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAuctionZcVehicleDetectStatusProcessAPIRequest 检测服务-服务单状态流转 API请求

@@ -3,8 +3,8 @@ package drugtrace
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/drugtrace"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/drugtrace"
 )
 
 // AlibabaAlihealthDrugcodeCenterReceiveBoundStatus 接收中央随机化系统和临床研究机构的绑定确认状态

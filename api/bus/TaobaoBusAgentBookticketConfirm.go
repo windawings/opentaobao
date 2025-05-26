@@ -3,8 +3,8 @@ package bus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/bus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/bus"
 )
 
 // TaobaoBusAgentBookticketConfirm 汽车票代理商接口—确认出票是否成功

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaFenxiaoCbutotaobaoRelationAddAPIRequest 1688分销铺货到淘宝关系添加 API请求

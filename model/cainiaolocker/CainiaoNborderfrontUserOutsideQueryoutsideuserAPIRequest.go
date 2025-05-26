@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoNborderfrontUserOutsideQueryoutsideuserAPIRequest 查询外部小件员休息 API请求

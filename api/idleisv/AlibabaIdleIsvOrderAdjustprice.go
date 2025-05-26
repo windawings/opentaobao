@@ -3,8 +3,8 @@ package idleisv
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idleisv"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idleisv"
 )
 
 // AlibabaIdleIsvOrderAdjustprice 闲鱼服务商订单价格修改接口

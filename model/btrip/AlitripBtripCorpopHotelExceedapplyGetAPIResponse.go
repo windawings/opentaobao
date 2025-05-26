@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripCorpopHotelExceedapplyGetAPIResponse 商旅酒店第三方超标审批单搜索接口 API返回值

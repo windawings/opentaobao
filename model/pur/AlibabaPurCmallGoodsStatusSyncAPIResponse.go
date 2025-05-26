@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaPurCmallGoodsStatusSyncAPIResponse 第三方商城接入采购商城-商品状态同步 API返回值

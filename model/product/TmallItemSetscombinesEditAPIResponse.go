@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemSetscombinesEditAPIResponse 普通商品转套装商品&套装商品编辑接口 API返回值

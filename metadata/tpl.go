@@ -97,10 +97,10 @@ type TplModel struct {
 	Params      []TplParam // struct 成员
 	Pkg         string     // 包名
 	Name        string     // struct 名
-	ImportModel bool       // 是否import github.com/bububa/opentaobao/model
+	ImportModel bool       // 是否import github.com/windawings/opentaobao/model
 }
 
-// NeedImportModel 判断SDK model模版是否需要引用github.com/bububa/opentaobao/model包
+// NeedImportModel 判断SDK model模版是否需要引用github.com/windawings/opentaobao/model包
 func (t TplModel) NeedImportModel() bool {
 	for _, p := range t.Params {
 		if strings.HasSuffix(p.Type, "model.File") {

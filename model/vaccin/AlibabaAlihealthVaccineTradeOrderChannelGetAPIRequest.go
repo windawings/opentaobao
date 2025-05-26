@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthVaccineTradeOrderChannelGetAPIRequest 通过订单ID与卖家ID获取订单渠道 API请求

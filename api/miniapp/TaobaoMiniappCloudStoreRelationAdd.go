@@ -3,8 +3,8 @@ package miniapp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniapp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniapp"
 )
 
 // TaobaoMiniappCloudStoreRelationAdd 云存储添加

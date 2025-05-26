@@ -3,8 +3,8 @@ package logistic
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/logistic"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/logistic"
 )
 
 // TaobaoLogisticsExpressCourierSync 快递公司同步小件员信息

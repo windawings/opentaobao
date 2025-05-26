@@ -3,8 +3,8 @@ package drug
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/drug"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/drug"
 )
 
 // AlibabaAlihealthNrTradeMedicalInsuranceGet 阿里健康医保支付信息获取

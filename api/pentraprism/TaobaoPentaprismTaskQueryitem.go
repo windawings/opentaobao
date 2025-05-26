@@ -3,8 +3,8 @@ package pentraprism
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/pentraprism"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/pentraprism"
 )
 
 // TaobaoPentaprismTaskQueryitem 查询任务当前进度

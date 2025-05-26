@@ -3,8 +3,8 @@ package larkiot
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/larkiot"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/larkiot"
 )
 
 // TaobaoLarkPosBasedataGetworkstation 根据影城id工作站和macId获取工作站

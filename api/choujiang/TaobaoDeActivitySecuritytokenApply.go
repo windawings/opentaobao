@@ -3,8 +3,8 @@ package choujiang
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/choujiang"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/choujiang"
 )
 
 // TaobaoDeActivitySecuritytokenApply 安全token获取

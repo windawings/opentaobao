@@ -3,8 +3,8 @@ package interact
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/interact"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/interact"
 )
 
 // AlibabaInteractSensorWangwang 手淘拉起旺旺接口

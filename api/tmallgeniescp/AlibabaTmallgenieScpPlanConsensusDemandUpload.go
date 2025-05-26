@@ -3,8 +3,8 @@ package tmallgeniescp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgeniescp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgeniescp"
 )
 
 // AlibabaTmallgenieScpPlanConsensusDemandUpload 20-IBP共识需求回传接口

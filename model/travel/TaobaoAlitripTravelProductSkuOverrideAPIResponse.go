@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelProductSkuOverrideAPIResponse （供销）产品级别日历价格库存修改，全量覆盖 API返回值

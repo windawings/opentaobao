@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoConsignplatformOrderCancelAPIResponse 菜鸟发货工作台取消包裹以及订单 API返回值

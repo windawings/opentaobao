@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoOnebpDkxCampaignCampaignNoreportAPIRequest 获取场景计划的非报表数据 API请求

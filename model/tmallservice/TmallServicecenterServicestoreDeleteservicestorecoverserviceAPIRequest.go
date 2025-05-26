@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterServicestoreDeleteservicestorecoverserviceAPIRequest 删除网点覆盖的服务 API请求

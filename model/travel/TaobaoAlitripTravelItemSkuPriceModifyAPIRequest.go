@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelItemSkuPriceModifyAPIRequest 【API3.0】日期级别日历价格库存修改，增量维护 API请求

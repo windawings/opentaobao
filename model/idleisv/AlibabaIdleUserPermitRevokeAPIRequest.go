@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleUserPermitRevokeAPIRequest 删除服务商与卖家之间的订单消息绑定关系 API请求

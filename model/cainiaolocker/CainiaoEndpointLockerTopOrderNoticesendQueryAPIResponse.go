@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoEndpointLockerTopOrderNoticesendQueryAPIResponse 查询订单是否由裹裹发送消息 API返回值

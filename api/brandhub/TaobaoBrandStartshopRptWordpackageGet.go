@@ -3,8 +3,8 @@ package brandhub
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/brandhub"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/brandhub"
 )
 
 // TaobaoBrandStartshopRptWordpackageGet 明星店铺品牌流量包报表数据查询

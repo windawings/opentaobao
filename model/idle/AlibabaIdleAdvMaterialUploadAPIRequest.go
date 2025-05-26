@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleAdvMaterialUploadAPIRequest 闲鱼用户增长素材中心素材上传接口 API请求

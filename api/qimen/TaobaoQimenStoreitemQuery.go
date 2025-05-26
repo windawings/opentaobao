@@ -3,8 +3,8 @@ package qimen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/qimen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/qimen"
 )
 
 // TaobaoQimenStoreitemQuery 门店关联商品查询接口

@@ -3,8 +3,8 @@ package eleenterpriseordernew
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/eleenterpriseordernew"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/eleenterpriseordernew"
 )
 
 // AlibabaEleEnterpriseOrdernewGetstatus 订单状态查询接口

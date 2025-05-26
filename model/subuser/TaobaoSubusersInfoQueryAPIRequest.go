@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSubusersInfoQueryAPIRequest 根据当前子账号登陆态，获取该子账号基本信息 API请求

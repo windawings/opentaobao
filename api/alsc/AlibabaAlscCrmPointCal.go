@@ -3,8 +3,8 @@ package alsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alsc"
 )
 
 // AlibabaAlscCrmPointCal 计算积分可以抵扣的金额

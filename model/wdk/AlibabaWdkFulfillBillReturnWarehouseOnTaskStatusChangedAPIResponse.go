@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkFulfillBillReturnWarehouseOnTaskStatusChangedAPIResponse 退仓结果回传 API返回值

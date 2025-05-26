@@ -3,8 +3,8 @@ package tbk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbk"
 )
 
 // TaobaoTbkDgNewuserOrderGet 淘宝客-推广者-新用户订单明细查询

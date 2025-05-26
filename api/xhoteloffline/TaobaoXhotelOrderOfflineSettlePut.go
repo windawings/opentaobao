@@ -3,8 +3,8 @@ package xhoteloffline
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhoteloffline"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhoteloffline"
 )
 
 // TaobaoXhotelOrderOfflineSettlePut 线下信用住结账专用接口

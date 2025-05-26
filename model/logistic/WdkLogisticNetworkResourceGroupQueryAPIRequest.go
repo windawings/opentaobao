@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkLogisticNetworkResourceGroupQueryAPIRequest 查询网格仓-区块-自提点关系 API请求

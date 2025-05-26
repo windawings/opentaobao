@@ -3,8 +3,8 @@ package icbu
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbu"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbu"
 )
 
 // AlibabaIcbuCategoryIdMapping 新旧属性的映射

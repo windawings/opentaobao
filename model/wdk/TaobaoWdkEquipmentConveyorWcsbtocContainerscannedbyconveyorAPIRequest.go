@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWdkEquipmentConveyorWcsbtocContainerscannedbyconveyorAPIRequest 容器被悬挂链扫描 API请求

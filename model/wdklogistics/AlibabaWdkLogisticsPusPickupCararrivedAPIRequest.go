@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkLogisticsPusPickupCararrivedAPIRequest 自提业务-车辆到达上报车牌号 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMoziAclAppGetpermisspkgsAPIResponse 分页获取应用的权限套餐 API返回值

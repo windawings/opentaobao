@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaPicturesDengtaWbaccountPriceChangeAPIResponse 微博公众号价格变化通知 API返回值

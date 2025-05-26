@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymSteamFulfillmentUpdateAPIRequest 交易猫Steam类目发履约态变更 API请求

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstPosOpenInventoryGetinventorydataAPIRequest 商品库存只读接口(最多20条库存信息) API请求

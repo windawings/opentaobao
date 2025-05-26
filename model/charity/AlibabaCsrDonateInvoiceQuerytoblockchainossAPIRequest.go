@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCsrDonateInvoiceQuerytoblockchainossAPIRequest 触发odps任务离线查询公益宝贝开票对账明细 API请求

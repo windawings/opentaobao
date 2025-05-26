@@ -5,10 +5,10 @@ import (
 	"os"
 	"testing"
 
-	tbkApi "github.com/bububa/opentaobao/api/tbk"
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model"
-	tbkModel "github.com/bububa/opentaobao/model/tbk"
+	tbkApi "github.com/windawings/opentaobao/api/tbk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model"
+	tbkModel "github.com/windawings/opentaobao/model/tbk"
 )
 
 func TestXMLFormatHmac(t *testing.T) {

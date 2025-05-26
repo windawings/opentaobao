@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusSpaceUnitGetlistwithattrbygroupidAPIResponse 根据空间分组id、ids查空间单元信息【带空间单元业务属性信息】 API返回值

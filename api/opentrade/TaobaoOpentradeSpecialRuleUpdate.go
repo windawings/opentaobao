@@ -3,8 +3,8 @@ package opentrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/opentrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/opentrade"
 )
 
 // TaobaoOpentradeSpecialRuleUpdate 专属下单更新限购规则

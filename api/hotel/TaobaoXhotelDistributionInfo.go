@@ -3,8 +3,8 @@ package hotel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotel"
 )
 
 // TaobaoXhotelDistributionInfo 飞猪分销通用酒店标准信息接口

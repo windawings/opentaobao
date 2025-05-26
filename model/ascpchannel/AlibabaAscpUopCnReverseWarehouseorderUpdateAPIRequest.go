@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpUopCnReverseWarehouseorderUpdateAPIRequest 供应链中台逆向入库单修改服务 API请求

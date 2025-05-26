@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSellercatsListGetAPIRequest 获取前台展示的店铺内卖家自定义商品类目 API请求

@@ -3,8 +3,8 @@ package tmallcar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcar"
 )
 
 // TmallCarLeaseContractdownload 天猫开新车租后合同下载

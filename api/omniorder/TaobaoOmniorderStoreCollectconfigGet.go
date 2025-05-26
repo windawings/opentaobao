@@ -3,8 +3,8 @@ package omniorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/omniorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/omniorder"
 )
 
 // TaobaoOmniorderStoreCollectconfigGet 查询门店自提配置内容

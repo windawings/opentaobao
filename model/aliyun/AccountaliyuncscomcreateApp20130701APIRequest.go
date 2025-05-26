@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AccountAliyuncsComCreateApp20130701APIRequest 给指定用户创建appkey API请求

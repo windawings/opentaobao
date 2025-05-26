@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFeedflowItemAdzoneRpthourlistAPIRequest 超级推荐【商品推广】资源位分时报表查询 API请求

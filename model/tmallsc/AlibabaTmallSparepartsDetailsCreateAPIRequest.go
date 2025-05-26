@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallSparepartsDetailsCreateAPIRequest 天猫蚁巢同步工单申请备件明细 API请求

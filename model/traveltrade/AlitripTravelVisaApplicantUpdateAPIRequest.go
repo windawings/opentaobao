@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTravelVisaApplicantUpdateAPIRequest 飞猪度假-普通签证-申请人进度推进接口 API请求

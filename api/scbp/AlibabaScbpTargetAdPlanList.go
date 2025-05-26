@@ -3,8 +3,8 @@ package scbp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/scbp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/scbp"
 )
 
 // AlibabaScbpTargetAdPlanList 定向推广-查询定向推广计划列表并返回计划基础信息

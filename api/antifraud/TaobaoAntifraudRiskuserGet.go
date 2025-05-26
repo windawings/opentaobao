@@ -3,8 +3,8 @@ package antifraud
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/antifraud"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/antifraud"
 )
 
 // TaobaoAntifraudRiskuserGet 反欺诈用户风险查询

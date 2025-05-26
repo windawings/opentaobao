@@ -3,8 +3,8 @@ package alihealthoutflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthoutflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthoutflow"
 )
 
 // AlibabaAlihealthAsyncprescribePrescriptionSearch 异步开方处方查询

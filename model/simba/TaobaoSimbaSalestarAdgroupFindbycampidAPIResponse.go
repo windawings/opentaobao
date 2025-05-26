@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaSalestarAdgroupFindbycampidAPIResponse (销量明星)批量获取推广计划下的推广组信息 API返回值

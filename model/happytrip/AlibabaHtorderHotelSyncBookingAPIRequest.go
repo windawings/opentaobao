@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHtorderHotelSyncBookingAPIRequest 未来酒店亲橙客栈预订信息同步 API请求

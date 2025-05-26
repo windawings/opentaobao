@@ -3,8 +3,8 @@ package jstinteractive
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jstinteractive"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jstinteractive"
 )
 
 // TaobaoJstInteractivePointQuery 互动积分查询接口

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlisportsPassportAccountCheckmobileAPIRequest 阿里体育会员系统--手机号验证接口 API请求

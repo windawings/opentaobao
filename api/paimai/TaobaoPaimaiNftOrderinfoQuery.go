@@ -3,8 +3,8 @@ package paimai
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/paimai"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/paimai"
 )
 
 // TaobaoPaimaiNftOrderinfoQuery 查询订单类型

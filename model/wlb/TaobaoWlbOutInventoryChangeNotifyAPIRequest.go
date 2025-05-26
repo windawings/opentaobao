@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWlbOutInventoryChangeNotifyAPIRequest 外部库存变化通知（企业物流用户使用） API请求

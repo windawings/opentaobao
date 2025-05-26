@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMoziVdsTenantApiServiceMatchempcodesAPIRequest 校验组-员工是否匹配 API请求

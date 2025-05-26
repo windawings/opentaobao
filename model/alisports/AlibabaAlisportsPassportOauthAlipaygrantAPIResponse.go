@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlisportsPassportOauthAlipaygrantAPIResponse 阿里体育会员系统-支付宝授权接口 API返回值

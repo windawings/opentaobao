@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoGuoguoBackupGraborderSubmitmailnoAPIResponse 兜底派送订单的运单号回传接口 API返回值

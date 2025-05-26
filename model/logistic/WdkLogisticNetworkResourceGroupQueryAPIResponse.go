@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkLogisticNetworkResourceGroupQueryAPIResponse 查询网格仓-区块-自提点关系 API返回值

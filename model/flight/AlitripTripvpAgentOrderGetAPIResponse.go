@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTripvpAgentOrderGetAPIResponse 廉航辅营正向订单查询详情接口 API返回值

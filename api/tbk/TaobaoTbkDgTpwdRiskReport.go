@@ -3,8 +3,8 @@ package tbk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbk"
 )
 
 // TaobaoTbkDgTpwdRiskReport 淘宝客-推广者-淘口令预警及拦截查询

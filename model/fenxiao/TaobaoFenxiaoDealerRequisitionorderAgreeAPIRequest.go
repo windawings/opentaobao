@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFenxiaoDealerRequisitionorderAgreeAPIRequest 供应商/分销商通过采购申请/经销采购单申请 API请求

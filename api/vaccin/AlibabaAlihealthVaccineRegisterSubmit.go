@@ -3,8 +3,8 @@ package vaccin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/vaccin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/vaccin"
 )
 
 // AlibabaAlihealthVaccineRegisterSubmit cdc回传疫苗登记数据

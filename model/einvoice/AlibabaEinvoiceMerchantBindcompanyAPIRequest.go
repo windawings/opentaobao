@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEinvoiceMerchantBindcompanyAPIRequest 发票中台-跨平台绑定已入驻税号与商户 API请求

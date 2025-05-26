@@ -3,8 +3,8 @@ package fpm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fpm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fpm"
 )
 
 // AlibabaFpmFileUpload 结算单文件上传

@@ -3,8 +3,8 @@ package alihouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihouse"
 )
 
 // AlibabaAlihouseNewhomeVideoSync 视频草稿信息同步

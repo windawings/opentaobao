@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLogisticsTaowaiMsgSendAPIResponse 淘外包裹物流信息走淘宝发包裹状态通知接口 API返回值

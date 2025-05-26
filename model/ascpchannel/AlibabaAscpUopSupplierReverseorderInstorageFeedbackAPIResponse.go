@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpUopSupplierReverseorderInstorageFeedbackAPIResponse 逆向销退入库单入库结果回告 API返回值

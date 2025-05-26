@@ -3,8 +3,8 @@ package tmallsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallsc"
 )
 
 // TmallFuwuRateGet 服务商需获取到单条服务单评价信息

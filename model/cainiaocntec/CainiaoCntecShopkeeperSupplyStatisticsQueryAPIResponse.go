@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCntecShopkeeperSupplyStatisticsQueryAPIResponse 团购业务供货商查询门店统计数据 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJhsCommunitySubmittingTextAPIResponse 聚划算社群动态文案下发接口 API返回值

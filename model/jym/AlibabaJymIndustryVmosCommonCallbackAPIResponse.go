@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymIndustryVmosCommonCallbackAPIResponse vmos游戏信息采集结果回调通知 API返回值

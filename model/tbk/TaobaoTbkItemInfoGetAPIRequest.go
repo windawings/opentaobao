@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkItemInfoGetAPIRequest 淘宝客-公用-淘宝客商品详情查询(简版) API请求

@@ -3,8 +3,8 @@ package taotv
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/taotv"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/taotv"
 )
 
 // TaobaoTaotvVideoPlaylistGet 根据频道ID获取频道下节目单以及当前播放

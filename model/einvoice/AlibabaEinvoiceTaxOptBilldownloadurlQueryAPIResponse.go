@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEinvoiceTaxOptBilldownloadurlQueryAPIResponse 税筹业务账单文件下载URL查询 API返回值

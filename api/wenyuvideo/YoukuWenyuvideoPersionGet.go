@@ -3,8 +3,8 @@ package wenyuvideo
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wenyuvideo"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wenyuvideo"
 )
 
 // YoukuWenyuvideoPersionGet 根据优酷人物ID获取人物详情页，包含相关影视和相关人物

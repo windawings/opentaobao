@@ -3,8 +3,8 @@ package flight
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/flight"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/flight"
 )
 
 // AlitripTripvpAgentOrderGet 廉航辅营正向订单查询详情接口

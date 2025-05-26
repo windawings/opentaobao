@@ -3,8 +3,8 @@ package alitripmerchant
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripmerchant"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripmerchant"
 )
 
 // AlitripMerchantGalaxyActivityFatigue 营销抽奖-弹窗疲劳度控制

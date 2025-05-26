@@ -3,8 +3,8 @@ package txcs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/txcs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/txcs"
 )
 
 // TmallTxcsFinanceVerifyStatementBill 供应商核销单录入

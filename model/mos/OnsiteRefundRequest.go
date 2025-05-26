@@ -3,7 +3,7 @@ package mos
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // OnsiteRefundRequest 结构体

@@ -3,7 +3,7 @@ package axindata
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // StdHotelVo 结构体

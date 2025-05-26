@@ -3,8 +3,8 @@ package alimsg
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alimsg"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alimsg"
 )
 
 // AlibabaIdleOrderMsgSend 虚拟发货消息发送接口

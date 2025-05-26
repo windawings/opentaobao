@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFuwuPurchaseOrderConfirmAPIResponse 服务市场内购服务下单接口 API返回值

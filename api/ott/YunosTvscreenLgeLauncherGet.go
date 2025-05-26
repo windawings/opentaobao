@@ -3,8 +3,8 @@ package ott
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ott"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ott"
 )
 
 // YunosTvscreenLgeLauncherGet LG用桌面信息获取

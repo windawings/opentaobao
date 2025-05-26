@@ -3,8 +3,8 @@ package vms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/vms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/vms"
 )
 
 // CainiaoVmsServiceVehicleinfoUpload 新能源车--外部车辆信息回传

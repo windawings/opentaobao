@@ -3,8 +3,8 @@ package yunosappstore
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/yunosappstore"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/yunosappstore"
 )
 
 // YunosAppstoreOpenReportad 外投广告上报接口

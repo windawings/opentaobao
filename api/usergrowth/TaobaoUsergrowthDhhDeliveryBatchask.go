@@ -3,8 +3,8 @@ package usergrowth
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/usergrowth"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/usergrowth"
 )
 
 // TaobaoUsergrowthDhhDeliveryBatchask 广告曝光前判定批量接口V2

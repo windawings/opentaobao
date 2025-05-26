@@ -3,8 +3,8 @@ package logistic
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/logistic"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/logistic"
 )
 
 // CainiaoCbossWorkplatformLogisticsIscainiaoorder 根据交易单号判断是否为菜鸟发货订单

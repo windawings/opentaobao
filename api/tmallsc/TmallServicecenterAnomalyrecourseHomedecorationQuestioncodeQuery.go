@@ -3,8 +3,8 @@ package tmallsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallsc"
 )
 
 // TmallServicecenterAnomalyrecourseHomedecorationQuestioncodeQuery 天猫服务平台商家投诉单问题列表查询

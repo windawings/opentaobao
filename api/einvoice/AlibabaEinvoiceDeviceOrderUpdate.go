@@ -3,8 +3,8 @@ package einvoice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/einvoice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/einvoice"
 )
 
 // AlibabaEinvoiceDeviceOrderUpdate 回传/更新设备订购单

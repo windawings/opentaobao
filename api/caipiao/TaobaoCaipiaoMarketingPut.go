@@ -3,8 +3,8 @@ package caipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/caipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/caipiao"
 )
 
 // TaobaoCaipiaoMarketingPut 创建或修改商家送彩票活动

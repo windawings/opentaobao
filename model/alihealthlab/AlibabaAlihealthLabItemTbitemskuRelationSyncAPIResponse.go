@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthLabItemTbitemskuRelationSyncAPIResponse 阿里健康检验检测业务，检验检测项目淘宝商品SKU关系同步 API返回值

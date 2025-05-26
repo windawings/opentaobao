@@ -3,8 +3,8 @@ package tmallhk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallhk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallhk"
 )
 
 // TmallHkClearanceGet 天猫国际-清关材料查询

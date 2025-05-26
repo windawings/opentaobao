@@ -3,8 +3,8 @@ package seaking
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/seaking"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/seaking"
 )
 
 // AlibabaSeakingTitlerewriteSubmit 提交标题改写任务

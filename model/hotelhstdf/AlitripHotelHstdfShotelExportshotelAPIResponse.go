@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripHotelHstdfShotelExportshotelAPIResponse 商家自主导出相似度高的标准酒店 API返回值

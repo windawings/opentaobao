@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAuctionVehicleDetectReportUpdateAPIResponse 检测服务-服务单报告信息更新 API返回值

@@ -3,8 +3,8 @@ package mtopopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mtopopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mtopopen"
 )
 
 // AlibabaInteractAllsparkisvDraw allspark提供抽奖tida接口对应鉴权接口

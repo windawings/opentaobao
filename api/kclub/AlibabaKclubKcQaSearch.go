@@ -3,8 +3,8 @@ package kclub
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/kclub"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/kclub"
 )
 
 // AlibabaKclubKcQaSearch 知识云-知识检索

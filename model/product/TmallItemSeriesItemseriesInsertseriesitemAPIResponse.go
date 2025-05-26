@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemSeriesItemseriesInsertseriesitemAPIResponse 向系列中添加系列商品 API返回值

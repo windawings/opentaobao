@@ -3,8 +3,8 @@ package waybill
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/waybill"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/waybill"
 )
 
 // TaobaoWlbWaybillIGet 获取物流服务商电子面单号v1.0

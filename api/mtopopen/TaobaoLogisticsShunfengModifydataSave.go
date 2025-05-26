@@ -3,8 +3,8 @@ package mtopopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mtopopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mtopopen"
 )
 
 // TaobaoLogisticsShunfengModifydataSave 顺丰小程序修改配送信息回传接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCrmExchangeCrowdinstanceAddPrivyAPIResponse 向活动人群实例中增加买家（隐私号版） API返回值

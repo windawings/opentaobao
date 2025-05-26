@@ -3,8 +3,8 @@ package product
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/product"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/product"
 )
 
 // TaobaoProductPropimgUpload 上传单张产品属性图片，如果需要传多张，可调多次

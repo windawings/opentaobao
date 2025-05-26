@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaAdgroupMobilediscountUpdateAPIRequest 对推广组进行单独移动溢价 API请求

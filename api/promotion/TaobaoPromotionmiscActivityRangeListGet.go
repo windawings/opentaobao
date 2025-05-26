@@ -3,8 +3,8 @@ package promotion
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/promotion"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/promotion"
 )
 
 // TaobaoPromotionmiscActivityRangeListGet 查询活动参与的商品

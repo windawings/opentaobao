@@ -3,8 +3,8 @@ package ascm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascm"
 )
 
 // AlibabaAscmSettlementInvoiceSynchronizationIm 英迈发票同步到结算

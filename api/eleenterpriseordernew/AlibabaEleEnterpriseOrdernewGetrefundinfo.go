@@ -3,8 +3,8 @@ package eleenterpriseordernew
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/eleenterpriseordernew"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/eleenterpriseordernew"
 )
 
 // AlibabaEleEnterpriseOrdernewGetrefundinfo 退单和申诉

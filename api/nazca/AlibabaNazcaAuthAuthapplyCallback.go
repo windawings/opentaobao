@@ -3,8 +3,8 @@ package nazca
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nazca"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nazca"
 )
 
 // AlibabaNazcaAuthAuthapplyCallback 认证的统一回调接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoScitemMapDeleteAPIResponse 失效指定用户的商品与后端商品的映射关系 API返回值

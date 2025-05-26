@@ -3,8 +3,8 @@ package idle
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idle"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idle"
 )
 
 // AlibabaIdleConsignmentiiOrderGet 闲鱼寄卖V2订单查询

@@ -3,8 +3,8 @@ package tbk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbk"
 )
 
 // TaobaoTbkScMembergroupOptional 工具服务商member组查询、新增接口

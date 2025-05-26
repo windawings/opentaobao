@@ -3,8 +3,8 @@ package ju
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ju"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ju"
 )
 
 // AlibabaJhsCommunityActivityReservation 社群活动预约

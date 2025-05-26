@@ -3,8 +3,8 @@ package normalvisa
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/normalvisa"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/normalvisa"
 )
 
 // TaobaoAlitripTravelNormalvisaUpdatepersonstauts 更新签证办理进度

@@ -3,8 +3,8 @@ package mydata
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mydata"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mydata"
 )
 
 // AlibabaMydataSelfProductGet 获取客户产品相关表现数据

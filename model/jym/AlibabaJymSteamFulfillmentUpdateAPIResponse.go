@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymSteamFulfillmentUpdateAPIResponse 交易猫Steam类目发履约态变更 API返回值

@@ -3,8 +3,8 @@ package alihealthpw
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthpw"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthpw"
 )
 
 // AlibabaAlihealthPwApplynodeUpdatename 回调变更患者姓名

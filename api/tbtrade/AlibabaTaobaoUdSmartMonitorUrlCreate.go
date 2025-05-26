@@ -3,8 +3,8 @@ package tbtrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbtrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbtrade"
 )
 
 // AlibabaTaobaoUdSmartMonitorUrlCreate UD效果外投投放监测链接生成

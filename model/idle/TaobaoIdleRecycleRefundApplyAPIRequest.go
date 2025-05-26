@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoIdleRecycleRefundApplyAPIRequest 闲鱼回收交易退款申请V2 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoJstAstrolabeStoreinventoryAdjustAPIResponse 后端商品库存占用调整接口 API返回值

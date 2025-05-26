@@ -3,8 +3,8 @@ package servicecenter
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/servicecenter"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/servicecenter"
 )
 
 // TaobaoFuwuSkuGet 获取内购服务及SKU详情

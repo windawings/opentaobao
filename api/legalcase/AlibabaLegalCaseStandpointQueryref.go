@@ -3,8 +3,8 @@ package legalcase
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/legalcase"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/legalcase"
 )
 
 // AlibabaLegalCaseStandpointQueryref 查询推送口径信息

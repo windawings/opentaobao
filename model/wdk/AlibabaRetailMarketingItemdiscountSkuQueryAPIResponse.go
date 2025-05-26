@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaRetailMarketingItemdiscountSkuQueryAPIResponse 查询单品特价活动商品【同城零售】 API返回值

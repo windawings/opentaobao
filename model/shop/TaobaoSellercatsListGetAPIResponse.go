@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSellercatsListGetAPIResponse 获取前台展示的店铺内卖家自定义商品类目 API返回值

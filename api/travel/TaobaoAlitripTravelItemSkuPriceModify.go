@@ -3,8 +3,8 @@ package travel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/travel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/travel"
 )
 
 // TaobaoAlitripTravelItemSkuPriceModify 【API3.0】日期级别日历价格库存修改，增量维护

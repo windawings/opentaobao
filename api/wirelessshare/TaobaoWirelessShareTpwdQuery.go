@@ -3,8 +3,8 @@ package wirelessshare
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wirelessshare"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wirelessshare"
 )
 
 // TaobaoWirelessShareTpwdQuery 查询解析淘口令

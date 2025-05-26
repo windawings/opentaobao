@@ -3,8 +3,8 @@ package miniappopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniappopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniappopen"
 )
 
 // TaobaoMiniappDistributionMaterialGet 小程序投放---读取投放入口素材信息

@@ -3,8 +3,8 @@ package lstpos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstpos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstpos"
 )
 
 // AlibabaLstPosOpenInventorySyncinventorydata 商品库存修改同步接口(最多20条库存信息)

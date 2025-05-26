@@ -3,8 +3,8 @@ package moziacl
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/moziacl"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/moziacl"
 )
 
 // AlibabaMoziAclGrantGrantrole 将一个角色授予一个账号

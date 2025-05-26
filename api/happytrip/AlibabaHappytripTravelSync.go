@@ -3,8 +3,8 @@ package happytrip
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/happytrip"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/happytrip"
 )
 
 // AlibabaHappytripTravelSync 差旅申请单同步接口

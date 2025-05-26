@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCntecLocallifeCommunitylifeSyncorderstatusAPIResponse 订单状态推送 API返回值

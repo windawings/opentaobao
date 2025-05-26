@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkOldposRefundCreateAPIRequest 五道口外部商户老pos机产生的退款单同步进盒马 API请求

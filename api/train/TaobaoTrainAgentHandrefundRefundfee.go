@@ -3,8 +3,8 @@ package train
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/train"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/train"
 )
 
 // TaobaoTrainAgentHandrefundRefundfee 代理商手动退款接口

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaRptCusteffectGetAPIRequest 用户账户报表效果数据查询（只有汇总数据，无分类数据） API请求

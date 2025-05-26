@@ -3,8 +3,8 @@ package crm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/crm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/crm"
 )
 
 // TaobaoCrmMembersGroupBatchadd 给一批会员添加一个分组

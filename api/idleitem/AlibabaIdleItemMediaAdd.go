@@ -3,8 +3,8 @@ package idleitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idleitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idleitem"
 )
 
 // AlibabaIdleItemMediaAdd 图片上传

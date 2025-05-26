@@ -3,8 +3,8 @@ package tmallchannel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallchannel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallchannel"
 )
 
 // TaobaoChannelTradePrepayOfflineReduce 渠道分销供应商上传线下流水预存款（减少）

@@ -3,8 +3,8 @@ package simba
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/simba"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/simba"
 )
 
 // TaobaoSimbaAccountBalanceGet 获取实时余额，”元”为单位

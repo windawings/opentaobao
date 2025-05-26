@@ -3,8 +3,8 @@ package icbudropshipping
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbudropshipping"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbudropshipping"
 )
 
 // AlibabaDropshippingStoreSave 阿里巴巴dropshipping店铺数据保存接口

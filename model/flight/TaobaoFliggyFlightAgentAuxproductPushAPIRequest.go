@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFliggyFlightAgentAuxproductPushAPIRequest 飞猪机票辅营商品投放 API请求

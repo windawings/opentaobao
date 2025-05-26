@@ -3,8 +3,8 @@ package alitripmerchant
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripmerchant"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripmerchant"
 )
 
 // AlitripMerchantGalaxyDerbyMemberVoucherCardPurchasableQuery 德比付费会员卡可购查询

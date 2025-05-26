@@ -3,8 +3,8 @@ package usergrowth
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/usergrowth"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/usergrowth"
 )
 
 // TaobaoGrowthReachingSuggestionQuery 厂商生态推荐信息查询

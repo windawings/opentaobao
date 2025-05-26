@@ -3,8 +3,8 @@ package cainiaolocker
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cainiaolocker"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cainiaolocker"
 )
 
 // CainiaoNbaddAppointdeliverFeedbackcodes 服务质量反馈编码列表

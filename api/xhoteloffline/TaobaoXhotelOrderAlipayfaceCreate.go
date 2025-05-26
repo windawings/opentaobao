@@ -3,8 +3,8 @@ package xhoteloffline
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhoteloffline"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhoteloffline"
 )
 
 // TaobaoXhotelOrderAlipayfaceCreate 信用住支付创建接口

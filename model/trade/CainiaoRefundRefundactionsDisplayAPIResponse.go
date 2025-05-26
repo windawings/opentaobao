@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoRefundRefundactionsDisplayAPIResponse 退货退款操作的展示信息(展现给买家) API返回值

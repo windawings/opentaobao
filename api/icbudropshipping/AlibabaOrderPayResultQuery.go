@@ -3,8 +3,8 @@ package icbudropshipping
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbudropshipping"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbudropshipping"
 )
 
 // AlibabaOrderPayResultQuery alibaba查询订单支付结果

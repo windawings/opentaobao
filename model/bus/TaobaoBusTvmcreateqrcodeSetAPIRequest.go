@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBusTvmcreateqrcodeSetAPIRequest 自助机生成支付宝支付二维码 API请求

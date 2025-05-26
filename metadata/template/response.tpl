@@ -4,7 +4,7 @@ import (
     "sync"
     "encoding/xml"
 
-    "github.com/bububa/opentaobao/model"
+    "github.com/windawings/opentaobao/model"
 )
 
 // {{ .Name }}APIResponse {{ .ChineseName }} API返回值 

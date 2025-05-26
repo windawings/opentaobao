@@ -3,8 +3,8 @@ package trade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/trade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/trade"
 )
 
 // TaobaoOpenTradeGet 获取单笔交易的部分信息(商家应用使用)

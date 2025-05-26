@@ -3,8 +3,8 @@ package miniappopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniappopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniappopen"
 )
 
 // TaobaoMiniappDistributionItemsBind 【已废弃】小程序投放-商品绑定/解绑

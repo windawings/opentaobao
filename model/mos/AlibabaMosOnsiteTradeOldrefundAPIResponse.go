@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMosOnsiteTradeOldrefundAPIResponse 线下新退款接口（专为老退款接口调用） API返回值

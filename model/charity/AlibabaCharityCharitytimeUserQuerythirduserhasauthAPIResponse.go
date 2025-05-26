@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCharityCharitytimeUserQuerythirduserhasauthAPIResponse 查询是否绑定3小时账号 API返回值

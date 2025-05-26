@@ -3,8 +3,8 @@ package aliyun
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliyun"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliyun"
 )
 
 // AccountAliyuncsComCreateApp20130701 给指定用户创建appkey

@@ -3,8 +3,8 @@ package koubeimall
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/koubeimall"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/koubeimall"
 )
 
 // TaobaoKoubeiMallCommonMallAuthPage 分页查询已授权的商圈列表信息

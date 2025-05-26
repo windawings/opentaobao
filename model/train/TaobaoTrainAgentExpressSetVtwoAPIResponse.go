@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTrainAgentExpressSetVtwoAPIResponse 线下票回填物流信息v2--增加鉴权校验 API返回值

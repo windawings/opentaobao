@@ -3,8 +3,8 @@ package wlb
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlb"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlb"
 )
 
 // TaobaoWlbOutInventoryChangeNotify 外部库存变化通知（企业物流用户使用）

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkOldposRefundCreateAPIResponse 五道口外部商户老pos机产生的退款单同步进盒马 API返回值

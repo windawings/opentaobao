@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDocbaseUserinfoAlipayidGetAPIResponse 根据健康ID获取支付宝ID API返回值

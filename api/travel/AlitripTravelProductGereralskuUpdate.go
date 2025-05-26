@@ -3,8 +3,8 @@ package travel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/travel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/travel"
 )
 
 // AlitripTravelProductGereralskuUpdate (供销)船票通用类目sku新增&编辑API

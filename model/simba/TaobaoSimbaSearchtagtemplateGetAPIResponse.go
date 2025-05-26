@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaSearchtagtemplateGetAPIResponse 获取搜索人群TOP用户可添加人群信息 API返回值

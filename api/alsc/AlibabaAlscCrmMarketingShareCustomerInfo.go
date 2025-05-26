@@ -3,8 +3,8 @@ package alsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alsc"
 )
 
 // AlibabaAlscCrmMarketingShareCustomerInfo 查询分享营销客户领券信息

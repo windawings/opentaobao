@@ -3,8 +3,8 @@ package icbuseller
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbuseller"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbuseller"
 )
 
 // AlibabaSellerVendorTradePurchase 查看购买人的订单记录以及授权时间

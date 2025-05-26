@@ -3,8 +3,8 @@ package car
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/car"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/car"
 )
 
 // AlitripTravelCrsorderComplete CRS接送机商家服务完成接口

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaKeywordscatQscoreGetAPIRequest 取得一个推广组的所有关键词和类目出价的质量得分 API请求

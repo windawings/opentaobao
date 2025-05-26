@@ -3,8 +3,8 @@ package scbp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/scbp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/scbp"
 )
 
 // AlibabaScbpTargetAdPlanCrowdIdGet 定向推广-人群标签ID获取(店铺老客、优选人群)

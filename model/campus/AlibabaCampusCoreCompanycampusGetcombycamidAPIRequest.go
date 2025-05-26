@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusCoreCompanycampusGetcombycamidAPIRequest 根据园区ID获取运营公司信息 API请求

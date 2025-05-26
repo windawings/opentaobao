@@ -3,8 +3,8 @@ package cloudgame
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cloudgame"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cloudgame"
 )
 
 // AlibabaCloudgameUserMixuseridCheck 云游戏混淆用户ID校验

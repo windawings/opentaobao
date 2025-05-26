@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoGuoguoWaybillGetAPIResponse 菜鸟裹裹商家寄件取号接口 API返回值

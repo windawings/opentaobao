@@ -3,8 +3,8 @@ package tmallgeniescp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgeniescp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgeniescp"
 )
 
 // AlibabaTmallgenieScpPlanMouthfourUpload 21-M+4PR 回传接口接口

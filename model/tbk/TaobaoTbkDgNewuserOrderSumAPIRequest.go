@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkDgNewuserOrderSumAPIRequest 淘宝客-推广者-拉新活动对应数据查询 API请求

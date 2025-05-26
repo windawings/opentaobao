@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCityretailTxdFulfillOrderUnbindnumAPIResponse 淘鲜达虚拟号服务解绑接口 API返回值

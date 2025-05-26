@@ -3,8 +3,8 @@ package koubeimall
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/koubeimall"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/koubeimall"
 )
 
 // TaobaoKoubeiMallCommonItemSuperDiscountList 查询商圈内的超值特惠商品信息

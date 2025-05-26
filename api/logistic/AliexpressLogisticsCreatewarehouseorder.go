@@ -3,8 +3,8 @@ package logistic
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/logistic"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/logistic"
 )
 
 // AliexpressLogisticsCreatewarehouseorder 创建线上物流订单

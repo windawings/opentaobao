@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkUmsOutboundSortingUserqueryAPIRequest dps-查询分货作业人员信息 API请求

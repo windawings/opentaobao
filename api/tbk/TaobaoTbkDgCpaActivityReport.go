@@ -3,8 +3,8 @@ package tbk
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbk"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbk"
 )
 
 // TaobaoTbkDgCpaActivityReport 淘宝客-推广者-任务奖励效果报表

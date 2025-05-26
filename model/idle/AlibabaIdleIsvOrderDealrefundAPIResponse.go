@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleIsvOrderDealrefundAPIResponse 闲鱼无忧购入仓模式服务商退款处理接口 API返回值

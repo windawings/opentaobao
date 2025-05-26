@@ -3,8 +3,8 @@ package alihealthlab
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthlab"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthlab"
 )
 
 // AlibabaAlihealthLabItemTbitemskuRelationSync 阿里健康检验检测业务，检验检测项目淘宝商品SKU关系同步

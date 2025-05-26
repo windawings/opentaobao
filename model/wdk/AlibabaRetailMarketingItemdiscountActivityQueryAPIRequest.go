@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaRetailMarketingItemdiscountActivityQueryAPIRequest 查询单品特价活动【同城零售】 API请求

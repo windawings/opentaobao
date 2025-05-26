@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarXcarSynchronizeCarLineDataAPIResponse 我的爱卡车型配置数据 API返回值

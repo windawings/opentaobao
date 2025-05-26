@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallMeiCrmMemberSyncPrivyAPIRequest 同步推送会员信息(隐私号版本) API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRdcAligeniusWarehouseResendLogisticsMsgPostAPIResponse 补发单物流信息回传 API返回值

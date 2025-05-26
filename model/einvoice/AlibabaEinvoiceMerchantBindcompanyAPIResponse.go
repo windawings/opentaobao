@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaEinvoiceMerchantBindcompanyAPIResponse 发票中台-跨平台绑定已入驻税号与商户 API返回值

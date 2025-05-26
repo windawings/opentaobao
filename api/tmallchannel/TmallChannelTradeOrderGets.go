@@ -3,8 +3,8 @@ package tmallchannel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallchannel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallchannel"
 )
 
 // TmallChannelTradeOrderGets 分页查询采购单

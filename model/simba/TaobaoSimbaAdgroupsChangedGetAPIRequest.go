@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaAdgroupsChangedGetAPIRequest 分页获取修改的推广组ID和修改时间 API请求

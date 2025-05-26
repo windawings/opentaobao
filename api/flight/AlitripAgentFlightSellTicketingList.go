@@ -3,8 +3,8 @@ package flight
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/flight"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/flight"
 )
 
 // AlitripAgentFlightSellTicketingList 销售出票列表

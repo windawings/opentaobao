@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuOttAlicbFacadeserviceGetdataAPIRequest 影视SDK获取设备能力值 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTicketScenicQueryAPIResponse 【门票API2.0】卖家已发布门票商品列表查询接口（根据景点维度查询） API返回值

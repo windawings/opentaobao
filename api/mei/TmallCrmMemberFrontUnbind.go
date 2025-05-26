@@ -3,8 +3,8 @@ package mei
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mei"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mei"
 )
 
 // TmallCrmMemberFrontUnbind 品牌会员解绑

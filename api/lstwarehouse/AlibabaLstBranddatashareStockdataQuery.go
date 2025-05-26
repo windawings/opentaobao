@@ -3,8 +3,8 @@ package lstwarehouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstwarehouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstwarehouse"
 )
 
 // AlibabaLstBranddatashareStockdataQuery 查询品牌商品实仓库存/周转效能

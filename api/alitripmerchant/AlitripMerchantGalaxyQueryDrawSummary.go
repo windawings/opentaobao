@@ -3,8 +3,8 @@ package alitripmerchant
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripmerchant"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripmerchant"
 )
 
 // AlitripMerchantGalaxyQueryDrawSummary 星河-抽奖活动概要列表查询

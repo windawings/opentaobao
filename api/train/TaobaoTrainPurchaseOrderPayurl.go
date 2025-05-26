@@ -3,8 +3,8 @@ package train
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/train"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/train"
 )
 
 // TaobaoTrainPurchaseOrderPayurl 火车票采购商接口-获取支付链接

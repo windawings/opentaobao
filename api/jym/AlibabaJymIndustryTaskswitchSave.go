@@ -3,8 +3,8 @@ package jym
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jym"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jym"
 )
 
 // AlibabaJymIndustryTaskswitchSave 行业信息系统开关

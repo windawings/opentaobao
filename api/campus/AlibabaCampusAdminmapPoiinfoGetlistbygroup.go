@@ -3,8 +3,8 @@ package campus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/campus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/campus"
 )
 
 // AlibabaCampusAdminmapPoiinfoGetlistbygroup 根据分组条件查询分组下的空间单元不包涵业务属性信息

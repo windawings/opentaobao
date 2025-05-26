@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkRexoutDeviceIotRegisteridAPIRequest 通过设备ID获取三元组-外部 API请求

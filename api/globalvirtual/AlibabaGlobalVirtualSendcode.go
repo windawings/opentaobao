@@ -3,8 +3,8 @@ package globalvirtual
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/globalvirtual"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/globalvirtual"
 )
 
 // AlibabaGlobalVirtualSendcode 国际虚拟商品发码服务

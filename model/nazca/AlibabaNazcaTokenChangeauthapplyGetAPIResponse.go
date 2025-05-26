@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaNazcaTokenChangeauthapplyGetAPIResponse 根据token获取变更认证申请信息 API返回值

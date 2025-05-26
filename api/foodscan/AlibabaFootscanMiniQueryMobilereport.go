@@ -3,8 +3,8 @@ package foodscan
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/foodscan"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/foodscan"
 )
 
 // AlibabaFootscanMiniQueryMobilereport 根据scanId查询报告

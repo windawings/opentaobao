@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBusAgentBookticketConfirmAPIResponse 汽车票代理商接口—确认出票是否成功 API返回值

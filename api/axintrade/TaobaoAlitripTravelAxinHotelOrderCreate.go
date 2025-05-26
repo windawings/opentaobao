@@ -3,8 +3,8 @@ package axintrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/axintrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/axintrade"
 )
 
 // TaobaoAlitripTravelAxinHotelOrderCreate 酒店分销订单创建服务-阿信

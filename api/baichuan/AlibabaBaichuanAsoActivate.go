@@ -3,8 +3,8 @@ package baichuan
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/baichuan"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/baichuan"
 )
 
 // AlibabaBaichuanAsoActivate 设备安装活动激活

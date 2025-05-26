@@ -3,8 +3,8 @@ package mtopopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mtopopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mtopopen"
 )
 
 // TaobaoLogisticsOpenalibityWrite 为快递公司提供的物流信息通用写入接口

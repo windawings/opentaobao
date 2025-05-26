@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAutonaviApiTrafficboardImageGetAPIResponse 交通看板-栅格情报获取 API返回值

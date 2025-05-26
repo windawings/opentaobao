@@ -3,7 +3,7 @@ package baichuan
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // IsvItemSubDo 结构体

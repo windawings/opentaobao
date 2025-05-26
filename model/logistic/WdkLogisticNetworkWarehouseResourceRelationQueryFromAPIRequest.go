@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkLogisticNetworkWarehouseResourceRelationQueryFromAPIRequest 中心仓查网格仓 API请求

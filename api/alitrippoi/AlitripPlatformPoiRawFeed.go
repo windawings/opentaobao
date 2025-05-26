@@ -3,8 +3,8 @@ package alitrippoi
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitrippoi"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitrippoi"
 )
 
 // AlitripPlatformPoiRawFeed 存储poi原始数据

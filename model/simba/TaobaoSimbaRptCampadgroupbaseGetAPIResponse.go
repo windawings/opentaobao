@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaRptCampadgroupbaseGetAPIResponse 推广计划下的推广组报表基础数据查询(只有汇总数据，无分类类型) API返回值

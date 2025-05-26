@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCcoSelfCoordinateBreakOrderAPIResponse 天猫国际直购供应商毁单通知 API返回值

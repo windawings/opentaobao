@@ -3,8 +3,8 @@ package tmallgeniescp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgeniescp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgeniescp"
 )
 
 // AlibabaTmallgenieScpPlanCorrectSupplierQuoteRawUpload 同步供应商校准后的配额-二级物料

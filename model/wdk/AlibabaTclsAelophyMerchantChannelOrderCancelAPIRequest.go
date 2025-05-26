@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTclsAelophyMerchantChannelOrderCancelAPIRequest 翱象商家自有渠道 交易订单取消 API请求

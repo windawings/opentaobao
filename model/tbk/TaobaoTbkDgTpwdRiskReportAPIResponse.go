@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkDgTpwdRiskReportAPIResponse 淘宝客-推广者-淘口令预警及拦截查询 API返回值

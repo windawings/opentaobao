@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMjOcBigposBanksaleAdjustmentApplyAPIRequest 大pos银行卡调账申请 API请求

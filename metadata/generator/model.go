@@ -1,6 +1,6 @@
 package main
 
-import "github.com/bububa/opentaobao/metadata"
+import "github.com/windawings/opentaobao/metadata"
 
 // ApiPkg 包配置结构体，用于生成README中包列表
 type ApiPkg struct {

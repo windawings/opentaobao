@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallNrtStoreItemFromOnlineItemAPIRequest 基于新模型商品id查询摊位子品id API请求

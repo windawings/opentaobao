@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkorderSharestockInsuranceRefundgetAPIRequest 共享库存投保业务售后逆向订单数据获取 API请求

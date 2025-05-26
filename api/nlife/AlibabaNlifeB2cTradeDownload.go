@@ -3,8 +3,8 @@ package nlife
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nlife"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nlife"
 )
 
 // AlibabaNlifeB2cTradeDownload b2c下载订单

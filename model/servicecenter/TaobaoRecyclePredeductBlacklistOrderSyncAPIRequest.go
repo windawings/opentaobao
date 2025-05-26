@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRecyclePredeductBlacklistOrderSyncAPIRequest 同步服务商黑名单 API请求

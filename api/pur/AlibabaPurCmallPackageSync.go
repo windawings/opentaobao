@@ -3,8 +3,8 @@ package pur
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/pur"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/pur"
 )
 
 // AlibabaPurCmallPackageSync 套餐同步

@@ -3,8 +3,8 @@ package zqs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/zqs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/zqs"
 )
 
 // AlibabaZqsFulfillComplete 周期购履约完成接口

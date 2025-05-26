@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosServiceCmnsCoaMessageresultGetAPIRequest CMNS消息发送到达查询 API请求

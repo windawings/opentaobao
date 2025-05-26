@@ -3,8 +3,8 @@ package ascp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascp"
 )
 
 // AlibabaDchainAoxiangConsignorderCancel 自动流转单据取消仓内发货

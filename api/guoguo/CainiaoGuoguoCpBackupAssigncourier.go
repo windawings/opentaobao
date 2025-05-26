@@ -3,8 +3,8 @@ package guoguo
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/guoguo"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/guoguo"
 )
 
 // CainiaoGuoguoCpBackupAssigncourier CP兜底后指定接单的小件员

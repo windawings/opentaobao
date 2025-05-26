@@ -3,7 +3,7 @@ package btrip
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TravelerInfo 结构体

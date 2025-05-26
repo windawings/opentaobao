@@ -3,8 +3,8 @@ package kbalgo
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/kbalgo"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/kbalgo"
 )
 
 // AlibabaKbalgoAlscpoisGet 百度批量获取本地poi接口

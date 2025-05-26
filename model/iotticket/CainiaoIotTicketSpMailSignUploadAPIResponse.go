@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoIotTicketSpMailSignUploadAPIResponse IoT售后服务商签收客户邮寄设备附件上传 API返回值

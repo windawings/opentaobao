@@ -3,8 +3,8 @@ package jym
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jym"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jym"
 )
 
 // AlibabaJymIndustryOutsidegamepropertysyncSyncpropertyinfo 外部上报游戏属性信息

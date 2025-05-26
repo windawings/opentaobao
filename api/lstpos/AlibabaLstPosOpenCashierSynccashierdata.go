@@ -3,8 +3,8 @@ package lstpos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstpos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstpos"
 )
 
 // AlibabaLstPosOpenCashierSynccashierdata 收银快照同步接口(最多10条订单信息)

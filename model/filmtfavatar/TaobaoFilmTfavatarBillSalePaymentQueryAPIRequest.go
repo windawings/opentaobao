@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFilmTfavatarBillSalePaymentQueryAPIRequest 获取影院卖品账单--支付账单 API请求

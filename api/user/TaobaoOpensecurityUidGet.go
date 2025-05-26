@@ -3,8 +3,8 @@ package user
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/user"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/user"
 )
 
 // TaobaoOpensecurityUidGet 淘宝open security uid 获取接口

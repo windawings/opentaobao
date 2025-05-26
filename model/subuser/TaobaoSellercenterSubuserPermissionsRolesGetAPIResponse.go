@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSellercenterSubuserPermissionsRolesGetAPIResponse 查询指定的子账号的权限和角色信息 API返回值

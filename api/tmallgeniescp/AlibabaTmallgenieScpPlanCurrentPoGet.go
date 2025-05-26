@@ -3,8 +3,8 @@ package tmallgeniescp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallgeniescp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallgeniescp"
 )
 
 // AlibabaTmallgenieScpPlanCurrentPoGet 11-同步本周的po单（从W-1周到W+4周）

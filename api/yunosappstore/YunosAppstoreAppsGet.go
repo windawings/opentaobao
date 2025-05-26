@@ -3,8 +3,8 @@ package yunosappstore
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/yunosappstore"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/yunosappstore"
 )
 
 // YunosAppstoreAppsGet 根据包名列表获取应用信息列表

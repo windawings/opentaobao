@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusAdminmapPoiinfoGetlistbygroupAPIRequest 根据分组条件查询分组下的空间单元不包涵业务属性信息 API请求

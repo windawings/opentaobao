@@ -3,8 +3,8 @@ package travel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/travel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/travel"
 )
 
 // TaobaoAlitripTravelProductBaseAdd 供应商新增产品API

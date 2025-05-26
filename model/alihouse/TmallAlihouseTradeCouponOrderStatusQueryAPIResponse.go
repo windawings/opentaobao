@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAlihouseTradeCouponOrderStatusQueryAPIResponse 查询电商券履约单状态 API返回值

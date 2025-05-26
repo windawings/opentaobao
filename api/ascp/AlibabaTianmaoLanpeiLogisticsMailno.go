@@ -3,8 +3,8 @@ package ascp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascp"
 )
 
 // AlibabaTianmaoLanpeiLogisticsMailno 阿里巴巴.天猫家装.揽配.物流.获取运单号

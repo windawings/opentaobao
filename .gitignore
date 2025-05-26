@@ -29,3 +29,4 @@ test
 .idea
 bin/*
 dist/
+.go-version

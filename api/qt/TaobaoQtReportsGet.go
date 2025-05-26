@@ -3,8 +3,8 @@ package qt
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/qt"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/qt"
 )
 
 // TaobaoQtReportsGet 批量查询质检报告

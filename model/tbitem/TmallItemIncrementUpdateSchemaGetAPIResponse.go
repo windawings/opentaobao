@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemIncrementUpdateSchemaGetAPIResponse 天猫增量更新商品规则获取 API返回值

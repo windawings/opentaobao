@@ -3,8 +3,8 @@ package openim
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/openim"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/openim"
 )
 
 // TaobaoOpenimTribeExpel OPENIM群踢出成员

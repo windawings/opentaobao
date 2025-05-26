@@ -3,8 +3,8 @@ package txcs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/txcs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/txcs"
 )
 
 // TmallTxcsFinanceBillQuery 天猫超市外部商家财务账单信息查询

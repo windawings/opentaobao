@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCloudprintMystdtemplatesGetAPIRequest 获取用户使用的菜鸟电子面单模板信息 API请求

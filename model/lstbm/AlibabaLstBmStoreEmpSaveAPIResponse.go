@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstBmStoreEmpSaveAPIResponse 保存品牌商自有门店和内部业代之间的关系 API返回值

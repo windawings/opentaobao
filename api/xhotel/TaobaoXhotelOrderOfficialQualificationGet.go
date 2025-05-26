@@ -3,8 +3,8 @@ package xhotel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotel"
 )
 
 // TaobaoXhotelOrderOfficialQualificationGet 官网信用住用户资质校验

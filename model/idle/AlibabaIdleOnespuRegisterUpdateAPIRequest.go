@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleOnespuRegisterUpdateAPIRequest 闲鱼 ONESPU 挂载接口 API请求

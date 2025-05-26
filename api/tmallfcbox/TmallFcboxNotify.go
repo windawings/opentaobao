@@ -3,8 +3,8 @@ package tmallfcbox
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallfcbox"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallfcbox"
 )
 
 // TmallFcboxNotify 丰巢通知接口

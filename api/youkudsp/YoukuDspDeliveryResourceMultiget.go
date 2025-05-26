@@ -3,8 +3,8 @@ package youkudsp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/youkudsp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/youkudsp"
 )
 
 // YoukuDspDeliveryResourceMultiget 优酷实时批量获取可投放设备资源

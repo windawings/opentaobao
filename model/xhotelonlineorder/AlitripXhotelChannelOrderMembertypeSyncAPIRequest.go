@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripXhotelChannelOrderMembertypeSyncAPIRequest 酒店分销渠道会员类型同步 API请求

@@ -3,8 +3,8 @@ package mozi
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mozi"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mozi"
 )
 
 // AlibabaMoziBucAccountListAccountids 根据一批账号ID查询账号列表

@@ -3,8 +3,8 @@ package xhotelitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelitem"
 )
 
 // TaobaoXhotelUpdate 酒店更新接口（ID不存在自动新增）

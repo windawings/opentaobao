@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDropshippingProductGetAPIRequest 阿里巴巴dropshipping 产品信息获取 API请求

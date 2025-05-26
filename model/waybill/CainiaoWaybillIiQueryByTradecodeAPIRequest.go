@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoWaybillIiQueryByTradecodeAPIRequest 通过订单号查询电子面单通接口 API请求

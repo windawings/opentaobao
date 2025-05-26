@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthNrTradeMedicalInsuranceGetAPIRequest 阿里健康医保支付信息获取 API请求

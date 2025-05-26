@@ -3,8 +3,8 @@ package taotv
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/taotv"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/taotv"
 )
 
 // TaobaoTaotvVideoPlaylistPage 分页获取所有播单

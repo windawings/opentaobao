@@ -3,7 +3,7 @@ package xhotelitem
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // RoomType 结构体

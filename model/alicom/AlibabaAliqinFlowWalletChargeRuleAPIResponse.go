@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAliqinFlowWalletChargeRuleAPIResponse 流量钱包直充（根据号码归属地省份路由） API返回值

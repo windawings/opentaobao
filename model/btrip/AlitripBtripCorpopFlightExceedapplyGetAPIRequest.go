@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripCorpopFlightExceedapplyGetAPIRequest 商旅机票第三方超标审批单搜索接口 API请求

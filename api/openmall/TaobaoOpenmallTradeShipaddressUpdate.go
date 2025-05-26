@@ -3,8 +3,8 @@ package openmall
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/openmall"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/openmall"
 )
 
 // TaobaoOpenmallTradeShipaddressUpdate Openmall订单收货地址修改

@@ -3,8 +3,8 @@ package campus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/campus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/campus"
 )
 
 // AlibabaCampusCoreAppGetappusages 根据应用ID获得应用所在的园区

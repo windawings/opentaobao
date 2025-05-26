@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelBaseinfoCruiseGetAPIRequest 【API3.0】度假线路商品发布时基础信息获取接口：邮轮扩展信息获取 API请求

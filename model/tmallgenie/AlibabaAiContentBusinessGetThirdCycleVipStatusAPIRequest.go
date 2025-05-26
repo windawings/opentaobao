@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAiContentBusinessGetThirdCycleVipStatusAPIRequest 天猫精灵商业化获取三方连续包会员状态 API请求

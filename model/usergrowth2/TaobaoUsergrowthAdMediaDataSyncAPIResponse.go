@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoUsergrowthAdMediaDataSyncAPIResponse 媒体资源位投放效果数据回传 API返回值

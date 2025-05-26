@@ -3,8 +3,8 @@ package promotion
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/promotion"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/promotion"
 )
 
 // AlibabaLatourStrategyShow 阿里巴巴权益投放接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoRefundRefundactionsJudgementAPIResponse 判断当前用户是否能对订单执行一些逆向操作，比如退货操作 API返回值

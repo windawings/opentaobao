@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTxcsFinanceBillCheckAPIResponse 天猫超市外部商家财务账单对账 API返回值

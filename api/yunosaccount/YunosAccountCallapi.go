@@ -3,8 +3,8 @@ package yunosaccount
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/yunosaccount"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/yunosaccount"
 )
 
 // YunosAccountCallapi 调用YunOS账号开放API

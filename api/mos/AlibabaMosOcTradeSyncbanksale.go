@@ -3,8 +3,8 @@ package mos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mos"
 )
 
 // AlibabaMosOcTradeSyncbanksale 云闪付、银行卡销售数据回传接口

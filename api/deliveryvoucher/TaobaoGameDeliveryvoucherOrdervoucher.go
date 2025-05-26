@@ -3,8 +3,8 @@ package deliveryvoucher
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/deliveryvoucher"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/deliveryvoucher"
 )
 
 // TaobaoGameDeliveryvoucherOrdervoucher 预约接口

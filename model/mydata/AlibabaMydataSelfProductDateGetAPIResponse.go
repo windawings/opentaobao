@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMydataSelfProductDateGetAPIResponse 获取客户产品相关表现数据的可用时间范围 API返回值

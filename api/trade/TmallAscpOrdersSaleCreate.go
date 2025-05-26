@@ -3,8 +3,8 @@ package trade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/trade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/trade"
 )
 
 // TmallAscpOrdersSaleCreate ASCP渠道中心销售单创建接口

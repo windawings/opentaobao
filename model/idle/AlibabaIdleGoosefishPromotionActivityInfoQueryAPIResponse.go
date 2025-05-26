@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleGoosefishPromotionActivityInfoQueryAPIResponse 闲鱼三方活动参与信息查询 API返回值

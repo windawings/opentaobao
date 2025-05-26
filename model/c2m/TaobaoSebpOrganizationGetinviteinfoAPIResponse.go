@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSebpOrganizationGetinviteinfoAPIResponse 淘小铺机构上下级关系 API返回值

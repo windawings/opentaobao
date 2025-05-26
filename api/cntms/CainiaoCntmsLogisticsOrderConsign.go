@@ -3,8 +3,8 @@ package cntms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cntms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cntms"
 )
 
 // CainiaoCntmsLogisticsOrderConsign 菜鸟配商家仓库发货

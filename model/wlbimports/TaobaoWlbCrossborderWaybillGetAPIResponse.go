@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWlbCrossborderWaybillGetAPIResponse 集货商家pdf和云打印面单获取，pdf需要配置白名单 API返回值

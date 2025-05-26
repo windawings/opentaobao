@@ -3,8 +3,8 @@ package flightuppc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/flightuppc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/flightuppc"
 )
 
 // AlitripUppcMemberGain 航司权益数据回流

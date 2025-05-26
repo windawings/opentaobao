@@ -3,8 +3,8 @@ package caipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/caipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/caipiao"
 )
 
 // TaobaoCaipiaoSignstatusCheck 检查用户是否签署支付宝代购协议

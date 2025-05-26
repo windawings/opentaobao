@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappDistributionOrderItemsBindAPIResponse 小程序投放-基于投放计划绑定/解绑商品 API返回值

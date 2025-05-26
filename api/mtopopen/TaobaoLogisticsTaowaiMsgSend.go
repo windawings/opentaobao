@@ -3,8 +3,8 @@ package mtopopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mtopopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mtopopen"
 )
 
 // TaobaoLogisticsTaowaiMsgSend 淘外包裹物流信息走淘宝发包裹状态通知接口

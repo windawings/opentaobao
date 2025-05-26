@@ -3,8 +3,8 @@ package sungari
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/sungari"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/sungari"
 )
 
 // TaobaoSungariInspectionSubmit 抽检指令录入

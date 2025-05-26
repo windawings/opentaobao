@@ -3,8 +3,8 @@ package tvupadmin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tvupadmin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tvupadmin"
 )
 
 // YunosPubadminCommonOperation 内部迎客松通用服务

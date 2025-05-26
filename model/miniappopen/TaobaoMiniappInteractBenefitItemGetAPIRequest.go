@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappInteractBenefitItemGetAPIRequest 读取实物权益奖池对应绑定的专属下单商品 API请求

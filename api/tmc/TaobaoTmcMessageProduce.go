@@ -3,8 +3,8 @@ package tmc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmc"
 )
 
 // TaobaoTmcMessageProduce 发布单条消息

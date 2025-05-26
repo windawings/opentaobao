@@ -3,8 +3,8 @@ package alihouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihouse"
 )
 
 // AlibabaAlihouseExistinghomeBrandcitySync 二手房城市品牌店数据同步

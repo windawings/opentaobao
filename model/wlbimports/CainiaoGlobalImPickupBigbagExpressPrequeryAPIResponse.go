@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoGlobalImPickupBigbagExpressPrequeryAPIResponse 首公里揽收-快递预查询服务 API返回值

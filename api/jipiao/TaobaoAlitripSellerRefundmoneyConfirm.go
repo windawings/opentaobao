@@ -3,8 +3,8 @@ package jipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jipiao"
 )
 
 // TaobaoAlitripSellerRefundmoneyConfirm 【机票代理商订单】确认退款

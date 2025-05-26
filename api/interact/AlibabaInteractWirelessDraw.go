@@ -3,8 +3,8 @@ package interact
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/interact"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/interact"
 )
 
 // AlibabaInteractWirelessDraw 双11到店互动无线端抽奖接口鉴权

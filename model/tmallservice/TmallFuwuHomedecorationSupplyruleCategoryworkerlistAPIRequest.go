@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallFuwuHomedecorationSupplyruleCategoryworkerlistAPIRequest 基于规则查品牌品类工人接口 API请求

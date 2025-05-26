@@ -3,8 +3,8 @@ package alicom
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alicom"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alicom"
 )
 
 // AlibabaAlicomVtDistributeorderCreate 通信业务外放下单

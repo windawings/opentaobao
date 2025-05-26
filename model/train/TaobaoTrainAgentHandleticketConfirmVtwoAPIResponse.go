@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTrainAgentHandleticketConfirmVtwoAPIResponse 代理商出票中v2--增加鉴权校验 API返回值

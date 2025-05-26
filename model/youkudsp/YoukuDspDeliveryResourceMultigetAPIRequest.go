@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuDspDeliveryResourceMultigetAPIRequest 优酷实时批量获取可投放设备资源 API请求

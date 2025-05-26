@@ -3,8 +3,8 @@ package damaiticklet
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/damaiticklet"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/damaiticklet"
 )
 
 // AlibabaDamaiMxOpengatewayScript 第三方剧本数据推送

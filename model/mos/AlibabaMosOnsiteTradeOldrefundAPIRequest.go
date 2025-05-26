@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMosOnsiteTradeOldrefundAPIRequest 线下新退款接口（专为老退款接口调用） API请求

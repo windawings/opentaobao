@@ -3,8 +3,8 @@ package scs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/scs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/scs"
 )
 
 // TaobaoOnebpDkxCreativeCreativeReportOffline 获取创意离线报表

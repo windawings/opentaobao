@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTaobaoUdSmartOrderDetailPullAPIRequest UD效果外投订单明细拉取 API请求

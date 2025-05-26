@@ -3,8 +3,8 @@ package tmallsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallsc"
 )
 
 // TmallServicecenterCallrecordQuery 天猫服务平台服务商查询通话记录接口

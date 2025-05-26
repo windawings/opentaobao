@@ -3,8 +3,8 @@ package ioti
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ioti"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ioti"
 )
 
 // AlibabaItEslSendota 电子价签ota接口

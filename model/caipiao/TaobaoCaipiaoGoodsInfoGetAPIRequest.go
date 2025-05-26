@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCaipiaoGoodsInfoGetAPIRequest 根据卖家id与appkey获取商品信息 API请求

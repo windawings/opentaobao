@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallSupplychainChannelProductQuantityUpdateAPIResponse 渠道无仓库存更新接口 API返回值

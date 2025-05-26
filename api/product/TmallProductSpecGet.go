@@ -3,8 +3,8 @@ package product
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/product"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/product"
 )
 
 // TmallProductSpecGet 根据产品规格的Id号获取当个的规格信息

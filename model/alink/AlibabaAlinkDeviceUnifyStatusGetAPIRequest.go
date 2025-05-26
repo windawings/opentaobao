@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlinkDeviceUnifyStatusGetAPIRequest 查询设备标准属性最新状态 API请求

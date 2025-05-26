@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemHscodeAuditResultsQueryAPIRequest 商品hscode信息审核状态查询接口 API请求

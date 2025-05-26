@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMosGoodsSynchinventorybycountingAPIRequest 以盘点方式调整库存：传入商品实际库存 API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFliggyFlightAgentAuxproductPushAPIResponse 飞猪机票辅营商品投放 API返回值

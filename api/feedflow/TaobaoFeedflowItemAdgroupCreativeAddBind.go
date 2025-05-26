@@ -3,8 +3,8 @@ package feedflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/feedflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/feedflow"
 )
 
 // TaobaoFeedflowItemAdgroupCreativeAddBind 信息流新增并且绑定创意

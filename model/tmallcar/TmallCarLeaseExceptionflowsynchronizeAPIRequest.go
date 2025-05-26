@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarLeaseExceptionflowsynchronizeAPIRequest 天猫开新车租后异常流线下处理状态通知接口 API请求

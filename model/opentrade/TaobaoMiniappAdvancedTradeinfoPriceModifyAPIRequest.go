@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappAdvancedTradeinfoPriceModifyAPIRequest 高级定制商家传入改价信息 API请求

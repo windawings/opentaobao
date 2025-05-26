@@ -3,8 +3,8 @@ package tvupadmin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tvupadmin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tvupadmin"
 )
 
 // YunosTvpubadminManageTopicFindbyid 根据id获取专题信息

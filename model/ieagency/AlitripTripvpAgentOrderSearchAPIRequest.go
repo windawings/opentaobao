@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTripvpAgentOrderSearchAPIRequest 【国际机票】查询辅营订单列表 API请求

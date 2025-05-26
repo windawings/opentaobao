@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugKytQueryCodeRelationFromBillcodeAPIRequest 根据单据号码查询码单据详情和码信息 API请求

@@ -3,8 +3,8 @@ package moscm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/moscm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/moscm"
 )
 
 // AlibabaMosOrderListGet 批量查询订单交易

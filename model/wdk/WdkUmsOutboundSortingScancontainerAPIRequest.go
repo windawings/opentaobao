@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkUmsOutboundSortingScancontainerAPIRequest dps分货-扫描分货容器判断是否可用 API请求

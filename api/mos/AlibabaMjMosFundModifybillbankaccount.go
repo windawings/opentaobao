@@ -3,8 +3,8 @@ package mos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mos"
 )
 
 // AlibabaMjMosFundModifybillbankaccount 修改付款单的银行账户信息

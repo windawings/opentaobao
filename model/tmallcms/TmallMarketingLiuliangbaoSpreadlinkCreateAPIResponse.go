@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallMarketingLiuliangbaoSpreadlinkCreateAPIResponse 创建流量宝活动链接 API返回值

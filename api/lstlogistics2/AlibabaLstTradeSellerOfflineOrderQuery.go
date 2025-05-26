@@ -3,8 +3,8 @@ package lstlogistics2
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstlogistics2"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstlogistics2"
 )
 
 // AlibabaLstTradeSellerOfflineOrderQuery 供应商-线下订单-查询接口

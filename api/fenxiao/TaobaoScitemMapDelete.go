@@ -3,8 +3,8 @@ package fenxiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fenxiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fenxiao"
 )
 
 // TaobaoScitemMapDelete 失效指定用户的商品与后端商品的映射关系

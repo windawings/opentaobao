@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAppleNewuserSignNotifyNewversionAPIRequest 新用户签约结果通知接口v2 API请求

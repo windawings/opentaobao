@@ -3,8 +3,8 @@ package tbitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbitem"
 )
 
 // TaobaoItemAnchorGet 获取可用宝贝描述规范化模块

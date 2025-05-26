@@ -3,8 +3,8 @@ package waybill
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/waybill"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/waybill"
 )
 
 // CainiaoCloudprintSingleCustomareaGet 获取商家单一自定义区

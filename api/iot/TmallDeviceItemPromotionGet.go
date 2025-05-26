@@ -3,8 +3,8 @@ package iot
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/iot"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/iot"
 )
 
 // TmallDeviceItemPromotionGet 智能硬件上商品优惠获取

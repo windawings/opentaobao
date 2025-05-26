@@ -3,8 +3,8 @@ package xhotel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotel"
 )
 
 // TaobaoXhotelBnbpromoUpdate 民宿营销活动更新

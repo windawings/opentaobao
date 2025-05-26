@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosServiceCmnsCoaDeviceIsonlineAPIResponse 根据设备id查询设备是否在线 API返回值

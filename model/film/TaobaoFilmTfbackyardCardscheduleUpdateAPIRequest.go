@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoFilmTfbackyardCardscheduleUpdateAPIRequest CGV影城卡排期数据传输 API请求

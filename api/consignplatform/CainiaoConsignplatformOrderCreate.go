@@ -3,8 +3,8 @@ package consignplatform
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/consignplatform"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/consignplatform"
 )
 
 // CainiaoConsignplatformOrderCreate 菜鸟发货工作台创建订单

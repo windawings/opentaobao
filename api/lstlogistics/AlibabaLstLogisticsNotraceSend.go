@@ -3,8 +3,8 @@ package lstlogistics
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstlogistics"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstlogistics"
 )
 
 // AlibabaLstLogisticsNotraceSend 供应商-异云-无需物流发货

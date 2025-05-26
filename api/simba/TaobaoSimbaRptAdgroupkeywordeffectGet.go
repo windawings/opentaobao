@@ -3,8 +3,8 @@ package simba
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/simba"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/simba"
 )
 
 // TaobaoSimbaRptAdgroupkeywordeffectGet 推广组下的词效果报表数据查询(明细数据不分类型查询)

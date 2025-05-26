@@ -3,8 +3,8 @@ package caipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/caipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/caipiao"
 )
 
 // TaobaoCaipiaoLotterytypesGet 获取可用的彩种列表

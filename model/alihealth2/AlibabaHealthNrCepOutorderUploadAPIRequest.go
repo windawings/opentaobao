@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHealthNrCepOutorderUploadAPIRequest 线上订单收货验收单、出入库单据生成接口 API请求

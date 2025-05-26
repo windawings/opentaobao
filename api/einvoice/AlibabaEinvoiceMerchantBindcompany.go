@@ -3,8 +3,8 @@ package einvoice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/einvoice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/einvoice"
 )
 
 // AlibabaEinvoiceMerchantBindcompany 发票中台-跨平台绑定已入驻税号与商户

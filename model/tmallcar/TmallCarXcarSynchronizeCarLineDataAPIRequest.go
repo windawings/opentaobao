@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarXcarSynchronizeCarLineDataAPIRequest 我的爱卡车型配置数据 API请求

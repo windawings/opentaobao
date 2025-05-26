@@ -3,8 +3,8 @@ package btrip
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/btrip"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/btrip"
 )
 
 // AlitripBtripCorpopTrainExceedapplyGet 商旅火车票第三方超标审批单搜索接口

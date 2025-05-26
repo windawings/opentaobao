@@ -3,8 +3,8 @@ package store
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/store"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/store"
 )
 
 // TaobaoPlaceStoreExtendUpdate 商户门店拓展信息更新接口

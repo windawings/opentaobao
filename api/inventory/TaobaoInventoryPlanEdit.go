@@ -3,8 +3,8 @@ package inventory
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/inventory"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/inventory"
 )
 
 // TaobaoInventoryPlanEdit 设置计划库存

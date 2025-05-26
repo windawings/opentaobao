@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallSerivcecenterWorkcardInsuranceClaimAPIResponse 保险理赔回传工单记录 API返回值

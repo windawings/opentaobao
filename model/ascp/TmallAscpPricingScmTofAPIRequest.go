@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallAscpPricingScmTofAPIRequest TOF&SCM营销域对接-成本录入设置 API请求

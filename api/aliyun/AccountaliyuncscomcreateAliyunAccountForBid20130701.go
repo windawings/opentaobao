@@ -3,8 +3,8 @@ package aliyun
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliyun"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliyun"
 )
 
 // AccountAliyuncsComCreateAliyunAccountForBid20130701 为bid用户创建账号

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // OdpsAliyuncsComDescribeOdpsService20141215APIResponse 查询ODPS服务 API返回值

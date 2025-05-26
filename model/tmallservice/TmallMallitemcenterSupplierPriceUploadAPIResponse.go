@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallMallitemcenterSupplierPriceUploadAPIResponse 天猫服务商服务报价上传 API返回值

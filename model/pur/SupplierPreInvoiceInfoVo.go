@@ -3,7 +3,7 @@ package pur
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // SupplierPreInvoiceInfoVo 结构体

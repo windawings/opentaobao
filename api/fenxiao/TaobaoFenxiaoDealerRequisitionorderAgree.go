@@ -3,8 +3,8 @@ package fenxiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fenxiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fenxiao"
 )
 
 // TaobaoFenxiaoDealerRequisitionorderAgree 供应商/分销商通过采购申请/经销采购单申请

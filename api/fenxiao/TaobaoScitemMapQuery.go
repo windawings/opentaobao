@@ -3,8 +3,8 @@ package fenxiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fenxiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fenxiao"
 )
 
 // TaobaoScitemMapQuery 查找IC商品或分销商品与后端商品的关联信息

@@ -3,8 +3,8 @@ package product
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/product"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/product"
 )
 
 // AlibabaGpuSchemaAdd 使用schema文件发布产品

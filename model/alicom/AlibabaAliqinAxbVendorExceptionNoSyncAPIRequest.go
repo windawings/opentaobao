@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAliqinAxbVendorExceptionNoSyncAPIRequest 中心化供应商异常号码状态同步接口 API请求

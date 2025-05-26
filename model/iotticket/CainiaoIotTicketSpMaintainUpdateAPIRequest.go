@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoIotTicketSpMaintainUpdateAPIRequest IoT售后服务商维修方案更新 API请求

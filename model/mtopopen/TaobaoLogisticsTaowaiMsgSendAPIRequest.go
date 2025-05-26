@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoLogisticsTaowaiMsgSendAPIRequest 淘外包裹物流信息走淘宝发包裹状态通知接口 API请求

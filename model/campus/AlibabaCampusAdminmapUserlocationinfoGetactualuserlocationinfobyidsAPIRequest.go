@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusAdminmapUserlocationinfoGetactualuserlocationinfobyidsAPIRequest 根据userId(支持单个或批量)获取用户实时位置信息 API请求

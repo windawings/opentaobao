@@ -3,8 +3,8 @@ package ioti
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ioti"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ioti"
 )
 
 // AlibabaItAlbumDeviceSendimage 相框设备厂测刷图接口

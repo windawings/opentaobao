@@ -3,8 +3,8 @@ package aliexpress
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliexpress"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliexpress"
 )
 
 // AliexpressSocialInsDirectresultUpdate ISV更新INS私信发送的结果

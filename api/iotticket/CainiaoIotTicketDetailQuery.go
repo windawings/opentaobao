@@ -3,8 +3,8 @@ package iotticket
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/iotticket"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/iotticket"
 )
 
 // CainiaoIotTicketDetailQuery IoT售后工单详情查询

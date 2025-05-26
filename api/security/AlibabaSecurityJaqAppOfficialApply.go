@@ -3,8 +3,8 @@ package security
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/security"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/security"
 )
 
 // AlibabaSecurityJaqAppOfficialApply 聚安全官方应用申请

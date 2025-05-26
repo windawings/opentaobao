@@ -3,8 +3,8 @@ package tmallcampus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcampus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcampus"
 )
 
 // TmallCampusAuthstatusQuery 学生认证状态查询

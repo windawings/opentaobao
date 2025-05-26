@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripFlightExternalAlipaySnQueryAPIResponse 支付宝小程序查询证书序列号 API返回值

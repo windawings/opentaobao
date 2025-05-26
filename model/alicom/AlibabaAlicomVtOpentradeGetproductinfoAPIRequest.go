@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlicomVtOpentradeGetproductinfoAPIRequest 查询新虚拟产品配置信息 API请求

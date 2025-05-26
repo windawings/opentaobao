@@ -3,8 +3,8 @@ package tmallservice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallservice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallservice"
 )
 
 // TmallServicecenterSpserviceorderEpocUpload 电子保单文件上传接口

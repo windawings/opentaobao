@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressAffiliateFeaturedpromoProductsGetAPIRequest 联盟主题推广活动商品信息获取 API请求

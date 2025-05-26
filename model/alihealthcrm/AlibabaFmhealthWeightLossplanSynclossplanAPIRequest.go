@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaFmhealthWeightLossplanSynclossplanAPIRequest 减重计划--同步减重计划 API请求

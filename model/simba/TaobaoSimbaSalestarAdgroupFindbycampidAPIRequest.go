@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaSalestarAdgroupFindbycampidAPIRequest (销量明星)批量获取推广计划下的推广组信息 API请求

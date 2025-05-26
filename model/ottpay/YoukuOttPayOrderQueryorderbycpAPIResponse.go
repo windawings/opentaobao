@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuOttPayOrderQueryorderbycpAPIResponse 订单查询接口(cp订单号查询) API返回值

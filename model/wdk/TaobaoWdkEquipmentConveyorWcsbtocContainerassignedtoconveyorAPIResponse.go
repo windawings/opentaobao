@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWdkEquipmentConveyorWcsbtocContainerassignedtoconveyorAPIResponse 容器被预分拣器分配到悬挂链 API返回值

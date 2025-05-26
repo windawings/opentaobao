@@ -3,8 +3,8 @@ package alitripdivisions
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripdivisions"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripdivisions"
 )
 
 // AlitripPlatformDivisionsGetdivisionbyname 根据中文名称与行政区划级别查询行政区划数据

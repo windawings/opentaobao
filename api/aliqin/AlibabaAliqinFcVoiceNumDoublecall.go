@@ -3,8 +3,8 @@ package aliqin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliqin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliqin"
 )
 
 // AlibabaAliqinFcVoiceNumDoublecall 多方通话

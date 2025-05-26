@@ -3,8 +3,8 @@ package xiamiopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xiamiopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xiamiopen"
 )
 
 // XiamiApiSongListenfileGet 获取歌曲试听文件

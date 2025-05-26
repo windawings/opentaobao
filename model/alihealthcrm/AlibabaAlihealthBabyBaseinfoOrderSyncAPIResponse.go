@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthBabyBaseinfoOrderSyncAPIResponse alibaba.alihealth.baby.baseinfo.order.sync API返回值

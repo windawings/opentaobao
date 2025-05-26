@@ -3,8 +3,8 @@ package uscesl
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/uscesl"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/uscesl"
 )
 
 // TaobaoUsceslBizLightUp 价签LED等点亮

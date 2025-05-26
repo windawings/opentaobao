@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterServicemonitormessageSearchAPIResponse 根据时间段查询服务商的服务预警消息列表(15分钟内) API返回值

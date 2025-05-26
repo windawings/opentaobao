@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTclsAelophyMerchantChannelOrderCancelAPIResponse 翱象商家自有渠道 交易订单取消 API返回值

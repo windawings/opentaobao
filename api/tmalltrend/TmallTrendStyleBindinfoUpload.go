@@ -3,8 +3,8 @@ package tmalltrend
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmalltrend"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmalltrend"
 )
 
 // TmallTrendStyleBindinfoUpload 趋势词&款式绑定信息同步API

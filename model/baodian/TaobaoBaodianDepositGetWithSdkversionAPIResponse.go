@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBaodianDepositGetWithSdkversionAPIResponse 查询用户宝点信息（带sdk版本，已迁移） API返回值

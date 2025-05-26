@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMiniappAdvancedTradeinfoPriceModifyAPIResponse 高级定制商家传入改价信息 API返回值

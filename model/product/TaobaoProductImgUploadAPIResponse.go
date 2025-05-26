@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoProductImgUploadAPIResponse 上传单张产品非主图，如果需要传多张，可调多次 API返回值

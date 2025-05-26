@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMaitixOpengatewayTicketItemStatusQueryAPIResponse 分销状态查询接口queryTicketItemStatusByTicketItemId API返回值

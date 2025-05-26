@@ -3,8 +3,8 @@ package mos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mos"
 )
 
 // AlibabaMosBunkBunkinfoQuerybunk 根据合同号查询铺位信息

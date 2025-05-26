@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoJstAstrolabeStoreinventoryUpdateAPIRequest 后端商品库存增量更新接口 API请求

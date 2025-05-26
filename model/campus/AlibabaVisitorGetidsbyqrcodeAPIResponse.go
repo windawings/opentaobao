@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaVisitorGetidsbyqrcodeAPIResponse 根据访客二维码查访客行程id API返回值

@@ -3,8 +3,8 @@ package mozi
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mozi"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mozi"
 )
 
 // AlibabaMoziFusionReentryEmployeeAccount 重新入职并且重新启用账号

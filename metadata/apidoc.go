@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/bububa/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/metadata/util"
 )
 
 // ApiParamType 淘宝API文档字段类型

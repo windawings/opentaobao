@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoGrowthReachingXiniaoQueryAPIResponse 查询溪鸟推荐信息数据 API返回值

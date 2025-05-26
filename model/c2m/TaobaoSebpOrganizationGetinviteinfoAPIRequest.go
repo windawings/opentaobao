@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSebpOrganizationGetinviteinfoAPIRequest 淘小铺机构上下级关系 API请求

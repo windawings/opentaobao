@@ -3,8 +3,8 @@ package xhotelonlineorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelonlineorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelonlineorder"
 )
 
 // TaobaoXhotelOrderAlipayfaceSettle 信用住订单结账接口

@@ -3,8 +3,8 @@ package tttm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tttm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tttm"
 )
 
 // AliyunIndustryTttmStockSync 天天特卖库存同步接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AccountAliyuncsComCreateAliyunAccountForBid20130701APIResponse 为bid用户创建账号 API返回值

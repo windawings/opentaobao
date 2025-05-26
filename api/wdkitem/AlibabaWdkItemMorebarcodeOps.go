@@ -3,8 +3,8 @@ package wdkitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wdkitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wdkitem"
 )
 
 // AlibabaWdkItemMorebarcodeOps 商品一品多码维护操作

@@ -3,8 +3,8 @@ package aedata
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aedata"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aedata"
 )
 
 // AliexpressAffiliateOrderGet AE流量订单详情获取API

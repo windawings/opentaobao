@@ -3,8 +3,8 @@ package travel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/travel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/travel"
 )
 
 // AlitripItemSchemaAdd 使用schema模板进行商品发布

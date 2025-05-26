@@ -13,11 +13,11 @@ import (
 	semconv "go.opentelemetry.io/otel/semconv/v1.26.0"
 	"go.opentelemetry.io/otel/trace"
 
-	"github.com/bububa/opentaobao/metadata/util"
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/model"
 )
 
-const instrumentationName = "github.com/bububa/opentaobao"
+const instrumentationName = "github.com/windawings/opentaobao"
 
 type Otel struct {
 	traceProvider trace.TracerProvider

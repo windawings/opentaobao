@@ -3,8 +3,8 @@ package tuanhotel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tuanhotel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tuanhotel"
 )
 
 // AlitripTuanHotelItemSkuCalendarUpdate 酒店非标套餐商品日历库存宝贝SKU更新接口

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoPhoneBankCreditProcessAPIRequest 虚拟话费任务银行信用卡办理进度回传 API请求

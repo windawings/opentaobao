@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoQimenDeliveryorderBatchcreateAnswerAPIRequest 发货单创建结果通知接口(批量) API请求

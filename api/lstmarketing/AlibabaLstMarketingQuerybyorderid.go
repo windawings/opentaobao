@@ -3,8 +3,8 @@ package lstmarketing
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstmarketing"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstmarketing"
 )
 
 // AlibabaLstMarketingQuerybyorderid 根据订单查询营销信息

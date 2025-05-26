@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuDspDeliveryResourceMultigetAPIResponse 优酷实时批量获取可投放设备资源 API返回值

@@ -3,8 +3,8 @@ package topoaid
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/topoaid"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/topoaid"
 )
 
 // TaobaoTopPackageAuthCheck 校验用户授权关系

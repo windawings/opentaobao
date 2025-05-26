@@ -3,8 +3,8 @@ package eleenterpriserestaurant
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/eleenterpriserestaurant"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/eleenterpriserestaurant"
 )
 
 // AlibabaEleEnterpriseRestaurantCheckaddress 检查地址是否在餐厅配送范围内

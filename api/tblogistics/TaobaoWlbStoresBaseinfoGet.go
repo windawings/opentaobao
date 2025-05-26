@@ -3,8 +3,8 @@ package tblogistics
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tblogistics"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tblogistics"
 )
 
 // TaobaoWlbStoresBaseinfoGet 商家按照仓的类型获取仓库接口

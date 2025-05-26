@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAiContentBusinessSendPlanReceiveAPIRequest 天猫精灵商业化采销发放计划领取 API请求

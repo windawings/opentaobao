@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // SlbAliyuncsComDeleteLoadBalancerListener20130221APIResponse 删除 slb listener API返回值

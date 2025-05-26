@@ -3,8 +3,8 @@ package xiamitrace
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xiamitrace"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xiamitrace"
 )
 
 // XiamiContentResourceActionReport 曲库开放平台内容行为上报接口

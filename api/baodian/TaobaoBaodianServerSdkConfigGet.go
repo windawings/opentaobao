@@ -3,8 +3,8 @@ package baodian
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/baodian"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/baodian"
 )
 
 // TaobaoBaodianServerSdkConfigGet 获取宝点SDK的配置项（已迁移）

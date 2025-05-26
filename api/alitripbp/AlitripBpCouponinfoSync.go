@@ -3,8 +3,8 @@ package alitripbp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripbp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripbp"
 )
 
 // AlitripBpCouponinfoSync 飞猪广告券信息同步接口

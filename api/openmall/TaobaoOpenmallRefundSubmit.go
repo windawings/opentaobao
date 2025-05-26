@@ -3,8 +3,8 @@ package openmall
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/openmall"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/openmall"
 )
 
 // TaobaoOpenmallRefundSubmit 提交OpenMall退款单物流

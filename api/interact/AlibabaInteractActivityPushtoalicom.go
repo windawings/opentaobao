@@ -3,8 +3,8 @@ package interact
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/interact"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/interact"
 )
 
 // AlibabaInteractActivityPushtoalicom 小铺isv推广流量活动到流量聚乐部

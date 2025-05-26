@@ -3,8 +3,8 @@ package tmallcar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcar"
 )
 
 // TmallCarXcarSynchronizeCarLineData 我的爱卡车型配置数据

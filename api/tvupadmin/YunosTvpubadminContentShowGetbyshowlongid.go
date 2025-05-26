@@ -3,8 +3,8 @@ package tvupadmin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tvupadmin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tvupadmin"
 )
 
 // YunosTvpubadminContentShowGetbyshowlongid 迎客松根据节目longid获取节目元数据

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCaipiaoSignstatusCheckAPIResponse 检查用户是否签署支付宝代购协议 API返回值

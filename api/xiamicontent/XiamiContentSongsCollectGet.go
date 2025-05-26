@@ -3,8 +3,8 @@ package xiamicontent
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xiamicontent"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xiamicontent"
 )
 
 // XiamiContentSongsCollectGet 获取歌单详情接口

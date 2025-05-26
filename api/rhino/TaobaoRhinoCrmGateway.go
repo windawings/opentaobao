@@ -3,8 +3,8 @@ package rhino
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/rhino"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/rhino"
 )
 
 // TaobaoRhinoCrmGateway crm实体变更回调接口

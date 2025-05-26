@@ -3,8 +3,8 @@ package cainiaoncwl
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cainiaoncwl"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cainiaoncwl"
 )
 
 // CainiaoNcwlJhorderQuery 农村物流集货单查询接口

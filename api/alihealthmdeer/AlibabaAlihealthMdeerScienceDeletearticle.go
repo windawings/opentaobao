@@ -3,8 +3,8 @@ package alihealthmdeer
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthmdeer"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthmdeer"
 )
 
 // AlibabaAlihealthMdeerScienceDeletearticle 文章删除

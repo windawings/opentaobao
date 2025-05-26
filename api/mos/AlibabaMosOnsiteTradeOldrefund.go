@@ -3,8 +3,8 @@ package mos
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mos"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mos"
 )
 
 // AlibabaMosOnsiteTradeOldrefund 线下新退款接口（专为老退款接口调用）

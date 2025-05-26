@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBaodianServerSdkConfigGetAPIRequest 获取宝点SDK的配置项（已迁移） API请求

@@ -3,8 +3,8 @@ package tbrefund
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbrefund"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbrefund"
 )
 
 // TaobaoSpecialRefundsReceiveGet 特殊退款类型的纠纷单列表查询

@@ -3,8 +3,8 @@ package vaccin
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/vaccin"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/vaccin"
 )
 
 // AlibabaAlihealthVaccineTradeOrderChannelGet 通过订单ID与卖家ID获取订单渠道

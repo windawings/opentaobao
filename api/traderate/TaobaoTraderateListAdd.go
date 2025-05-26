@@ -3,8 +3,8 @@ package traderate
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/traderate"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/traderate"
 )
 
 // TaobaoTraderateListAdd 针对父子订单新增批量评价

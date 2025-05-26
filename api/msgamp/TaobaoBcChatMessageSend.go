@@ -3,8 +3,8 @@ package msgamp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/msgamp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/msgamp"
 )
 
 // TaobaoBcChatMessageSend 小程序资源授权-BC客服消息

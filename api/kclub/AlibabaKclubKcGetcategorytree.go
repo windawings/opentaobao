@@ -3,8 +3,8 @@ package kclub
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/kclub"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/kclub"
 )
 
 // AlibabaKclubKcGetcategorytree 知识云-查询租户下类目树

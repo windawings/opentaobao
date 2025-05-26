@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusDeviceOpenapiGetsimpledevicelistAPIRequest 查询设备基础信息集合(仅包含设备id,code,是否启用,位置信息,描述等基础信息) API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallgenieScpPlanCorrectSupplierQuoteRawUploadAPIResponse 同步供应商校准后的配额-二级物料 API返回值

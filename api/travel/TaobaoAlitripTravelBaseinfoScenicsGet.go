@@ -3,8 +3,8 @@ package travel
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/travel"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/travel"
 )
 
 // TaobaoAlitripTravelBaseinfoScenicsGet 【API3.0】基础信息获取接口：景点数据查询

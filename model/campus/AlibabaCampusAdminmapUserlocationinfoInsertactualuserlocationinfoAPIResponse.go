@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusAdminmapUserlocationinfoInsertactualuserlocationinfoAPIResponse 上传用户实时位置 API返回值

@@ -3,8 +3,8 @@ package alihealthcrm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthcrm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthcrm"
 )
 
 // AlibabaAlihealthPregnancyDataSync 四类数据同步

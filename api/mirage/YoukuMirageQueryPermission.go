@@ -3,8 +3,8 @@ package mirage
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mirage"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mirage"
 )
 
 // YoukuMirageQueryPermission 优酷播控查询是否可播API

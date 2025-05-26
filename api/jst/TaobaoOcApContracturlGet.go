@@ -3,8 +3,8 @@ package jst
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jst"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jst"
 )
 
 // TaobaoOcApContracturlGet 按用户获取支付宝代扣协议链接地址

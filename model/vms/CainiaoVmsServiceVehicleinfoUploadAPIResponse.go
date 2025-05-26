@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoVmsServiceVehicleinfoUploadAPIResponse 新能源车--外部车辆信息回传 API返回值

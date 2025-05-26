@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallPopupstoreActivityQueryAPIResponse 查询某段时间内的快闪活动列表 API返回值

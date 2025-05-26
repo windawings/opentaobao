@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTravelProductGereralskuUpdateAPIResponse (供销)船票通用类目sku新增&编辑API API返回值

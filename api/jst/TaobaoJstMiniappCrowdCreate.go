@@ -3,8 +3,8 @@ package jst
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jst"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jst"
 )
 
 // TaobaoJstMiniappCrowdCreate 小程序活动创建

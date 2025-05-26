@@ -3,8 +3,8 @@ package iot
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/iot"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/iot"
 )
 
 // TaobaoAilabAicloudTopDeviceStatusinfoGet 获取设备状态信息

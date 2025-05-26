@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkMarketingCouponAdditemAPIRequest 在优惠券活动下添加商品。【注意，此接口暂不支持并发！】 API请求

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMaitixProjectDistributionQuerylistAPIRequest 分销项目列表查询（已过时，不推荐使用） API请求

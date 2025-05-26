@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkMealPosGetfetchmealcodeAPIResponse 五道口餐饮取餐号获取接口 API返回值

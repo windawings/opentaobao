@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCampusDeviceOpenapiGetsimpledeviceAPIResponse 获取单个设备的基础信息(仅包含设备id,code,是否启用,位置信息,描述等基础信息) API返回值

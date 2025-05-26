@@ -3,8 +3,8 @@ package yunosminiapp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/yunosminiapp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/yunosminiapp"
 )
 
 // YunosMiniappDatatunnelCall 车载小程序外部服务调用

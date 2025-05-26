@@ -3,8 +3,8 @@ package interact
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/interact"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/interact"
 )
 
 // TaobaoWeitaoFeedSynchronizeNew 推广淘小铺isv 活动到微淘feed

@@ -3,7 +3,7 @@ package miniappopen
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // DistributionOrderOpenBizDto 结构体

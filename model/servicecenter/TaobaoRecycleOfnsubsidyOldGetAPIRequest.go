@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRecycleOfnsubsidyOldGetAPIRequest 回收单旧机款及补贴查询 API请求

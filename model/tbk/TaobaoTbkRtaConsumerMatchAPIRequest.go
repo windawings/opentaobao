@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkRtaConsumerMatchAPIRequest 淘宝客-推广者-定向活动目标发布 API请求

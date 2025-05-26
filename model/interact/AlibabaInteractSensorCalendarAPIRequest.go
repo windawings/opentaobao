@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaInteractSensorCalendarAPIRequest 天猫互动游戏开放平台需要授权的传感器类接口(日历提醒) API请求

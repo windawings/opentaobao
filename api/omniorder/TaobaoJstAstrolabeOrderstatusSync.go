@@ -3,8 +3,8 @@ package omniorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/omniorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/omniorder"
 )
 
 // TaobaoJstAstrolabeOrderstatusSync 线下门店派单以及单据相关操作接口

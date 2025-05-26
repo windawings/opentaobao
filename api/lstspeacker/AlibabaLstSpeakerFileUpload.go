@@ -3,8 +3,8 @@ package lstspeacker
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstspeacker"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstspeacker"
 )
 
 // AlibabaLstSpeakerFileUpload 如意音箱音频文件长传

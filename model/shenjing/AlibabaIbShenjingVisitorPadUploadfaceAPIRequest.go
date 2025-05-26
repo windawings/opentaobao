@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIbShenjingVisitorPadUploadfaceAPIRequest 访客PAD上传人脸 API请求

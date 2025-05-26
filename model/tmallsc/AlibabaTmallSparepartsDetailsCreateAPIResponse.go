@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallSparepartsDetailsCreateAPIResponse 天猫蚁巢同步工单申请备件明细 API返回值

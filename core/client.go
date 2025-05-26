@@ -15,9 +15,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bububa/opentaobao/core/internal/debug"
-	"github.com/bububa/opentaobao/metadata/util"
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/core/internal/debug"
+	"github.com/windawings/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/model"
 )
 
 var (

@@ -3,8 +3,8 @@ package fundplatform
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/fundplatform"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/fundplatform"
 )
 
 // AlibabaFundplatformCardorderMake 通知制卡商制卡

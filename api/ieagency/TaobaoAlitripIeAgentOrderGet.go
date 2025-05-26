@@ -3,8 +3,8 @@ package ieagency
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ieagency"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ieagency"
 )
 
 // TaobaoAlitripIeAgentOrderGet 【国际机票】查询订单详情

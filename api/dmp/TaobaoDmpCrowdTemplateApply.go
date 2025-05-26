@@ -3,8 +3,8 @@ package dmp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/dmp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/dmp"
 )
 
 // TaobaoDmpCrowdTemplateApply 人群模版采纳并生成人群API

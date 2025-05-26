@@ -3,8 +3,8 @@ package mozi
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mozi"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mozi"
 )
 
 // AlibabaMoziFusionAddorupdateEmployeeAccount 添加人员和账号复合接口

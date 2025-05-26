@@ -3,8 +3,8 @@ package subuser
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/subuser"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/subuser"
 )
 
 // TaobaoSubusersInfoQuery 根据当前子账号登陆态，获取该子账号基本信息

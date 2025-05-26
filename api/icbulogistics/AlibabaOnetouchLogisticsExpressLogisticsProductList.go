@@ -3,8 +3,8 @@ package icbulogistics
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbulogistics"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbulogistics"
 )
 
 // AlibabaOnetouchLogisticsExpressLogisticsProductList 查询物流运力列表

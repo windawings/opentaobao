@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCfoIncomingInvoicePytInvoiceScanAPIRequest 票易通发票ocr信息同步 API请求

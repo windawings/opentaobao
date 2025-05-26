@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMosBunkBunkinfoQuerybunkAPIRequest 根据合同号查询铺位信息 API请求

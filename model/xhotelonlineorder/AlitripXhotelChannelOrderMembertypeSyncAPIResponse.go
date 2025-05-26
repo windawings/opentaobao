@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripXhotelChannelOrderMembertypeSyncAPIResponse 酒店分销渠道会员类型同步 API返回值

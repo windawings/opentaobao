@@ -3,8 +3,8 @@ package ticket
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ticket"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ticket"
 )
 
 // AlitripTicketSkusBatchUpload 【门票API2.0】门票价格库存同步接口（多票种批量更新）

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthNrTradeMedicalInsuranceGetAPIResponse 阿里健康医保支付信息获取 API返回值

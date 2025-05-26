@@ -3,8 +3,8 @@ package wlbimports
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlbimports"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlbimports"
 )
 
 // TaobaoWlbImportsGeneralConsign 一般进口发货

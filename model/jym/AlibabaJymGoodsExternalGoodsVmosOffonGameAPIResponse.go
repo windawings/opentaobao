@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymGoodsExternalGoodsVmosOffonGameAPIResponse 基于游戏id临时上下架智能发布入口 API返回值

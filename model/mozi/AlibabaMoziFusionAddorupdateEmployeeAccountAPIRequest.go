@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMoziFusionAddorupdateEmployeeAccountAPIRequest 添加人员和账号复合接口 API请求

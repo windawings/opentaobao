@@ -3,8 +3,8 @@ package tuike
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tuike"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tuike"
 )
 
 // AlibabaTuikeOfferGet 推广商品查询接口

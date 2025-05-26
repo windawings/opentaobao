@@ -3,8 +3,8 @@ package alihealthmedical
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthmedical"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthmedical"
 )
 
 // AlibabaAlihealthMedicalOrderQuery 三方机构查询订单详情接口

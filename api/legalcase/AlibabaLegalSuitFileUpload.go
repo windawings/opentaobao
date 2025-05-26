@@ -3,8 +3,8 @@ package legalcase
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/legalcase"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/legalcase"
 )
 
 // AlibabaLegalSuitFileUpload 诉讼文件上传接口

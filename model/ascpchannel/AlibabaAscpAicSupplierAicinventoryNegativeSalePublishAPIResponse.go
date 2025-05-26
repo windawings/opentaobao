@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpAicSupplierAicinventoryNegativeSalePublishAPIResponse AIC负卖库存新增和修改接口 API返回值

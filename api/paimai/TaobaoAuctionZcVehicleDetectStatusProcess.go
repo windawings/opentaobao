@@ -3,8 +3,8 @@ package paimai
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/paimai"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/paimai"
 )
 
 // TaobaoAuctionZcVehicleDetectStatusProcess 检测服务-服务单状态流转

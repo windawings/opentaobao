@@ -3,7 +3,7 @@ package alitripmerchant
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // HotelDetailInfoDto 结构体

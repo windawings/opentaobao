@@ -3,8 +3,8 @@ package exchange
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/exchange"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/exchange"
 )
 
 // TmallExchangeReceiveGet 卖家查询换货列表

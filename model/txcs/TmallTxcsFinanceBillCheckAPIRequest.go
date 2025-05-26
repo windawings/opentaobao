@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTxcsFinanceBillCheckAPIRequest 天猫超市外部商家财务账单对账 API请求

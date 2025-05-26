@@ -3,8 +3,8 @@ package healthnr
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/healthnr"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/healthnr"
 )
 
 // AlibabaHealthNrLogisticsQuery 阿里健康新零售物流详情接口

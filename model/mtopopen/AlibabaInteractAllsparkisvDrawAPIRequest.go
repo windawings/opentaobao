@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaInteractAllsparkisvDrawAPIRequest allspark提供抽奖tida接口对应鉴权接口 API请求

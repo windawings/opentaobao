@@ -3,8 +3,8 @@ package lstvending
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstvending"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstvending"
 )
 
 // AlibabaLstVendingOrderUpdate 自动售货机订单物流信息回传

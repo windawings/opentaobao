@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpLogisticsInstantsonlineCanceldeliveryAPIResponse 同城配送在线下单取消下单取消呼叫的运力 API返回值

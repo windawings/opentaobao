@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCityretailFulfillAbnormalCenterAbnormalStatusChangeAPIResponse 同城零售履约异常中心异常单处理结果回调接口 API返回值

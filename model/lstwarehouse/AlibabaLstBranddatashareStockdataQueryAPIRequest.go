@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstBranddatashareStockdataQueryAPIRequest 查询品牌商品实仓库存/周转效能 API请求

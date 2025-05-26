@@ -3,8 +3,8 @@ package crm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/crm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/crm"
 )
 
 // TaobaoCrmGroupUpdate 修改一个已经存在的分组

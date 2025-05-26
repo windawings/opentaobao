@@ -3,8 +3,8 @@ package category
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/category"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/category"
 )
 
 // TaobaoItemCatpropsModificationGet 查询商品类目属性变更

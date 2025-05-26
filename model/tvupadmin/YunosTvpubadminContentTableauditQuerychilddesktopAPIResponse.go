@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosTvpubadminContentTableauditQuerychilddesktopAPIResponse 迎客松查看小酷宝桌面坑位元数据列表 API返回值

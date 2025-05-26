@@ -3,8 +3,8 @@ package openim
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/openim"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/openim"
 )
 
 // TaobaoOpenimRelationsGet 获取openim账号的聊天关系

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSubwayKeywordOfflineLayeredfindAPIResponse 查询关键词离线报表30天转化周期 API返回值

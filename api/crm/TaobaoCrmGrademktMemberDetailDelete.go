@@ -3,8 +3,8 @@ package crm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/crm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/crm"
 )
 
 // TaobaoCrmGrademktMemberDetailDelete 会员等级营销-删除商品等级营销明细

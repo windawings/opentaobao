@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCfoIncomingInvoiceLedgerFullysyncAPIResponse 票易通全量底账数据同步 API返回值

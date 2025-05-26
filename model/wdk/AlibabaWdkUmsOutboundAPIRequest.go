@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkUmsOutboundAPIRequest 出库-ERP下发单(新接口，包含调拨出库单和退货出库单等) API请求

@@ -3,8 +3,8 @@ package car
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/car"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/car"
 )
 
 // TaobaoAlitripCarDriverStatusUpdate 司机服务状态更新接口

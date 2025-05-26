@@ -3,8 +3,8 @@ package idleparttime
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idleparttime"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idleparttime"
 )
 
 // AlibabaIdleParttimeJobsync 兼职岗位同步

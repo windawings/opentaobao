@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoVmsServiceVehicleinfoUploadAPIRequest 新能源车--外部车辆信息回传 API请求

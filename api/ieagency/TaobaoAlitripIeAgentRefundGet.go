@@ -3,8 +3,8 @@ package ieagency
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ieagency"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ieagency"
 )
 
 // TaobaoAlitripIeAgentRefundGet 获取退票申请详情

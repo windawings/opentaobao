@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoNextoneLogisticsWarehouseUpdateAPIResponse AG退货入仓状态写接口 API返回值

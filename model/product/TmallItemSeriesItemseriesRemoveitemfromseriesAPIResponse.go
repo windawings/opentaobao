@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemSeriesItemseriesRemoveitemfromseriesAPIResponse 从商品系列中移除商品 API返回值

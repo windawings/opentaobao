@@ -3,8 +3,8 @@ package iot
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/iot"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/iot"
 )
 
 // TaobaoAilabAicloudTopDeviceDeviceidConvert 开放设备id转换内部设备id

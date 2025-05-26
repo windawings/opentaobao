@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkCartCouponExpireUserQueryAPIResponse 购物车催付优惠券到期查询用户信息 API返回值

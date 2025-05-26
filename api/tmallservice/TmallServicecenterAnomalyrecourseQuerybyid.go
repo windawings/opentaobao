@@ -3,8 +3,8 @@ package tmallservice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallservice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallservice"
 )
 
 // TmallServicecenterAnomalyrecourseQuerybyid 根据一键求助id查询指定服务商的一键求助单

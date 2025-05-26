@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripTravelBaseinfoCitiesGetAPIResponse 【API3.0】度假线路商品发布时基础信息获取接口：地址数据查询 API返回值

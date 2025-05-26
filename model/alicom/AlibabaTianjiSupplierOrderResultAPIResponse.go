@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTianjiSupplierOrderResultAPIResponse 供应商处理订单接口（订购成功/失败、发货） API返回值

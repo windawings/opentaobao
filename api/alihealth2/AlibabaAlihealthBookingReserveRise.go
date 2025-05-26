@@ -3,8 +3,8 @@ package alihealth2
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealth2"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealth2"
 )
 
 // AlibabaAlihealthBookingReserveRise ISV 新增/修改复诊预约信息

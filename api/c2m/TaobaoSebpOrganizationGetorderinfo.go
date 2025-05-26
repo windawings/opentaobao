@@ -3,8 +3,8 @@ package c2m
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/c2m"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/c2m"
 )
 
 // TaobaoSebpOrganizationGetorderinfo 淘小铺机构订单信息

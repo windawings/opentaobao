@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstPosOpenCashierSynccashierdataAPIResponse 收银快照同步接口(最多10条订单信息) API返回值

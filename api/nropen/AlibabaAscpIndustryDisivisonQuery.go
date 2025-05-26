@@ -3,8 +3,8 @@ package nropen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nropen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nropen"
 )
 
 // AlibabaAscpIndustryDisivisonQuery 查询服务支持地区列表

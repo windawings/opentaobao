@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaJymIndustryOutsidegamepropertysyncSyncpropertyinfoAPIRequest 外部上报游戏属性信息 API请求

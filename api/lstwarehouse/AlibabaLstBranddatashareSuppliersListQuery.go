@@ -3,8 +3,8 @@ package lstwarehouse
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstwarehouse"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstwarehouse"
 )
 
 // AlibabaLstBranddatashareSuppliersListQuery 品牌数据授权的供应商列表

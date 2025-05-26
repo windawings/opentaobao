@@ -3,8 +3,8 @@ package nrt
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nrt"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nrt"
 )
 
 // TmallNrtMemberOpenid 根据会员手机查询openId

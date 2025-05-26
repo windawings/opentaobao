@@ -3,8 +3,8 @@ package wlbimports
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlbimports"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlbimports"
 )
 
 // TaobaoWlbCrossborderWaybillGet 集货商家pdf和云打印面单获取，pdf需要配置白名单

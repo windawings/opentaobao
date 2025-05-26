@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDropshippingStoreSaveAPIRequest 阿里巴巴dropshipping店铺数据保存接口 API请求

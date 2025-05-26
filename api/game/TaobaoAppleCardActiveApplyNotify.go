@@ -3,8 +3,8 @@ package game
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/game"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/game"
 )
 
 // TaobaoAppleCardActiveApplyNotify 苹果卡密申请激活回调接口

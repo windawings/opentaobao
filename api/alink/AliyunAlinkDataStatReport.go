@@ -3,8 +3,8 @@ package alink
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alink"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alink"
 )
 
 // AliyunAlinkDataStatReport 外部离线统计数据上报

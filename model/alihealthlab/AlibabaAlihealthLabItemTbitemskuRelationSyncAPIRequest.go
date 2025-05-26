@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthLabItemTbitemskuRelationSyncAPIRequest 阿里健康检验检测业务，检验检测项目淘宝商品SKU关系同步 API请求

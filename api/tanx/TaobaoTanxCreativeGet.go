@@ -3,8 +3,8 @@ package tanx
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tanx"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tanx"
 )
 
 // TaobaoTanxCreativeGet 获取单个审核创意状态

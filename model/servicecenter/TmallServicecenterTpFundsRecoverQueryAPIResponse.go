@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServicecenterTpFundsRecoverQueryAPIResponse 服务商资金权益逆向扣回的查询接口 API返回值

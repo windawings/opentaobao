@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTrainAgentOrderGetVtwoAPIResponse 代理商获取订单信息回调APIv2--增加鉴权校验 API返回值

@@ -3,8 +3,8 @@ package flight
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/flight"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/flight"
 )
 
 // TaobaoAlitripIeAgentRefundNewFillconfirmfee 新模型-回填申请单费用

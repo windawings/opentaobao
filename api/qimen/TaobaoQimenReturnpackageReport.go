@@ -3,8 +3,8 @@ package qimen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/qimen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/qimen"
 )
 
 // TaobaoQimenReturnpackageReport 退货包裹状态通知接口

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarcenterVehicleChasisInsertAPIResponse EPC车型底盘压缩库新增接口 API返回值

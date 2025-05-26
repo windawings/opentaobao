@@ -3,8 +3,8 @@ package smartstore
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/smartstore"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/smartstore"
 )
 
 // TaobaoIstoreAreasGet 智慧门店区域编码查询

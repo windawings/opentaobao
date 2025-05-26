@@ -4,7 +4,7 @@ import (
     "sync"
 {{- if eq .ImportModel true}}
 
-    "github.com/bububa/opentaobao/model"
+    "github.com/windawings/opentaobao/model"
 {{- end }}
 )
 

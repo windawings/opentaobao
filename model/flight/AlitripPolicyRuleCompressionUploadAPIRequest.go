@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripPolicyRuleCompressionUploadAPIRequest 大批量上传规则类型的单程/往返政策 API请求

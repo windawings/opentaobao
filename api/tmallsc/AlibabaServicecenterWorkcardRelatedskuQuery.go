@@ -3,8 +3,8 @@ package tmallsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallsc"
 )
 
 // AlibabaServicecenterWorkcardRelatedskuQuery 查询工单关联的服务项

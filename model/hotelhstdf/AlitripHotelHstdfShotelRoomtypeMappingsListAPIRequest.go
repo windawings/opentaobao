@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripHotelHstdfShotelRoomtypeMappingsListAPIRequest 根据HID获取所有卖家房型匹配关系 API请求

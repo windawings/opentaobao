@@ -3,8 +3,8 @@ package ma
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ma"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ma"
 )
 
 // TaobaoMaQrcodeCommonCreate 创建码平台常用二维码

@@ -3,8 +3,8 @@ package ship
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ship"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ship"
 )
 
 // AlitripShipReturnNotify 船票退票退款回填接口

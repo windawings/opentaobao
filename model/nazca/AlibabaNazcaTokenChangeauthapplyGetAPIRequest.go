@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaNazcaTokenChangeauthapplyGetAPIRequest 根据token获取变更认证申请信息 API请求

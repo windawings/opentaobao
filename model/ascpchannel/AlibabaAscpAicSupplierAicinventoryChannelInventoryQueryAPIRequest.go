@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpAicSupplierAicinventoryChannelInventoryQueryAPIRequest 供应商直发-商家仓库存查询服务 API请求

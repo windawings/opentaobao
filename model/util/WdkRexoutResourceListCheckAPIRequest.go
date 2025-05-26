@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // WdkRexoutResourceListCheckAPIRequest ReX应用中心资源更新检测-外部 API请求

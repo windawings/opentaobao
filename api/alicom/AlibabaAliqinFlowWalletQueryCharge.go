@@ -3,8 +3,8 @@ package alicom
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alicom"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alicom"
 )
 
 // AlibabaAliqinFlowWalletQueryCharge 查询流量充值状态

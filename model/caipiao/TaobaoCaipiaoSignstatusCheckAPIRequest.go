@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCaipiaoSignstatusCheckAPIRequest 检查用户是否签署支付宝代购协议 API请求

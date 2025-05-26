@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoVirtualDsfSupplierInterfaceSwitchAPIRequest 虚拟供应商履约接口切换 API请求

@@ -3,8 +3,8 @@ package alihealth
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealth"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealth"
 )
 
 // AlibabaAlihealthPrescriptionAuthGet 阿里健康处方平台获取授权码

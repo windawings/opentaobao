@@ -3,8 +3,8 @@ package tbuser
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbuser"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbuser"
 )
 
 // TaobaoUserOpenuidGetbyorder 根据订单获取买家openuid

@@ -3,8 +3,8 @@ package lstfundbill
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstfundbill"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstfundbill"
 )
 
 // AlibabaLstTradeSellerOrderFundbillListQuery 结算明细数据查询（卖家视角）

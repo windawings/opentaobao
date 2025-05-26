@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMevOpenDeleteperformAPIRequest 大麦换验平台-第三方对外开放-场次接口deletePerform API请求

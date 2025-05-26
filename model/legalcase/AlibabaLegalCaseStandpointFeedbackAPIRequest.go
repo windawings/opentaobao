@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLegalCaseStandpointFeedbackAPIRequest 新增或更新 反馈口径(采纳口径/不采纳口径) API请求

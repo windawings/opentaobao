@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarcenterVehicleCvmappingInsertAPIRequest EPC车辆版本信息与底盘信息库关系绑定 API请求

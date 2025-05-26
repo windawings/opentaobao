@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkScPublisherInfoGetAPIRequest 淘宝客-公用-私域用户备案信息查询 API请求

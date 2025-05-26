@@ -3,8 +3,8 @@ package sungari
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/sungari"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/sungari"
 )
 
 // TaobaoSungariDisposeQuery 商品商家处置结果查询

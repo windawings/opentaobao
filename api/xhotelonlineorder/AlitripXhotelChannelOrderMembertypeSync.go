@@ -3,8 +3,8 @@ package xhotelonlineorder
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelonlineorder"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelonlineorder"
 )
 
 // AlitripXhotelChannelOrderMembertypeSync 酒店分销渠道会员类型同步

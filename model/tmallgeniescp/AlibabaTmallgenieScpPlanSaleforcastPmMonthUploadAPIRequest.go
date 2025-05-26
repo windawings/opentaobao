@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTmallgenieScpPlanSaleforcastPmMonthUploadAPIRequest 24-销售月预测数量（产管）回传-月度 API请求

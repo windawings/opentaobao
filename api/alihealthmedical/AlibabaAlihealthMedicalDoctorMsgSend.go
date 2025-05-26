@@ -3,8 +3,8 @@ package alihealthmedical
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthmedical"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthmedical"
 )
 
 // AlibabaAlihealthMedicalDoctorMsgSend 三方医生消息写入

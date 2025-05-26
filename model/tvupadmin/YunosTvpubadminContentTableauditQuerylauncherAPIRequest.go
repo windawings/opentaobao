@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosTvpubadminContentTableauditQuerylauncherAPIRequest 运营位管控-查询联盟一体机运营位元数据列表 API请求

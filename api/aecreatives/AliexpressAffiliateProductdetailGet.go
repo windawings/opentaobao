@@ -3,8 +3,8 @@ package aecreatives
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aecreatives"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aecreatives"
 )
 
 // AliexpressAffiliateProductdetailGet 联盟商品详情获取接口

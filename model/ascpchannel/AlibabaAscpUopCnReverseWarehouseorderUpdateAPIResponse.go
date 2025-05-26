@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpUopCnReverseWarehouseorderUpdateAPIResponse 供应链中台逆向入库单修改服务 API返回值

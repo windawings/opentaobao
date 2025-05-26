@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSellercenterSubuserPermissionsRolesGetAPIRequest 查询指定的子账号的权限和角色信息 API请求

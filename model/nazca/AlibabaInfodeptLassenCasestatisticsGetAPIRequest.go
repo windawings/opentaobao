@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaInfodeptLassenCasestatisticsGetAPIRequest 法庭提交和结案案件量接口 API请求

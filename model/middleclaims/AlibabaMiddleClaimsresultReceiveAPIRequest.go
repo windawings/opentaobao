@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMiddleClaimsresultReceiveAPIRequest 国际化中台服务域接收理赔结果 API请求

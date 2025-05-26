@@ -3,8 +3,8 @@ package westcrm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/westcrm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/westcrm"
 )
 
 // AlibabaWestcrmCustomerInfoGet 会员信息查询接口

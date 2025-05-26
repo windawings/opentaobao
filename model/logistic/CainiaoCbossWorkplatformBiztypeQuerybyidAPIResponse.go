@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCbossWorkplatformBiztypeQuerybyidAPIResponse 菜鸟工单平台根据业务类型id查询业务类型详细信息 API返回值

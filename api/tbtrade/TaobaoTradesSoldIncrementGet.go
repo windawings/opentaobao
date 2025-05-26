@@ -3,8 +3,8 @@ package tbtrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbtrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbtrade"
 )
 
 // TaobaoTradesSoldIncrementGet 查询卖家已卖出的增量交易数据（根据修改时间）

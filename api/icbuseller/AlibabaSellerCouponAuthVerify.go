@@ -3,8 +3,8 @@ package icbuseller
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbuseller"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbuseller"
 )
 
 // AlibabaSellerCouponAuthVerify 优惠券校验

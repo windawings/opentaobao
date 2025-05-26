@@ -3,8 +3,8 @@ package wdklogistics
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wdklogistics"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wdklogistics"
 )
 
 // AlibabaWdkLogisticsPusPickupCararrived 自提业务-车辆到达上报车牌号

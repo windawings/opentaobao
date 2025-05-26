@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaCsrGameDataSyncCheckAPIResponse 公益互动 外部游戏数据同步-校验 API返回值

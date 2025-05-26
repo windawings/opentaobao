@@ -3,8 +3,8 @@ package mozivds
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/mozivds"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/mozivds"
 )
 
 // AlibabaMoziVdsTenantApiServiceAddadmin 新建租户管理员

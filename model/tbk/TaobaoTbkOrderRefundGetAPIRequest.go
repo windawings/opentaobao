@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkOrderRefundGetAPIRequest 淘宝客-推广者-全量维权退款订单查询 API请求

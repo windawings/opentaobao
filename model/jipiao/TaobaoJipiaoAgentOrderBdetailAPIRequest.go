@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoJipiaoAgentOrderBdetailAPIRequest 【机票代理商订单】采购订单详情 API请求

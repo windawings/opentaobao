@@ -3,8 +3,8 @@ package ascpqcc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascpqcc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascpqcc"
 )
 
 // AlibabaAscpQccSampleCancelItemRelation 魅力惠样品解除父子商品关系

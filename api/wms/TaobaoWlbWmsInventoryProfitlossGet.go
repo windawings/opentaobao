@@ -3,8 +3,8 @@ package wms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wms"
 )
 
 // TaobaoWlbWmsInventoryProfitlossGet 通过订单列表批量获取库存损益单信息

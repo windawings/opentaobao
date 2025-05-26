@@ -3,8 +3,8 @@ package aeusergrowth
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aeusergrowth"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aeusergrowth"
 )
 
 // AliexpressUsergrowthSearchItemsGet 第三方平台搜索AE商品

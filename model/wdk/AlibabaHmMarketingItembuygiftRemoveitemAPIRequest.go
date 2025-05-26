@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHmMarketingItembuygiftRemoveitemAPIRequest 移除买赠活动下的商品。【注意，此接口暂不支持并发！】 API请求

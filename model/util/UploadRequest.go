@@ -3,7 +3,7 @@ package util
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // UploadRequest 结构体

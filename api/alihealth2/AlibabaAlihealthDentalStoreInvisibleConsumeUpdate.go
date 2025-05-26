@@ -3,8 +3,8 @@ package alihealth2
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealth2"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealth2"
 )
 
 // AlibabaAlihealthDentalStoreInvisibleConsumeUpdate 门店无隐形消费签约

@@ -3,8 +3,8 @@ package jae
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jae"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jae"
 )
 
 // TaobaoAplatformWeakget 活动平台弱登录接口

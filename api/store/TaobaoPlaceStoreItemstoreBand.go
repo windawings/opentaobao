@@ -3,8 +3,8 @@ package store
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/store"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/store"
 )
 
 // TaobaoPlaceStoreItemstoreBand 门店商品关联绑定接口

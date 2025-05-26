@@ -1,4 +1,4 @@
-module github.com/bububa/opentaobao
+module github.com/windawings/opentaobao
 
 go 1.22.0
 

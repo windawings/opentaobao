@@ -3,8 +3,8 @@ package alisports
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alisports"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alisports"
 )
 
 // AlibabaAlisportsDataSportsSyncsportsdata 阿里体育数据中心用户运动数据同步接口

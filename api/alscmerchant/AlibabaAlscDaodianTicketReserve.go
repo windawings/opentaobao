@@ -3,8 +3,8 @@ package alscmerchant
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alscmerchant"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alscmerchant"
 )
 
 // AlibabaAlscDaodianTicketReserve 外部券冲正

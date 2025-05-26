@@ -3,8 +3,8 @@ package miniappopen
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniappopen"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniappopen"
 )
 
 // TaobaoMiniappTemplateInstantiate 构建实例化应用

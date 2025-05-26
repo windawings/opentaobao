@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTxcsBrandmarketingCouponStatisticsGetAPIRequest 品牌营销导购员券推广统计数据回流 API请求

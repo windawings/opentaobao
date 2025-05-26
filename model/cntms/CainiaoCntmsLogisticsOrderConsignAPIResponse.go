@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCntmsLogisticsOrderConsignAPIResponse 菜鸟配商家仓库发货 API返回值

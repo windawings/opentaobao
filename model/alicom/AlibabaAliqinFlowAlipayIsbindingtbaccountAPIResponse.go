@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAliqinFlowAlipayIsbindingtbaccountAPIResponse 判断支付宝用户是否绑定淘宝账号 API返回值

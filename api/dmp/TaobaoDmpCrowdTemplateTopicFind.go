@@ -3,8 +3,8 @@ package dmp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/dmp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/dmp"
 )
 
 // TaobaoDmpCrowdTemplateTopicFind 平台精选榜单和模版查询接口

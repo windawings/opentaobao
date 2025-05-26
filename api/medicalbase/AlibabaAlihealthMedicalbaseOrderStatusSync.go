@@ -3,8 +3,8 @@ package medicalbase
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/medicalbase"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/medicalbase"
 )
 
 // AlibabaAlihealthMedicalbaseOrderStatusSync 号源直连订单状态同步接口

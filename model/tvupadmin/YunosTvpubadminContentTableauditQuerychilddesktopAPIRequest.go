@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YunosTvpubadminContentTableauditQuerychilddesktopAPIRequest 迎客松查看小酷宝桌面坑位元数据列表 API请求

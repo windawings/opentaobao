@@ -3,8 +3,8 @@ package aliexpresssumaitong
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aliexpresssumaitong"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aliexpresssumaitong"
 )
 
 // AliexpressTaxationCalculateOpenQuery 关务所需的申报清关字段

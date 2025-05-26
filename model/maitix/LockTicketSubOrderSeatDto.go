@@ -3,7 +3,7 @@ package maitix
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // LockTicketSubOrderSeatDto 结构体

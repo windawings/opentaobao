@@ -3,8 +3,8 @@ package retail
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/retail"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/retail"
 )
 
 // AlibabaRetailElectronicCertificatePreConfirm 贩卖机开始核销接口

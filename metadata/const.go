@@ -3,7 +3,7 @@ package metadata
 import (
 	"strconv"
 
-	"github.com/bububa/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/metadata/util"
 )
 
 const (

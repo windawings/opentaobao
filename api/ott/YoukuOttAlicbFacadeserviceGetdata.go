@@ -3,8 +3,8 @@ package ott
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ott"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ott"
 )
 
 // YoukuOttAlicbFacadeserviceGetdata 影视SDK获取设备能力值

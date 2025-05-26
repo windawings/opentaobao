@@ -3,8 +3,8 @@ package car
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/car"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/car"
 )
 
 // TaobaoAlitripCarOrderStatus 商家订单状态改变通知接口（神州专车接口）

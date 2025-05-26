@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkUmsOrderGetAPIResponse 查询店仓作业单据清单 （库存对账辅助）-回流单 API返回值

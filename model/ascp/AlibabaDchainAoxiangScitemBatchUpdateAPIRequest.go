@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDchainAoxiangScitemBatchUpdateAPIRequest alibaba.dchain.aoxiang.scitem.batch.update API请求

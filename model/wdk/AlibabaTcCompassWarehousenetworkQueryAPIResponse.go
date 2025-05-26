@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTcCompassWarehousenetworkQueryAPIResponse 按仓维度来查询鸟潮网络 API返回值

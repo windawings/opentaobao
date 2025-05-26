@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallItemSeriesItemseriesRemoveitemfromseriesAPIRequest 从商品系列中移除商品 API请求

@@ -3,8 +3,8 @@ package cmns
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cmns"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cmns"
 )
 
 // YunosServiceCmnsCoaMessageresultGet CMNS消息发送到达查询

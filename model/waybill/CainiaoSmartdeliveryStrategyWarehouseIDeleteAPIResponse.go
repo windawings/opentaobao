@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoSmartdeliveryStrategyWarehouseIDeleteAPIResponse 删除智能发货引擎仓策略 API返回值

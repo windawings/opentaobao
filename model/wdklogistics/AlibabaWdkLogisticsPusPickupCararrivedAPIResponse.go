@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkLogisticsPusPickupCararrivedAPIResponse 自提业务-车辆到达上报车牌号 API返回值

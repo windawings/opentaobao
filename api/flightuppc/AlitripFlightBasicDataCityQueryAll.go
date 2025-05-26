@@ -3,8 +3,8 @@ package flightuppc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/flightuppc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/flightuppc"
 )
 
 // AlitripFlightBasicDataCityQueryAll 机票基础数据城市数据查询

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // MKvstoreAliyuncsComDescribeRegions20150301APIRequest 查看Region列表 API请求

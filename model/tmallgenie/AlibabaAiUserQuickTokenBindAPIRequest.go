@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAiUserQuickTokenBindAPIRequest 人工智能实验室精灵用户绑定第三方Token接口 API请求

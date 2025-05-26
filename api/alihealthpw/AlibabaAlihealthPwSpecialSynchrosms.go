@@ -3,8 +3,8 @@ package alihealthpw
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthpw"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthpw"
 )
 
 // AlibabaAlihealthPwSpecialSynchrosms 同步短信信息至阿里健康

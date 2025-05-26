@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSubwayKeywordOfflineLayeredfindAPIRequest 查询关键词离线报表30天转化周期 API请求

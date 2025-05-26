@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRhinoSupplychainOutboundPickingcompleteAPIResponse 【WMS005】接收成衣捡配完成通知 API返回值

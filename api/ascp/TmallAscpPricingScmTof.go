@@ -3,8 +3,8 @@ package ascp
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascp"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascp"
 )
 
 // TmallAscpPricingScmTof TOF&SCM营销域对接-成本录入设置

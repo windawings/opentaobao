@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarLeaseExceptionflowsynchronizeAPIResponse 天猫开新车租后异常流线下处理状态通知接口 API返回值

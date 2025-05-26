@@ -3,8 +3,8 @@ package alilabs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alilabs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alilabs"
 )
 
 // AlibabaAilabTbUserSkillOauth 用户技能 Oauth 授权（淘宝 openId）

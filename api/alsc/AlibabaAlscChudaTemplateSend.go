@@ -3,8 +3,8 @@ package alsc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alsc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alsc"
 )
 
 // AlibabaAlscChudaTemplateSend 本地生活触达模板消息发送接口

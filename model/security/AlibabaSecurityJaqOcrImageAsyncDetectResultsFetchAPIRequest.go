@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSecurityJaqOcrImageAsyncDetectResultsFetchAPIRequest 聚安全获取异步图文识别结果接口 API请求

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBrandStartshopRptWordpackageGetAPIRequest 明星店铺品牌流量包报表数据查询 API请求

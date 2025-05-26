@@ -3,8 +3,8 @@ package middleclaims
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/middleclaims"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/middleclaims"
 )
 
 // AlibabaMiddleClaimsacceptReceive 国际化中台服务域接收保险公司理赔受理结果

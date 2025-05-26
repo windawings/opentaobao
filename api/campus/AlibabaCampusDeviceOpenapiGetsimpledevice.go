@@ -3,8 +3,8 @@ package campus
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/campus"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/campus"
 )
 
 // AlibabaCampusDeviceOpenapiGetsimpledevice 获取单个设备的基础信息(仅包含设备id,code,是否启用,位置信息,描述等基础信息)

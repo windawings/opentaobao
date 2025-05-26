@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoServindustryFinanceInsuranceAgreementSignAPIResponse 保司合同签约后回调接口 API返回值

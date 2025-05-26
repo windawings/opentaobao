@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTaobaoUdSmartMonitorUrlCreateAPIResponse UD效果外投投放监测链接生成 API返回值

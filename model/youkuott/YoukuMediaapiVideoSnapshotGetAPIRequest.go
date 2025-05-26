@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuMediaapiVideoSnapshotGetAPIRequest 根据视频ID查询视频缩微图 API请求

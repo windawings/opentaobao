@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSpecialRefundsReceiveGetAPIRequest 特殊退款类型的纠纷单列表查询 API请求

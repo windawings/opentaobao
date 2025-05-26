@@ -3,8 +3,8 @@ package tmalltrend
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmalltrend"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmalltrend"
 )
 
 // TmallBrandItemUpload 天猫品牌新品同步API

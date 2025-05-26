@@ -3,8 +3,8 @@ package singletreasure
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/singletreasure"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/singletreasure"
 )
 
 // TaobaoSingletreasureActivityQuery 查询活动列表接口

@@ -3,8 +3,8 @@ package einvoice
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/einvoice"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/einvoice"
 )
 
 // AlibabaEinvoiceClosereq 关闭开票失败请求（失败列表可重试）

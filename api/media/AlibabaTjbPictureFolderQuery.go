@@ -3,8 +3,8 @@ package media
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/media"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/media"
 )
 
 // AlibabaTjbPictureFolderQuery 淘特图片空间用户文件夹查询

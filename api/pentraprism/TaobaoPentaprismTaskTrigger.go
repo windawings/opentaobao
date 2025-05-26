@@ -3,8 +3,8 @@ package pentraprism
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/pentraprism"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/pentraprism"
 )
 
 // TaobaoPentaprismTaskTrigger 推进单条任务进度

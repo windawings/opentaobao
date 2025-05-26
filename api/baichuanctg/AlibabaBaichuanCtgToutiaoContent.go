@@ -3,8 +3,8 @@ package baichuanctg
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/baichuanctg"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/baichuanctg"
 )
 
 // AlibabaBaichuanCtgToutiaoContent 微博输出头条数据

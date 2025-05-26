@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaScbpTargetAdPlanCrowdIdGetAPIRequest 定向推广-人群标签ID获取(店铺老客、优选人群) API请求

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaSscPurchaseServicedefinitionParamQueryAPIResponse 查询采购服务定义参数信息 API返回值

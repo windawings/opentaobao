@@ -3,8 +3,8 @@ package alihealthcert
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthcert"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthcert"
 )
 
 // AlibabaAlihealthExaminationReserveCertificateNotify 健康证服务商预约结果通知阿里健康

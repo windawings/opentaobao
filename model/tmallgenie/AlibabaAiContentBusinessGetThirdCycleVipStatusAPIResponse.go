@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAiContentBusinessGetThirdCycleVipStatusAPIResponse 天猫精灵商业化获取三方连续包会员状态 API返回值

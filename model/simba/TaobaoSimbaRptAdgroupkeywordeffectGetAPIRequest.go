@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaRptAdgroupkeywordeffectGetAPIRequest 推广组下的词效果报表数据查询(明细数据不分类型查询) API请求

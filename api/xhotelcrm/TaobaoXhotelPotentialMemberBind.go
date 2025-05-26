@@ -3,8 +3,8 @@ package xhotelcrm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/xhotelcrm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/xhotelcrm"
 )
 
 // TaobaoXhotelPotentialMemberBind 飞猪酒店商家会员绑定

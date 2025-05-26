@@ -3,8 +3,8 @@ package ascpqcc
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ascpqcc"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ascpqcc"
 )
 
 // AlibabaAscpQccSampleUpdate 品控中心更新样品信息

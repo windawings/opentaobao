@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuOttAlicbFacadeserviceGetdataAPIResponse 影视SDK获取设备能力值 API返回值

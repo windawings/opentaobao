@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugKytSpeciaVaccinGetentinfoAPIRequest 通过企业名得到唯一标识(ref_ent_id)及企业ID(ent_id) API请求

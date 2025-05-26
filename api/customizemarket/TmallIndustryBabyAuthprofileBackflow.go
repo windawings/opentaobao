@@ -3,8 +3,8 @@ package customizemarket
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/customizemarket"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/customizemarket"
 )
 
 // TmallIndustryBabyAuthprofileBackflow 孕校云回流档案

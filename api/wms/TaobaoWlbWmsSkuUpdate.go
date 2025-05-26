@@ -3,8 +3,8 @@ package wms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wms"
 )
 
 // TaobaoWlbWmsSkuUpdate 商品信息的更新

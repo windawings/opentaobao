@@ -3,8 +3,8 @@ package refund
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/refund"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/refund"
 )
 
 // TaobaoRdcAligeniusIdentificationCaseUpdate 鉴定工单信息同步

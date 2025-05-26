@@ -3,8 +3,8 @@ package jstsecret
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jstsecret"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jstsecret"
 )
 
 // TaobaoJstSecretGet 获取订单消费者的隐私号码

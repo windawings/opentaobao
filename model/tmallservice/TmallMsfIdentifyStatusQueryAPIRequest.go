@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallMsfIdentifyStatusQueryAPIRequest 喵师傅定案核销状态查询 API请求

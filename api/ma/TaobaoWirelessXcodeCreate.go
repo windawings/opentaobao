@@ -3,8 +3,8 @@ package ma
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ma"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ma"
 )
 
 // TaobaoWirelessXcodeCreate 创建二维码/短连接

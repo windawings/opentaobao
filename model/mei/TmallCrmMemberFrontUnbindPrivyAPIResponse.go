@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCrmMemberFrontUnbindPrivyAPIResponse 品牌会员解绑(隐私号版） API返回值

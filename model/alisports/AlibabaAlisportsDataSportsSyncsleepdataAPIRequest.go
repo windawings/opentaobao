@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlisportsDataSportsSyncsleepdataAPIRequest 阿里体育数据中心用户睡眠数据同步接口 API请求

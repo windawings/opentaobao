@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkFulfillDmsEbeecakeWorkOrderCallbackAPIRequest 北京小蜜蜂配作业回传 API请求

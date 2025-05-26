@@ -3,8 +3,8 @@ package wms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wms"
 )
 
 // TaobaoWlbWmsInventoryQuery 菜鸟商品库存查询

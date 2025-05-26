@@ -3,8 +3,8 @@ package alihealthpw
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealthpw"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealthpw"
 )
 
 // AlibabaAlihealthPwSpecialSynchronode 合作方同步状态至阿里健康

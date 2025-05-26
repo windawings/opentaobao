@@ -3,8 +3,8 @@ package dutyfree
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/dutyfree"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/dutyfree"
 )
 
 // AlibabaDutyfreeStockQuery 对外库存查询接口

@@ -3,8 +3,8 @@ package interact
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/interact"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/interact"
 )
 
 // AlibabaInteractSensorCalendar 天猫互动游戏开放平台需要授权的传感器类接口(日历提醒)

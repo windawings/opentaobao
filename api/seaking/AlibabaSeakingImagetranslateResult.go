@@ -3,8 +3,8 @@ package seaking
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/seaking"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/seaking"
 )
 
 // AlibabaSeakingImagetranslateResult 获取图片翻译任务结果

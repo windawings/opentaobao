@@ -3,8 +3,8 @@ package iot
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/iot"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/iot"
 )
 
 // AlibabaAilabsIotBusinessRecipeGetpage 分页查询食谱

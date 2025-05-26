@@ -3,8 +3,8 @@ package alihealth2
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alihealth2"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alihealth2"
 )
 
 // AlibabaHealthNrCepOutorderUpload 线上订单收货验收单、出入库单据生成接口

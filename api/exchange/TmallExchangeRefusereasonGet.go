@@ -3,8 +3,8 @@ package exchange
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/exchange"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/exchange"
 )
 
 // TmallExchangeRefusereasonGet 获取拒绝换货原因列表

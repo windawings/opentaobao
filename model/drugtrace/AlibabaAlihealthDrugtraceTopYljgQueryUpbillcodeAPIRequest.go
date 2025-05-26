@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthDrugtraceTopYljgQueryUpbillcodeAPIRequest 通过一个码，查询这个码对应的上游企业出库单的单据号 API请求

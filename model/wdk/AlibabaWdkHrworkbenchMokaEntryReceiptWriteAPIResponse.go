@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkHrworkbenchMokaEntryReceiptWriteAPIResponse 摩卡确认入职后往入职单据表写数据接口 API返回值

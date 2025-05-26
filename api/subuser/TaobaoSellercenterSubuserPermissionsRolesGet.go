@@ -3,8 +3,8 @@ package subuser
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/subuser"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/subuser"
 )
 
 // TaobaoSellercenterSubuserPermissionsRolesGet 查询指定的子账号的权限和角色信息

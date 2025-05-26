@@ -3,8 +3,8 @@ package caipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/caipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/caipiao"
 )
 
 // TaobaoCaipiaoPresentStatGet 获取卖家按天统计的彩票赠送数据

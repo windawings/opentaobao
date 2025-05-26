@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAppleCardActiveApplyNotifyAPIRequest 苹果卡密申请激活回调接口 API请求

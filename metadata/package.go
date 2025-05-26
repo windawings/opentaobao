@@ -6,7 +6,7 @@ import (
 	// 使用go 1.16以上版本的embed功能
 	_ "embed"
 
-	"github.com/bububa/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/metadata/util"
 )
 
 // PkgConfig SDK分包配置结构体

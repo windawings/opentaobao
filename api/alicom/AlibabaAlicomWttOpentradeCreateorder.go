@@ -3,8 +3,8 @@ package alicom
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alicom"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alicom"
 )
 
 // AlibabaAlicomWttOpentradeCreateorder 充值送活动下单接口

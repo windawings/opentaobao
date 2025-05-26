@@ -3,8 +3,8 @@ package filmtfavatar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/filmtfavatar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/filmtfavatar"
 )
 
 // TaobaoFilmTfavatarBillSalePrintQuery 获取影院卖品账单-核销账单

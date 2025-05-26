@@ -3,8 +3,8 @@ package miniappcloud
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/miniappcloud"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/miniappcloud"
 )
 
 // TaobaoMiniappCloudMongoInsert MongoDB插入单条数据

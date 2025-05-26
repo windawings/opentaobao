@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallServiceSettlementFbBillDetailQueryAPIRequest 服务商工单结算对账查询-流水查询 API请求

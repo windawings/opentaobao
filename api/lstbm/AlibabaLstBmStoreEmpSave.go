@@ -3,8 +3,8 @@ package lstbm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/lstbm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/lstbm"
 )
 
 // AlibabaLstBmStoreEmpSave 保存品牌商自有门店和内部业代之间的关系

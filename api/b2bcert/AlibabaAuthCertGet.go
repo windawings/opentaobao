@@ -3,8 +3,8 @@ package b2bcert
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/b2bcert"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/b2bcert"
 )
 
 // AlibabaAuthCertGet 获取证书数据

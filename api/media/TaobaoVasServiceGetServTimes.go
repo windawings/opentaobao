@@ -3,8 +3,8 @@ package media
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/media"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/media"
 )
 
 // TaobaoVasServiceGetServTimes 查询某个用户图片空间的使用情况

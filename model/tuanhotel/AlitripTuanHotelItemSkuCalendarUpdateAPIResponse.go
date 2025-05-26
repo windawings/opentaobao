@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTuanHotelItemSkuCalendarUpdateAPIResponse 酒店非标套餐商品日历库存宝贝SKU更新接口 API返回值

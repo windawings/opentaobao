@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRecycleOfnpreredpacketGetAPIRequest 服务商查询前置补贴红包的最新数据 API请求

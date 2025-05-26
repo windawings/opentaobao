@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTmallgenieHotelplayerpauseAPIRequest 天猫精灵酒店播放暂停 API请求

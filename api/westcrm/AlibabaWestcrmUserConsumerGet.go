@@ -3,8 +3,8 @@ package westcrm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/westcrm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/westcrm"
 )
 
 // AlibabaWestcrmUserConsumerGet 获取指定用户的消费总额

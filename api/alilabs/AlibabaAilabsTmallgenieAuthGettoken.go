@@ -3,8 +3,8 @@ package alilabs
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alilabs"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alilabs"
 )
 
 // AlibabaAilabsTmallgenieAuthGettoken 设备授权

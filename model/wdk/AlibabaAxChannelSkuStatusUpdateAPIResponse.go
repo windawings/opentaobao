@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAxChannelSkuStatusUpdateAPIResponse 翱象渠道商品上下架接口 API返回值

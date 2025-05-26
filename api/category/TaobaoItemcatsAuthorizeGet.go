@@ -3,8 +3,8 @@ package category
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/category"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/category"
 )
 
 // TaobaoItemcatsAuthorizeGet 查询商家被授权品牌列表和类目列表

@@ -3,8 +3,8 @@ package baichuan
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/baichuan"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/baichuan"
 )
 
 // TaobaoBaichuanOpenaccountRegistercodeCheck 百川检查注册验证码

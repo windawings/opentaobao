@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaModifyaddressIsvBindsellerCheckAPIResponse 查询服务商下的商家是否开通了改地址 API返回值

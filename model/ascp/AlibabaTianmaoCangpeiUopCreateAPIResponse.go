@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTianmaoCangpeiUopCreateAPIResponse 阿里巴巴.天猫家装.仓配.履约订单.创建 API返回值

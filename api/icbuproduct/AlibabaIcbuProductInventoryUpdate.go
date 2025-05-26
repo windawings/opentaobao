@@ -3,8 +3,8 @@ package icbuproduct
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbuproduct"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbuproduct"
 )
 
 // AlibabaIcbuProductInventoryUpdate icbu商品库存更新

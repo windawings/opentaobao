@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTbkCouponGetAPIRequest 淘宝客-公用-阿里妈妈推广券详情查询 API请求

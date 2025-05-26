@@ -12,8 +12,8 @@ import (
 	"sort"
 	"text/template"
 
-	"github.com/bububa/opentaobao/metadata"
-	"github.com/bububa/opentaobao/metadata/util"
+	"github.com/windawings/opentaobao/metadata"
+	"github.com/windawings/opentaobao/metadata/util"
 )
 
 // Gen 生成SDK入口

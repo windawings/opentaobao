@@ -3,8 +3,8 @@ package tbuser
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tbuser"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tbuser"
 )
 
 // TaobaoUserSellerGet 查询卖家用户信息

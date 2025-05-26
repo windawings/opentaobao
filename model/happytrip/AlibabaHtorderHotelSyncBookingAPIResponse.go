@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHtorderHotelSyncBookingAPIResponse 未来酒店亲橙客栈预订信息同步 API返回值

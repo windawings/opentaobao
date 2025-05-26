@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripPlatformDivisionsQuerybyparentidAPIRequest 根据父节点id查询下级行政区划数据 API请求

@@ -3,8 +3,8 @@ package tblogistics
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tblogistics"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tblogistics"
 )
 
 // TaobaoLogisticsOnlineSend 在线订单发货处理（支持货到付款）

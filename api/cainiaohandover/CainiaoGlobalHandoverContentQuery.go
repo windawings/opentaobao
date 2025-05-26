@@ -3,8 +3,8 @@ package cainiaohandover
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cainiaohandover"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cainiaohandover"
 )
 
 // CainiaoGlobalHandoverContentQuery 查询大包详情

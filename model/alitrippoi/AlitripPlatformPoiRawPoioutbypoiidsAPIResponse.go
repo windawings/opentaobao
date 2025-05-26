@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripPlatformPoiRawPoioutbypoiidsAPIResponse 根据poiId输出飞猪poi数据 API返回值

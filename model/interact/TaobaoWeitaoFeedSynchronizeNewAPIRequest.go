@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoWeitaoFeedSynchronizeNewAPIRequest 推广淘小铺isv 活动到微淘feed API请求

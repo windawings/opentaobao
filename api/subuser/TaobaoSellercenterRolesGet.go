@@ -3,8 +3,8 @@ package subuser
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/subuser"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/subuser"
 )
 
 // TaobaoSellercenterRolesGet 获取指定卖家的角色列表

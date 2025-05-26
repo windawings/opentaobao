@@ -3,8 +3,8 @@ package hotelhstdf
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotelhstdf"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotelhstdf"
 )
 
 // AlitripHotelHstdfShotelRoomtypeMappingsList 根据HID获取所有卖家房型匹配关系

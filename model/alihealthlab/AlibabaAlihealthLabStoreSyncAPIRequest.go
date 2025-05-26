@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlihealthLabStoreSyncAPIRequest 阿里健康检验检测业务，isv门店同步到健康 API请求

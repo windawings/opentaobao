@@ -3,8 +3,8 @@ package maitix
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/maitix"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/maitix"
 )
 
 // AlibabaDamaiMaitixProjectDistributionQuerylist 分销项目列表查询（已过时，不推荐使用）

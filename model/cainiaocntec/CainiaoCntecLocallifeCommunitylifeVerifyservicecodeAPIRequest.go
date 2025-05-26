@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoCntecLocallifeCommunitylifeVerifyservicecodeAPIRequest 验证码验证 API请求

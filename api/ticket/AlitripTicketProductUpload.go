@@ -3,8 +3,8 @@ package ticket
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/ticket"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/ticket"
 )
 
 // AlitripTicketProductUpload 【门票API2.0】门票收费项目管理接口

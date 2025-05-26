@@ -3,8 +3,8 @@ package nrt
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nrt"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nrt"
 )
 
 // TmallNrtAssetAuthorizationAdd 增加数据权限授权

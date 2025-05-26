@@ -3,7 +3,7 @@ package fundplatform
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // FundAccountResponse 结构体

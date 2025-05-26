@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoNbaddAppointdeliverFeedbackcodesAPIRequest 服务质量反馈编码列表 API请求

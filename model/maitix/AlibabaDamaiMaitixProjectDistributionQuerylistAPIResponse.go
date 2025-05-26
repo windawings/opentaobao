@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDamaiMaitixProjectDistributionQuerylistAPIResponse 分销项目列表查询（已过时，不推荐使用） API返回值

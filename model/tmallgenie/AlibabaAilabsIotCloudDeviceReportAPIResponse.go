@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAilabsIotCloudDeviceReportAPIResponse 天猫精灵云云接入设备状态、事件上报接口 API返回值

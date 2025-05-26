@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // MKvstoreAliyuncsComCreateInstance20150301APIRequest 创建OCS实例 API请求

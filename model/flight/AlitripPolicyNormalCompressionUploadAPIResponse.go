@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripPolicyNormalCompressionUploadAPIResponse 大批量上传普通类型的单程/往返政策 API返回值

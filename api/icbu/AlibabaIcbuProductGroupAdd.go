@@ -3,8 +3,8 @@ package icbu
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icbu"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icbu"
 )
 
 // AlibabaIcbuProductGroupAdd 增加商品分组

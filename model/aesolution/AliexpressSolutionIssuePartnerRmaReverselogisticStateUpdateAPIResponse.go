@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AliexpressSolutionIssuePartnerRmaReverselogisticStateUpdateAPIResponse aliexpress.solution.issue.partner.rma.reverselogistic.state.update API返回值

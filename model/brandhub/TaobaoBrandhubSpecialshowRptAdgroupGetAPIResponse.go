@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBrandhubSpecialshowRptAdgroupGetAPIResponse 品牌号品牌特秀单元报表数据查询 API返回值

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // CainiaoConsignplatformOrderCancelAPIRequest 菜鸟发货工作台取消包裹以及订单 API请求

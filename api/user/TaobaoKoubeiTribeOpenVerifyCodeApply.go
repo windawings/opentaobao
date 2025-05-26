@@ -3,8 +3,8 @@ package user
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/user"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/user"
 )
 
 // TaobaoKoubeiTribeOpenVerifyCodeApply 口碑综合体手机号获取验证码

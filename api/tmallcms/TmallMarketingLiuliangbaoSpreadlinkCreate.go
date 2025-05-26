@@ -3,8 +3,8 @@ package tmallcms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallcms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallcms"
 )
 
 // TmallMarketingLiuliangbaoSpreadlinkCreate 创建流量宝活动链接

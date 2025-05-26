@@ -3,7 +3,7 @@ package alihouse
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // EbbasItemDto 结构体

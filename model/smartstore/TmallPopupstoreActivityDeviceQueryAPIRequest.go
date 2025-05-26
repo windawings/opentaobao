@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallPopupstoreActivityDeviceQueryAPIRequest 根据活动id查询活动相关快闪店及设备信息 API请求

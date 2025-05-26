@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoVirtualDsfSupplierInterfaceSwitchAPIResponse 虚拟供应商履约接口切换 API返回值

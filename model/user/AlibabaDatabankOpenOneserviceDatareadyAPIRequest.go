@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaDatabankOpenOneserviceDatareadyAPIRequest 瓴羊DaaS消费者增长CGP查询DataReady API请求

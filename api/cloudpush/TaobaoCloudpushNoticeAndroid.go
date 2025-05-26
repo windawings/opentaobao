@@ -3,8 +3,8 @@ package cloudpush
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/cloudpush"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/cloudpush"
 )
 
 // TaobaoCloudpushNoticeAndroid 百川云推送发送通知给android

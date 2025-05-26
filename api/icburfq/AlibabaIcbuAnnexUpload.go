@@ -3,8 +3,8 @@ package icburfq
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/icburfq"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/icburfq"
 )
 
 // AlibabaIcbuAnnexUpload 上传附件获取附件files_str

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuMediaapiVideoSnapshotGetAPIResponse 根据视频ID查询视频缩微图 API返回值

@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoMobilePromotionCouponSellerSearchAPIResponse 查询绑定卖家优惠券相关信息(手淘专用) API返回值

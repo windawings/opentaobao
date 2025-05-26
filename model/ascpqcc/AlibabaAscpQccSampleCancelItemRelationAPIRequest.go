@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpQccSampleCancelItemRelationAPIRequest 魅力惠样品解除父子商品关系 API请求

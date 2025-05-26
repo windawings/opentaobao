@@ -3,8 +3,8 @@ package wms
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wms"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wms"
 )
 
 // TaobaoWlbWmsStockOutBillGet 通过订单号获取单个出库单发货信息

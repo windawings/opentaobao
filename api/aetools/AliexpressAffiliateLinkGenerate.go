@@ -3,8 +3,8 @@ package aetools
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aetools"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aetools"
 )
 
 // AliexpressAffiliateLinkGenerate 联盟推广链接生成

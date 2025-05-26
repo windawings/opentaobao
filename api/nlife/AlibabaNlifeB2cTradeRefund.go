@@ -3,8 +3,8 @@ package nlife
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/nlife"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/nlife"
 )
 
 // AlibabaNlifeB2cTradeRefund 零售+请求退款

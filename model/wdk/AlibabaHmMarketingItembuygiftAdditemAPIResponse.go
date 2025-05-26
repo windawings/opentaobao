@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaHmMarketingItembuygiftAdditemAPIResponse 增加买赠活动商品。【注意，此接口暂不支持并发！】 API返回值

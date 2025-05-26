@@ -3,8 +3,8 @@ package hotelalliance
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/hotelalliance"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/hotelalliance"
 )
 
 // AlitripHotelAllianceSettleOrderSyn 菲住联盟分账成功订单同步

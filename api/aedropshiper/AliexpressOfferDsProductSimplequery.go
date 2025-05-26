@@ -3,8 +3,8 @@ package aedropshiper
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/aedropshiper"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/aedropshiper"
 )
 
 // AliexpressOfferDsProductSimplequery Dropshipper查询单个商品的简易信息

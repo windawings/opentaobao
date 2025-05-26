@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoRhinoSupplychainOutboundPickingcompleteAPIRequest 【WMS005】接收成衣捡配完成通知 API请求

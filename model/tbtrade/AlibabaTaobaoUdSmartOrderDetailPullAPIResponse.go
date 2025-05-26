@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaTaobaoUdSmartOrderDetailPullAPIResponse UD效果外投订单明细拉取 API返回值

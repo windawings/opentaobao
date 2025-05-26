@@ -3,8 +3,8 @@ package idleisv
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/idleisv"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/idleisv"
 )
 
 // AlibabaIdleIsvUserInfo 闲鱼用户信息查询接口

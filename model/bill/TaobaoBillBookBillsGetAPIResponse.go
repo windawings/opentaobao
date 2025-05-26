@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBillBookBillsGetAPIResponse 查询虚拟账户明细数据(自研发商家专用) API返回值

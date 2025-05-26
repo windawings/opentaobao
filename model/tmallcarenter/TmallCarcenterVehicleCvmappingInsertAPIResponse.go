@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarcenterVehicleCvmappingInsertAPIResponse EPC车辆版本信息与底盘信息库关系绑定 API返回值

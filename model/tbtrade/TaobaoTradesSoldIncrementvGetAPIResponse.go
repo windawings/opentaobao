@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoTradesSoldIncrementvGetAPIResponse 查询卖家已卖出的增量交易数据（根据入库时间） API返回值

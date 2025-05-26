@@ -3,7 +3,7 @@ package servicecenter
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallCarContractDownloadResult 结构体

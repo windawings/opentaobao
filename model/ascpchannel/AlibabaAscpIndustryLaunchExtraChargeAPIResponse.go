@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAscpIndustryLaunchExtraChargeAPIResponse 阿里巴巴.行业.增加费用.服务商发起 API返回值

@@ -1,12 +1,12 @@
 # 淘宝开放平台 golang SDK
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/bububa/opentaobao.svg)](https://pkg.go.dev/github.com/bububa/opentaobao)
-[![Go](https://github.com/bububa/opentaobao/actions/workflows/go.yml/badge.svg)](https://github.com/bububa/opentaobao/actions/workflows/go.yml)
-[![goreleaser](https://github.com/bububa/opentaobao/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/bububa/opentaobao/actions/workflows/goreleaser.yml)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/opentaobao.svg)](https://github.com/bububa/opentaobao)
-[![GoReportCard](https://goreportcard.com/badge/github.com/bububa/opentaobao)](https://goreportcard.com/report/github.com/bububa/opentaobao)
-[![GitHub license](https://img.shields.io/github/license/bububa/opentaobao.svg)](https://github.com/bububa/opentaobao/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/bububa/opentaobao.svg)](https://GitHub.com/bububa/opentaobao/releases/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/windawings/opentaobao.svg)](https://pkg.go.dev/github.com/windawings/opentaobao)
+[![Go](https://github.com/windawings/opentaobao/actions/workflows/go.yml/badge.svg)](https://github.com/windawings/opentaobao/actions/workflows/go.yml)
+[![goreleaser](https://github.com/windawings/opentaobao/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/windawings/opentaobao/actions/workflows/goreleaser.yml)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/opentaobao.svg)](https://github.com/windawings/opentaobao)
+[![GoReportCard](https://goreportcard.com/badge/github.com/windawings/opentaobao)](https://goreportcard.com/report/github.com/windawings/opentaobao)
+[![GitHub license](https://img.shields.io/github/license/bububa/opentaobao.svg)](https://github.com/windawings/opentaobao/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/bububa/opentaobao.svg)](https://github.com/windawings/opentaobao/releases/)
 
 ## 编译工具链
 ```sh
@@ -44,9 +44,9 @@ import (
     "context"
     "log"
 
-    "github.com/bububa/opentaobao/core"
-    userModel "github.com/bububa/opentaobao/model/user"
-    userApi "github.com/bububa/opentaobao/api/user"
+    "github.com/windawings/opentaobao/core"
+    userModel "github.com/windawings/opentaobao/model/user"
+    userApi "github.com/windawings/opentaobao/api/user"
 )
 
 func main() {
@@ -100,6 +100,6 @@ AlibabaWdkFinanceOrderBackflow API中的ApiResult会被重命名为AlibabaWdkFin
 | 淘宝API分类 | 对应SDK package |
 | ---------- | ---------- |
 {{- range $v := .Pkgs }}
-| [x] [{{ $v.Name }}]({{ $v.Link }}) | [github.com/bububa/opentaobao/api/{{ $v.Pkg }}](https://pkg.go.dev/github.com/bububa/opentaobao/api/{{ $v.Pkg }}) |
+| [x] [{{ $v.Name }}]({{ $v.Link }}) | [github.com/windawings/opentaobao/api/{{ $v.Pkg }}](https://pkg.go.dev/github.com/windawings/opentaobao/api/{{ $v.Pkg }}) |
 {{- end  }}
 

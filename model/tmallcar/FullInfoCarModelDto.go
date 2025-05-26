@@ -3,7 +3,7 @@ package tmallcar
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // FullInfoCarModelDto 结构体

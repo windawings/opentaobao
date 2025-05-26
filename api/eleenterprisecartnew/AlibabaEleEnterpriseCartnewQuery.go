@@ -3,8 +3,8 @@ package eleenterprisecartnew
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/eleenterprisecartnew"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/eleenterprisecartnew"
 )
 
 // AlibabaEleEnterpriseCartnewQuery 新版购物车查询

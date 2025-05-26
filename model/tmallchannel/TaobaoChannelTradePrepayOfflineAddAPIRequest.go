@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoChannelTradePrepayOfflineAddAPIRequest 渠道分销供应商上传线下流水预存款（增加） API请求

@@ -3,8 +3,8 @@ package alitripdivisions
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripdivisions"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripdivisions"
 )
 
 // AlitripPlatformDivisionsQuerybyparentid 根据父节点id查询下级行政区划数据

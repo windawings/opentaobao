@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCcoSelfCoordinateHandleFinishAPIRequest 天猫国际直购供应商处理完结回复通知 API请求

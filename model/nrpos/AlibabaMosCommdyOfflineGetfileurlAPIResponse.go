@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaMosCommdyOfflineGetfileurlAPIResponse 去前置机pos商品离线文件下载地址查询接口 API返回值

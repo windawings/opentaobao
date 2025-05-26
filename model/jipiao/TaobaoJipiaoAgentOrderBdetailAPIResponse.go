@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoJipiaoAgentOrderBdetailAPIResponse 【机票代理商订单】采购订单详情 API返回值

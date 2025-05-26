@@ -3,8 +3,8 @@ package moziacl
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/moziacl"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/moziacl"
 )
 
 // AlibabaMoziAclPermissionPageRolepermission 分页查询角色下包含的权限列表

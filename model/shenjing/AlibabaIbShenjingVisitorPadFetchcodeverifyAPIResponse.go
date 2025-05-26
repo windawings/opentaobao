@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIbShenjingVisitorPadFetchcodeverifyAPIResponse 访客通过PAD提交访客码 API返回值

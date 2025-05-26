@@ -3,8 +3,8 @@ package guoguo
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/guoguo"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/guoguo"
 )
 
 // CainiaoGuoguoBackupGraborderTakepackage 兜底派送订单的揽件接口

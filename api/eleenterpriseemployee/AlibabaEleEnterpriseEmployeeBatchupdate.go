@@ -3,8 +3,8 @@ package eleenterpriseemployee
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/eleenterpriseemployee"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/eleenterpriseemployee"
 )
 
 // AlibabaEleEnterpriseEmployeeBatchupdate 批量新增更新员工

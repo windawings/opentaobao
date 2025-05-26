@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstPosOpenInventorySyncinventorydataAPIResponse 商品库存修改同步接口(最多20条库存信息) API返回值

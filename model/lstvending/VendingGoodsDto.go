@@ -3,7 +3,7 @@ package lstvending
 import (
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // VendingGoodsDto 结构体

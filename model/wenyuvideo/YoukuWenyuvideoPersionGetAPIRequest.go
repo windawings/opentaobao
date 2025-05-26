@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // YoukuWenyuvideoPersionGetAPIRequest 根据优酷人物ID获取人物详情页，包含相关影视和相关人物 API请求

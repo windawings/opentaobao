@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoSimbaRptAdgroupcreativebaseGetAPIRequest 推广组下创意报表基础数据查询(汇总数据，不分类型) API请求

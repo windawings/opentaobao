@@ -3,8 +3,8 @@ package wlbimports
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/wlbimports"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/wlbimports"
 )
 
 // TaobaoWlbImportsResourceTransferstoreGet 根据指定的资源获取所有中转仓列表

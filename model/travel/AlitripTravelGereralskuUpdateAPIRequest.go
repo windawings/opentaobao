@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripTravelGereralskuUpdateAPIRequest 发布SKU信息（如果properties重复 则更新） API请求

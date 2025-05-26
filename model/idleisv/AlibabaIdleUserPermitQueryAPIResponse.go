@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaIdleUserPermitQueryAPIResponse 查询服务商与卖家之间的订单消息绑定关系 API返回值

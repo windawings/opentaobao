@@ -3,8 +3,8 @@ package feedflow
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/feedflow"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/feedflow"
 )
 
 // TaobaoFeedflowItemCrowdAdd 单品单元下，新增定向人群

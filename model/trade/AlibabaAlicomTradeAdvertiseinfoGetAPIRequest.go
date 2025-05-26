@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaAlicomTradeAdvertiseinfoGetAPIRequest 获取订单上的在信息流投放信息 API请求

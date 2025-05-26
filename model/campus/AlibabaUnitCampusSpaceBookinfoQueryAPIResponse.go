@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaUnitCampusSpaceBookinfoQueryAPIResponse 环路资源信息查询单元环境 API返回值

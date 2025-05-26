@@ -3,8 +3,8 @@ package opentrade
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/opentrade"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/opentrade"
 )
 
 // TaobaoOpentradeActivitySync 尖货交易活动信息同步

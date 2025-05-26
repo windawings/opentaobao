@@ -3,8 +3,8 @@ package yunosdm
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/yunosdm"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/yunosdm"
 )
 
 // YunosDmSysGetDomain 获取动态域名

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TmallTraderateFeedsGetAPIRequest 查询子订单对应的评价、追评以及语义标签 API请求

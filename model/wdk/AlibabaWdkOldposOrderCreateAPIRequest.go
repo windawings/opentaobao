@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaWdkOldposOrderCreateAPIRequest 淘鲜达外部商户老pos机产生的订单同步进淘鲜达 API请求

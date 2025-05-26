@@ -3,8 +3,8 @@ package auction
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/auction"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/auction"
 )
 
 // TaobaoAuctionGovDataMonthlyGet 按月统计法院拍卖数据

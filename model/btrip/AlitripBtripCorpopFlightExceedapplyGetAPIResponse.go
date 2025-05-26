@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlitripBtripCorpopFlightExceedapplyGetAPIResponse 商旅机票第三方超标审批单搜索接口 API返回值

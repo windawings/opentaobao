@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // AlibabaLstLogisticsThirdpartSendAPIRequest 供应商-异云-使用第三方物流发货 API请求

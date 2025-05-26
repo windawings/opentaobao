@@ -3,8 +3,8 @@ package shop
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/shop"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/shop"
 )
 
 // AlibabaDataItemGet 获取商品

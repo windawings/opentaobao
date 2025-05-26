@@ -3,8 +3,8 @@ package alitripcar
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alitripcar"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alitripcar"
 )
 
 // TaobaoAlitripCarOrderAgentCancel 司机或客服取消订单

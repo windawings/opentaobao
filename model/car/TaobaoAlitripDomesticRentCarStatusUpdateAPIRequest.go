@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoAlitripDomesticRentCarStatusUpdateAPIRequest 航旅国内租车订单状态更新 API请求

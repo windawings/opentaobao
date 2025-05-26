@@ -3,8 +3,8 @@ package usergrowth2
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/usergrowth2"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/usergrowth2"
 )
 
 // TaobaoUsergrowthAdMaterialDataSync 素材投放效果数据回传

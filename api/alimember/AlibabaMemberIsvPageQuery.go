@@ -3,8 +3,8 @@ package alimember
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/alimember"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/alimember"
 )
 
 // AlibabaMemberIsvPageQuery isv离线会员数据分页查询

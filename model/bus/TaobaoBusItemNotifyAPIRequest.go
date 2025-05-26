@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoBusItemNotifyAPIRequest 汽车票城际巴士车次变更通知飞猪接口 API请求

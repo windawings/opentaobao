@@ -3,8 +3,8 @@ package tmallitem
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/tmallitem"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/tmallitem"
 )
 
 // TmallItemsExtendSearch 搜索天猫商品

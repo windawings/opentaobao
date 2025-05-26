@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"sync"
 
-	"github.com/bububa/opentaobao/model"
+	"github.com/windawings/opentaobao/model"
 )
 
 // TaobaoCcoSelfCoordinateHandleFinishAPIResponse 天猫国际直购供应商处理完结回复通知 API返回值

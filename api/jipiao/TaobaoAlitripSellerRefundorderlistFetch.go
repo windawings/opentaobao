@@ -3,8 +3,8 @@ package jipiao
 import (
 	"context"
 
-	"github.com/bububa/opentaobao/core"
-	"github.com/bububa/opentaobao/model/jipiao"
+	"github.com/windawings/opentaobao/core"
+	"github.com/windawings/opentaobao/model/jipiao"
 )
 
 // TaobaoAlitripSellerRefundorderlistFetch 【机票代理商】——退票订单列表提取
