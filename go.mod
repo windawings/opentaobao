@@ -1,6 +1,6 @@
 module github.com/bububa/opentaobao
 
-go 1.23.0
+go 1.22.0
 
 require (
 	go.opentelemetry.io/otel v1.34.0
