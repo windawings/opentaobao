@@ -64,7 +64,7 @@ type TaobaoXhotelRoomtypeUpdateAPIRequest struct {
 	// （已废弃）
 	_hid int64
 	// 房型状态。0:正常，-1:删除，-2:停售
-	_status *model.File
+	_status int64
 	// 属性值为1: 含义是非直连房型
 	_connectionType int64
 }
@@ -103,7 +103,7 @@ func (r *TaobaoXhotelRoomtypeUpdateAPIRequest) Reset() {
 	r._windowType = 0
 	r._srid = 0
 	r._hid = 0
-	r._status = nil
+	r._status = 0
 	r._connectionType = 0
 	r.Params.ToZero()
 }
@@ -452,14 +452,14 @@ func (r TaobaoXhotelRoomtypeUpdateAPIRequest) GetHid() int64 {
 
 // SetStatus is Status Setter
 // 房型状态。0:正常，-1:删除，-2:停售
-func (r *TaobaoXhotelRoomtypeUpdateAPIRequest) SetStatus(_status *model.File) error {
+func (r *TaobaoXhotelRoomtypeUpdateAPIRequest) SetStatus(_status int64) error {
 	r._status = _status
 	r.Set("status", _status)
 	return nil
 }
 
 // GetStatus Status Getter
-func (r TaobaoXhotelRoomtypeUpdateAPIRequest) GetStatus() *model.File {
+func (r TaobaoXhotelRoomtypeUpdateAPIRequest) GetStatus() int64 {
 	return r._status
 }
 
