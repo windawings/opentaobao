@@ -42,7 +42,7 @@ type TaobaoXhotelRoomUpdateAPIRequest struct {
 	// 保留房库存截止时间
 	_allotmentStartTime string
 	// 废弃，使用out_rid
-	_gid int64
+	_gid string
 	// 废弃，宝贝图片，没有默认使用标准酒店房型图片
 	_pic *model.File
 	// 宝贝状态,1上架。
@@ -74,7 +74,7 @@ func (r *TaobaoXhotelRoomUpdateAPIRequest) Reset() {
 	r._superbookStartTime = ""
 	r._allotmentEndTime = ""
 	r._allotmentStartTime = ""
-	r._gid = 0
+	r._gid = ""
 	r._pic = nil
 	r._status = 0
 	r._hasReceipt = false
@@ -282,14 +282,14 @@ func (r TaobaoXhotelRoomUpdateAPIRequest) GetAllotmentStartTime() string {
 
 // SetGid is Gid Setter
 // 废弃，使用out_rid
-func (r *TaobaoXhotelRoomUpdateAPIRequest) SetGid(_gid int64) error {
+func (r *TaobaoXhotelRoomUpdateAPIRequest) SetGid(_gid string) error {
 	r._gid = _gid
 	r.Set("gid", _gid)
 	return nil
 }
 
 // GetGid Gid Getter
-func (r TaobaoXhotelRoomUpdateAPIRequest) GetGid() int64 {
+func (r TaobaoXhotelRoomUpdateAPIRequest) GetGid() string {
 	return r._gid
 }
 

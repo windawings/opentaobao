@@ -28,13 +28,13 @@ type TaobaoXhotelRoomUpdateAPIResponseModel struct {
 	// 平台颁发的每次请求访问的唯一标识
 	RequestId string `json:"request_id,omitempty" xml:"request_id,omitempty"`
 	// gid酒店商品id
-	Gid int64 `json:"gid,omitempty" xml:"gid,omitempty"`
+	Gid string `json:"gid,omitempty" xml:"gid,omitempty"`
 }
 
 // Reset 清空结构体
 func (m *TaobaoXhotelRoomUpdateAPIResponseModel) Reset() {
 	m.RequestId = ""
-	m.Gid = 0
+	m.Gid = ""
 }
 
 var poolTaobaoXhotelRoomUpdateAPIResponse = sync.Pool{
